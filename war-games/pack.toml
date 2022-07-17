@@ -1,12 +1,12 @@
 name = "War Games"
 author = "Blue"
-version = "1.0.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "039bb2762bc5bcc0f22a3c324a5a1fb420cee5bad7527c28f3e8827ce23878c8"
+hash = "06aca3e5d457f35058c2198bea1904e150c198074e83162ffc82e5cbc0218fbf"
 
 [versions]
 forge = "14.23.5.2860"
