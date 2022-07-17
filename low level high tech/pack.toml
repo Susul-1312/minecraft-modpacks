@@ -1,0 +1,13 @@
+name = "Low Level High Tech"
+author = "Blue"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "94164cfc02a0f4ca51e0eb48a3a37df147c9dc02d47c69311d1938d83213e750"
+
+[versions]
+forge = "14.23.5.2859"
+minecraft = "1.12.2"

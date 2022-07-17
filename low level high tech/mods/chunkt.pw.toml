@@ -1,0 +1,13 @@
+name = "Chunkt"
+filename = "chunkt-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "beff5a4b277d4270776c5bbb3d5e35a6e2ce244b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2942644
+project-id = 372395

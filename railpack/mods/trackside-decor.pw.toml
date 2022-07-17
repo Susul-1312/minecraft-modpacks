@@ -1,0 +1,13 @@
+name = "Trackside Decor"
+filename = "Trackside_Decor_2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7dd62b353a33626598d75b2d45234ce51b747d57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3011494
+project-id = 362018

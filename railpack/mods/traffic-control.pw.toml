@@ -1,0 +1,13 @@
+name = "Traffic Control"
+filename = "trafficcontrol-0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74dff7a2dbbdf16e64ea5dbb1c9a1a5b386b0eb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3549709
+project-id = 310701
