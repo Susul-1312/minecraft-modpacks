@@ -1,0 +1,13 @@
+name = "Fancy Block Particles"
+filename = "FancyBlockParticles-1.12.x-2.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "256b53b26298c2f59590f02ba67889821afd79b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2632107
+project-id = 254441
