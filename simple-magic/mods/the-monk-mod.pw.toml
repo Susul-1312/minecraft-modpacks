@@ -1,0 +1,13 @@
+name = "The Monk Mod"
+filename = "monk-mod-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a40944a3b7d25ceabad26a747f35d7cdd9b21d67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2601488
+project-id = 291477
