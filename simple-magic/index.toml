@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "index.html"
-hash = "e9aea01817663a11363a6d01f8dee1e5a7335f3beadfd576bdd5a14ab4e74736"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
 metafile = true
