@@ -76,6 +76,11 @@ hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
 metafile = true
 
 [[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
+metafile = true
+
+[[files]]
 file = "mods/proportional-destruction-particles.pw.toml"
 hash = "966e85ed90d2dee3d07dd1d0df87f5dbcb866ba2133a70776ee68f9d2538f941"
 metafile = true

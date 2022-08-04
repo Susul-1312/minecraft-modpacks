@@ -145,6 +145,11 @@ hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
 metafile = true
 
 [[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
 metafile = true
