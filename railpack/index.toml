@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-gauges-and-switches.pw.toml"
-hash = "af8dac9cacbc699671684f3d7ec8a0a5fede049c63cbc51e2639d86c0bbf57bc"
+hash = "1d7342509fa93510fda74e6d7fbe2ef1bc5c805a115149f016e11f641997c47a"
 metafile = true
 
 [[files]]
@@ -149,7 +149,3 @@ metafile = true
 file = "mods/unlimited-chisel-works.pw.toml"
 hash = "3a41f19e492630f2256f127fcc977a4e10839ac79bfb8e7cf382f1d25de04655"
 metafile = true
-
-[[files]]
-file = "railpack.txt"
-hash = "f5cc1bc5c941c06a54211c24e5a65cfe8ede7a27d68585929f0073a16564aac7"
