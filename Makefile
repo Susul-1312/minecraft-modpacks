@@ -1,6 +1,9 @@
-all: markdown update
+all: markdown-main markdown-content update
 
-markdown:
+markdown-main:
+	markdown readme.md | ./html-wrap.sh Main > index.html
+
+markdown-content:
 	/bin/ls -1 -d */ | xargs -I {} -d '\n' sh -c "markdown {}readme.md | ./html-wrap.sh {} > {}index.html"
 
 update:
