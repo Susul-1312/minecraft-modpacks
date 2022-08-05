@@ -1,6 +1,7 @@
-<html>
+#! /bin/bash
+echo "<html>
 <head>
-<title>simple-magic/</title>
+<title>$1</title>
 <style>
 @media (prefers-color-scheme: dark){
 body {color:#eee;background:#161616}
@@ -24,11 +25,9 @@ max-width:none
 }
 </style>
 </head>
-<body>
-<p>I tried to make a magic modpack as a tech person<br />
-No care was taken for balance :P<br />
-Play at your own risk ^^</p>
-
-<p>Might be interesting to play as groups that specialize in a few of the mods</p>
-</body>
-</html>
+<body>"
+while read line; do
+	echo $line
+done < <(cat -)
+echo "</body>
+</html>"
