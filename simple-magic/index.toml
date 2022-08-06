@@ -211,6 +211,11 @@ hash = "2dc40613d41e5b0619164747c32408e7f114498f5673a9131be2979b39d0892f"
 metafile = true
 
 [[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "09f611069fd198826a37611e3ad7a3ae1f5201e00882a4771938701d567c18ee"
+metafile = true
+
+[[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "c7ccd04b86ab565a6728caed521d36346b312aeeb1055dfda5b1e379cb8a9565"
 metafile = true
