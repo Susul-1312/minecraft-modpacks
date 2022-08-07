@@ -1,12 +1,12 @@
 name = "Simple Magic"
 author = "Blue"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5f5c4965b7e01ee2ba2b227211008a912ba8475a671cfbdd1328f2e42be69683"
+hash = "f6ffce04534c7657c29809602cd2918be3833410f963cd12c2a349fb8d033ac9"
 
 [versions]
 forge = "14.23.5.2860"
