@@ -1,0 +1,13 @@
+name = "TIS-3D"
+filename = "tis3d-1.16.5-forge-1.6.8+30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ad2f3875b69e4591cb67a73edfa5b9ce3f1d36a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3553103
+project-id = 238603

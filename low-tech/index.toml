@@ -1,0 +1,114 @@
+hash-format = "sha256"
+
+[[files]]
+file = "index.html"
+hash = "07dfceaa006551b717234171a73977081cc429e67470f082083864f3751d6156"
+
+[[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "7f6cc33cc0391ced9478a30cfb58278485091fe4e449dd5f37e94ac86ddbe291"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "c26308548643945934745be773754649df081cd5163b90f1f805a7eced96e1f8"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "ddf78c2dd4e3cfde08d9f27c7bf67456c7b549019f9a98ec504217441e89475f"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "8877652862afaca46d384d624aa036defb3da680a804e2f033019c9794c8c785"
+metafile = true
+
+[[files]]
+file = "mods/immersiveposts.pw.toml"
+hash = "99daad8c53057ed2bba5bb91cad1b810b205c601c9925af342e2d6baf2d7befa"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6ae83f538a16deb321452e65aeb195b4d2d2a4372dc6e48c0531ddee7b7fb3f3"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-calculation.pw.toml"
+hash = "fa14226fd3abd807cda8b7b78341081ceb51a53da83898925ce6459fcd7c6cfc"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "5ca6281c50e0a8dce2ea5fa6ef76650815b704a068b433f2d44d44e3e4f7fc8f"
+metafile = true
+
+[[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "7848fc86eb9213041417fecedabf87539a2aa038b46ceee04906e51da040e693"
+metafile = true
+
+[[files]]
+file = "mods/metal-barrels-legacy.pw.toml"
+hash = "c0b8c6ad0fcf7b3ae5b6049e8a8526d130f7376f57969ccaa2d3ecd10323711f"
+metafile = true
+
+[[files]]
+file = "mods/metal-barrels.pw.toml"
+hash = "b899058311a3d1a3116ab9d672e7443addba36a4f980a0956e542d42fd62c2d7"
+metafile = true
+
+[[files]]
+file = "mods/more-minecarts.pw.toml"
+hash = "0c5050cff67b02e8b1c3d615dff57bce64a01b5e6134a3c9349dc88263d49607"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "b4948e0b0f5f2a052b15b0439c9948a56d9b9ff254d67c0aa0b34c48d54031c9"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "52acab9509aae140148ad4a155516ef4d1b67e9ef0665c8a25cac66e6c8900f3"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "b9cb236cf52dd0ccdc534da29002d260bf5f88841b96cabe80ce262be15f0390"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "a43a4f559b3739124658e2b5cae3c5fce86806a794a2ec2063d84b60ae6b35d2"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "ad1fd648b28dc914c101c0a393348467d8d694cb561a4c17a38859bb37801ce0"
+metafile = true
+
+[[files]]
+file = "mods/scorge.pw.toml"
+hash = "b1271df7c3a0956dbc1e56ded6eba90510bd4ce5b6d2e5ed17982f5b3678f06d"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d.pw.toml"
+hash = "e0ec7883fbacf25cd4c33787b8bfd32bdce4d16fcf844db3f97ab158114c5b79"
+metafile = true
+
+[[files]]
+file = "mods/uppers.pw.toml"
+hash = "126c7d9053e2c17df34918e5585d776ec09623680e5ccfb343028ea9f2b4bf80"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "cb4a3ae9a9174262991ddf9b1fd48572e83e37bffc7f99061f29c6713b8119c1"

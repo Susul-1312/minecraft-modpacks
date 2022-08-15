@@ -1,0 +1,13 @@
+name = "Metal Barrels"
+filename = "metalbarrels-1.16.2-3.3b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88366869a9166350b01a293d6d040d89c73bb143"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3415449
+project-id = 324985
