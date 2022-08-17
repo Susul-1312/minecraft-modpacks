@@ -1,0 +1,13 @@
+name = "Immersive Cooking"
+filename = "immersivecooking-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2b398220f3cdf1e4f9e457a6649451adf4cba5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856800
+project-id = 504395

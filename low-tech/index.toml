@@ -31,8 +31,23 @@ hash = "7f6cc33cc0391ced9478a30cfb58278485091fe4e449dd5f37e94ac86ddbe291"
 metafile = true
 
 [[files]]
+file = "mods/chisel.pw.toml"
+hash = "2298e41ca747f896a1969c416a315f2b81670fb646479f28c4c81f08744e57e0"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "972234d5c9cd6b408830a54d87b688622972b70a55394bd430d80d8051acb29d"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "c26308548643945934745be773754649df081cd5163b90f1f805a7eced96e1f8"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "c41e0c2e0f939ab75d74eb9a87e70d7bdaf7076fc163ade799520c6fa0a96b77"
 metafile = true
 
 [[files]]
@@ -46,6 +61,11 @@ hash = "b1db9aae3bec9d0948fc96a03936f2aecc699a8a5a53ce0aeb4d248080b65110"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "5f6f63a89f7ce3204188df5c2d07036ae59514fc72ebd832a447fbb73f6ebfcb"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
@@ -53,6 +73,16 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "ddf78c2dd4e3cfde08d9f27c7bf67456c7b549019f9a98ec504217441e89475f"
+metafile = true
+
+[[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "3acd17630e1411b04a2961eda2ad902f1744bf6763ec6b0b1042f9cc281d4845"
+metafile = true
+
+[[files]]
+file = "mods/immersive-cooking.pw.toml"
+hash = "2369ee75ebda4bceb76e08c9a0d910f002a214db051565d668aa4d59ae65cf20"
 metafile = true
 
 [[files]]
@@ -136,8 +166,18 @@ hash = "ad1fd648b28dc914c101c0a393348467d8d694cb561a4c17a38859bb37801ce0"
 metafile = true
 
 [[files]]
+file = "mods/raccoon-mod-bluechicken32.pw.toml"
+hash = "bc5d238f267d7a8c4fcb47895a110fc64c810036e90e192b2545abe1e88114b9"
+metafile = true
+
+[[files]]
 file = "mods/scorge.pw.toml"
 hash = "b1271df7c3a0956dbc1e56ded6eba90510bd4ce5b6d2e5ed17982f5b3678f06d"
+metafile = true
+
+[[files]]
+file = "mods/second-chance-forge.pw.toml"
+hash = "a26be33b2291c068a30cfc0974e71bddf3162d2fa1aec0bd4d65672c759d2b50"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Raccoon Mod - BlueChicken32"
+filename = "Raccoon Mod.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "2090979591"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3408564
+project-id = 510269
