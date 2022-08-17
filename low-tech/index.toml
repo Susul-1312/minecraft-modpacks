@@ -15,6 +15,16 @@ hash = "c26308548643945934745be773754649df081cd5163b90f1f805a7eced96e1f8"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "b1db9aae3bec9d0948fc96a03936f2aecc699a8a5a53ce0aeb4d248080b65110"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "ddf78c2dd4e3cfde08d9f27c7bf67456c7b549019f9a98ec504217441e89475f"
 metafile = true
@@ -22,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "8877652862afaca46d384d624aa036defb3da680a804e2f033019c9794c8c785"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "193e5e0fadb2789064cee478ce095c5ad4d183400fa52e21e855166ca1e4ba05"
 metafile = true
 
 [[files]]
@@ -67,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/more-minecarts.pw.toml"
 hash = "0c5050cff67b02e8b1c3d615dff57bce64a01b5e6134a3c9349dc88263d49607"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "dc77b3bb406a5283c6830a0a92a750c6226386cb03af8b97b3bc7701e127eab5"
 metafile = true
 
 [[files]]
