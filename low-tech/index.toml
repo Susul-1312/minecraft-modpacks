@@ -96,11 +96,6 @@ hash = "8ff8997955366eb89b69616ee6ed191e992334caa637935588954ae411118765"
 metafile = true
 
 [[files]]
-file = "mods/metal-barrels-legacy.pw.toml"
-hash = "c0b8c6ad0fcf7b3ae5b6049e8a8526d130f7376f57969ccaa2d3ecd10323711f"
-metafile = true
-
-[[files]]
 file = "mods/metal-barrels.pw.toml"
 hash = "b899058311a3d1a3116ab9d672e7443addba36a4f980a0956e542d42fd62c2d7"
 metafile = true
@@ -113,26 +108,6 @@ metafile = true
 [[files]]
 file = "mods/mysterious-mountain-lib.pw.toml"
 hash = "dc77b3bb406a5283c6830a0a92a750c6226386cb03af8b97b3bc7701e127eab5"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-crops.pw.toml"
-hash = "04be4a4af38985796fe6730445ea44c6a9342755990be2f250f593816303a16f"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-food-core.pw.toml"
-hash = "d718dbaf53f870c0746b71c20c070d550bc35753f4e5fe6661bfa760d01fb52e"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
-hash = "102e28c8f8e3bd6a5e1932da347d42899ad1ce5647de7034d44bd9c94532a93a"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-trees.pw.toml"
-hash = "26d1ddc51127cd6c08e8adc8f90343620dfff9ed0d820f9ead1a14e1c86b3a0b"
 metafile = true
 
 [[files]]
