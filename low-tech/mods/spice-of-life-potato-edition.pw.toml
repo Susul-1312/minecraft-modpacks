@@ -1,0 +1,13 @@
+name = "Spice of Life: Potato Edition"
+filename = "solpotato-1.16.X-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5b921b8011d676dce58325a3f882a0cc4dd2de4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3178864
+project-id = 431978

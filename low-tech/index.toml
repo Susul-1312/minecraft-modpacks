@@ -5,6 +5,11 @@ file = "index.html"
 hash = "07dfceaa006551b717234171a73977081cc429e67470f082083864f3751d6156"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0d210e83c7140eafbbd0366b257a256b9ce42eab8d9d729efa3a41bf1ba9723b"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "7f6cc33cc0391ced9478a30cfb58278485091fe4e449dd5f37e94ac86ddbe291"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/scorge.pw.toml"
 hash = "b1271df7c3a0956dbc1e56ded6eba90510bd4ce5b6d2e5ed17982f5b3678f06d"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-potato-edition.pw.toml"
+hash = "dea53af9314bd4c931e4fde4c1db730c241b8c113b3a443a8c1d959a1b543b9f"
 metafile = true
 
 [[files]]
