@@ -121,6 +121,11 @@ hash = "fa14226fd3abd807cda8b7b78341081ceb51a53da83898925ce6459fcd7c6cfc"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "eb73176b93a6a54e5ea869d02236eb750ed36bc5a8cd052ab5032f7f8e25857f"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "5ca6281c50e0a8dce2ea5fa6ef76650815b704a068b433f2d44d44e3e4f7fc8f"
 metafile = true
