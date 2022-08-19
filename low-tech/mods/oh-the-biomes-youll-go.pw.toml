@@ -1,0 +1,13 @@
+name = "Oh The Biomes You'll Go"
+filename = "byg-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66e10e07259f61c9fec908e2a33a0aa680b1c571"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3485079
+project-id = 247560

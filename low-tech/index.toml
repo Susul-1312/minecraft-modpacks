@@ -106,6 +106,11 @@ hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "c7ec1444792e09cced117d3ad2d27f2c4d952dd1989b3110ef98c4970f228ab4"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "6ae83f538a16deb321452e65aeb195b4d2d2a4372dc6e48c0531ddee7b7fb3f3"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/mysterious-mountain-lib.pw.toml"
 hash = "dc77b3bb406a5283c6830a0a92a750c6226386cb03af8b97b3bc7701e127eab5"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "b46ee8547b62edcf875f064a3153c091b36b359c9789c6f91bbc5e52d094947a"
 metafile = true
 
 [[files]]
@@ -181,6 +191,11 @@ hash = "a26be33b2291c068a30cfc0974e71bddf3162d2fa1aec0bd4d65672c759d2b50"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "901f0b0321a689fca56181064b917a66fea77f9e85adbecf689b869d315fc598"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-potato-edition.pw.toml"
 hash = "dea53af9314bd4c931e4fde4c1db730c241b8c113b3a443a8c1d959a1b543b9f"
 metafile = true
@@ -191,8 +206,43 @@ hash = "e0ec7883fbacf25cd4c33787b8bfd32bdce4d16fcf844db3f97ab158114c5b79"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "5e6e4d187bdc9105fc152c4e5f3f46833c577a3147a83bf2155df8d4c0e9d096"
+metafile = true
+
+[[files]]
 file = "mods/uppers.pw.toml"
 hash = "126c7d9053e2c17df34918e5585d776ec09623680e5ccfb343028ea9f2b4bf80"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d3631df0e5d46e75045a781efe2eda7ccbadc70c775dea298f6f5516e4f4dd74"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "079d56336fdf5fd836e31f067fe0cc1c38e8465274aea6e5ebed53397560513b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "def6e1aeb1416c41503a391973b9fde650eda84204178f90a99faa89fe9bfb83"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "ad6234ad0771472bd5bf582a5ddd737d9cb55fd6f364397eae3940b10574342d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "8202f215a2400426059f5f9f488ef8a842d01d39000580c51581eb240549e276"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "5b83ab5539365be913d72985d9318c4f4b3cb39f074b8faa5c2180658258b363"
 metafile = true
 
 [[files]]
