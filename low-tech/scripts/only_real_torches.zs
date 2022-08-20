@@ -20,4 +20,4 @@ craftingTable.addShaped("immersive_engineering_torch", <item:realistictorches:un
 
 
 // Replace all recipes that craft torches with real torches
-Replacer.forEverything().replace(<item:minecraft:torch>, <item:realistictorches:lit_torch>).execute();
+Replacer.forEverything().replace(<item:minecraft:torch>, <item:realistictorches:unlit_torch>).execute();
