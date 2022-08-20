@@ -36,6 +36,11 @@ hash = "0d210e83c7140eafbbd0366b257a256b9ce42eab8d9d729efa3a41bf1ba9723b"
 metafile = true
 
 [[files]]
+file = "mods/armor-sound-tweak.pw.toml"
+hash = "011f8f43afc4abc7a29d448aaa08b0cbe9ebe470769c612b753aa21acff8bb4f"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "b1db9aae3bec9d0948fc96a03936f2aecc699a8a5a53ce0aeb4d248080b65110"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "c4cbfe89d0192b3125222628ef9ff2ddd303ed3612543c3594ab8dd2be41a6c3"
 metafile = true
 
 [[files]]
@@ -156,6 +166,11 @@ hash = "6ae83f538a16deb321452e65aeb195b4d2d2a4372dc6e48c0531ddee7b7fb3f3"
 metafile = true
 
 [[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "1dfaaf52028bde8ebe007a37097ab633579665ba18315ec496e995c1969167fb"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "fa14226fd3abd807cda8b7b78341081ceb51a53da83898925ce6459fcd7c6cfc"
 metafile = true
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "b4948e0b0f5f2a052b15b0439c9948a56d9b9ff254d67c0aa0b34c48d54031c9"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "97ece24a8c409db1565403036754adf9855cd62fd11b033775b90ba8f97b1e83"
 metafile = true
 
 [[files]]
@@ -358,3 +378,7 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "cb4a3ae9a9174262991ddf9b1fd48572e83e37bffc7f99061f29c6713b8119c1"
+
+[[files]]
+file = "scripts/only_real_torches.zs"
+hash = "bdb58ab4241fd68b4e9d1c0d10392e21b3ec22e1c8f8bd335a6403dd5794eb08"

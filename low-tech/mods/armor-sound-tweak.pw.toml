@@ -1,0 +1,13 @@
+name = "Armor Sound Tweak"
+filename = "ArmorSoundTweak-3.1.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c63b30af4f41af10f1c05584abb159a60b23085"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3484085
+project-id = 277668
