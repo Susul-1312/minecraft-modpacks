@@ -1,0 +1,13 @@
+name = "Shutup Experimental Settings!"
+filename = "shutupexperimentalsettings-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0db5333ee87e5672026912fb0c7b77d34e27d13c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3188120
+project-id = 407174

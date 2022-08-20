@@ -21,13 +21,43 @@ file = "index.html"
 hash = "07dfceaa006551b717234171a73977081cc429e67470f082083864f3751d6156"
 
 [[files]]
+file = "mods/a-lib.pw.toml"
+hash = "6541b24cc60669a5eb8562a47484c8477f6e9cc0122ac958ea63fb67d40284e4"
+metafile = true
+
+[[files]]
+file = "mods/alchemistry.pw.toml"
+hash = "74250af3b625473af86f72c35c3079431c2ee08669ccaa024b08d32f04454bb6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d210e83c7140eafbbd0366b257a256b9ce42eab8d9d729efa3a41bf1ba9723b"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
+metafile = true
+
+[[files]]
+file = "mods/better-diving.pw.toml"
+hash = "0e47500507e69e5d9885bace6cc0bd3b4054f8180ed339b2f388ddb42494ec6e"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "5f0f44a271c994a591bc78db95aec291548a9198a51706dfa6fa22b1af3bea88"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "7f6cc33cc0391ced9478a30cfb58278485091fe4e449dd5f37e94ac86ddbe291"
+metafile = true
+
+[[files]]
+file = "mods/chemlib.pw.toml"
+hash = "ba01bb3b13fd276adb6915f7fc822113ba2f54f57267aebaecb3e910629ea4a8"
 metafile = true
 
 [[files]]
@@ -71,6 +101,11 @@ hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
 
 [[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "6d84b76dfad3ef7628545b5107087deb0ae27cc2dcddd3b20345fee3641d5972"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "ddf78c2dd4e3cfde08d9f27c7bf67456c7b549019f9a98ec504217441e89475f"
 metafile = true
@@ -78,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "3acd17630e1411b04a2961eda2ad902f1744bf6763ec6b0b1042f9cc281d4845"
+metafile = true
+
+[[files]]
+file = "mods/honey-expansion-add-on-for-farmers-delight.pw.toml"
+hash = "db0130a3c46fa1cd64884797f24cf027903f0192db1089be817d5d9b9dd4cda5"
 metafile = true
 
 [[files]]
@@ -126,8 +166,8 @@ hash = "eb73176b93a6a54e5ea869d02236eb750ed36bc5a8cd052ab5032f7f8e25857f"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "5ca6281c50e0a8dce2ea5fa6ef76650815b704a068b433f2d44d44e3e4f7fc8f"
+file = "mods/large-meals-an-add-on-for-farmers-delight.pw.toml"
+hash = "733293de2313de70751f6ecc5d159a7c34e834b7770725d7f1055f14a005cee7"
 metafile = true
 
 [[files]]
@@ -151,8 +191,18 @@ hash = "dc77b3bb406a5283c6830a0a92a750c6226386cb03af8b97b3bc7701e127eab5"
 metafile = true
 
 [[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "73b90fed51a5f01bbebe5020c2f49759ad64e3fd1a7c3c9a2eb0785e06033dc5"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "b46ee8547b62edcf875f064a3153c091b36b359c9789c6f91bbc5e52d094947a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
 metafile = true
 
 [[files]]
@@ -181,8 +231,28 @@ hash = "ad1fd648b28dc914c101c0a393348467d8d694cb561a4c17a38859bb37801ce0"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
+metafile = true
+
+[[files]]
 file = "mods/raccoon-mod-bluechicken32.pw.toml"
 hash = "bc5d238f267d7a8c4fcb47895a110fc64c810036e90e192b2545abe1e88114b9"
+metafile = true
+
+[[files]]
+file = "mods/realistic-torches.pw.toml"
+hash = "6c646779efc36a0b85b280e7fad444b064afce6becd088f175dc6f8cb42de271"
+metafile = true
+
+[[files]]
+file = "mods/reap-mod.pw.toml"
+hash = "113682c8cf9c08955c3f66513e91aeeb540e822994a3bc7316ed5ade01130ac6"
+metafile = true
+
+[[files]]
+file = "mods/scannable.pw.toml"
+hash = "804b0c330b0bb475144d93f9173cf7d827491c44b2e54767353e740a95b13b9d"
 metafile = true
 
 [[files]]
@@ -191,8 +261,33 @@ hash = "b1271df7c3a0956dbc1e56ded6eba90510bd4ce5b6d2e5ed17982f5b3678f06d"
 metafile = true
 
 [[files]]
+file = "mods/seals.pw.toml"
+hash = "a095e5e0f8c2e76be6bf686fe9c13b4b8115dacded3fead58db74e8655f91fa8"
+metafile = true
+
+[[files]]
 file = "mods/second-chance-forge.pw.toml"
 hash = "a26be33b2291c068a30cfc0974e71bddf3162d2fa1aec0bd4d65672c759d2b50"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "a3afaf0ceb2bbbaaed1d57bd7e877fcd6d5ca4ae9f12d023735526d0ab1b5fdb"
+metafile = true
+
+[[files]]
+file = "mods/simple-tomb.pw.toml"
+hash = "88119372a7522ea2d6e62fb1eb6a4bd421e819200edc5b976762e259d51136cc"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "515789d38cb887a0b1de9bb771aba3884c7f0e2d6332eac5dc7131959efc5bee"
 metafile = true
 
 [[files]]
@@ -218,6 +313,16 @@ metafile = true
 [[files]]
 file = "mods/uppers.pw.toml"
 hash = "126c7d9053e2c17df34918e5585d776ec09623680e5ccfb343028ea9f2b4bf80"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "fafd8ce55460a9734cdbd05d0b1e064ba8df02d6897e03917dabff9a471327c1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "0969166f431a631f5ffb8f06f16d5fa5cb871fc3f46c2e88d041450231a2693c"
 metafile = true
 
 [[files]]

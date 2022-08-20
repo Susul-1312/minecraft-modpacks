@@ -1,0 +1,13 @@
+name = "Scannable"
+filename = "scannable-1.16.5-forge-1.7.6+00198b7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "726632921b912506bd544b8a392feda42ad3af7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3565727
+project-id = 266784

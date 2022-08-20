@@ -1,0 +1,13 @@
+name = "Seals"
+filename = "seals-1.16.3-2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b66bfb297609be7f5a3f9d73d365b071eea745fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3301978
+project-id = 349206
