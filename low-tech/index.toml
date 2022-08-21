@@ -171,11 +171,6 @@ hash = "1dfaaf52028bde8ebe007a37097ab633579665ba18315ec496e995c1969167fb"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-calculation.pw.toml"
-hash = "fa14226fd3abd807cda8b7b78341081ceb51a53da83898925ce6459fcd7c6cfc"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "eb73176b93a6a54e5ea869d02236eb750ed36bc5a8cd052ab5032f7f8e25857f"
 metafile = true
@@ -337,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "fafd8ce55460a9734cdbd05d0b1e064ba8df02d6897e03917dabff9a471327c1"
+hash = "4ee06af4be30b5a48a3ff765a8858fa53a981960bfd428a01ecce5f6f4ddd77d"
 metafile = true
 
 [[files]]
