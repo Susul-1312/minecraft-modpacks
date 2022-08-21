@@ -221,11 +221,6 @@ hash = "b4948e0b0f5f2a052b15b0439c9948a56d9b9ff254d67c0aa0b34c48d54031c9"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-forge.pw.toml"
-hash = "97ece24a8c409db1565403036754adf9855cd62fd11b033775b90ba8f97b1e83"
-metafile = true
-
-[[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "52acab9509aae140148ad4a155516ef4d1b67e9ef0665c8a25cac66e6c8900f3"
 metafile = true
