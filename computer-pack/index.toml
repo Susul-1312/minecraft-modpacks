@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advanced-rocketry.pw.toml"
+hash = "00068ff25ed8dbf295aa7972e7e56e38e583f3c06ce1083984d4d1ad93a5a8e8"
+metafile = true
+
+[[files]]
+file = "mods/computronics.pw.toml"
+hash = "ff8a20cf33da23c0c1b7df0640ab960c158c5729e85f14d48eed38d0d4352dcc"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/icbm-classic.pw.toml"
+hash = "4970c905dae0a560a948602ddf08c935022d94daf9b2e8e2f5a1034c9908d33b"
+metafile = true
+
+[[files]]
+file = "mods/infinitylib.pw.toml"
+hash = "049829767ce58c31a916f27dda0e368a8e0564ffad4c138db49ff72dfe17eb87"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "a39db085d980dcf786ea711276308ab7a0ef8424da5c3fb258389b78b6ef4023"
+metafile = true
+
+[[files]]
+file = "mods/libvulpes.pw.toml"
+hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
+metafile = true
+
+[[files]]
+file = "mods/nuclearcraft-overhauled.pw.toml"
+hash = "f26ccfdf7d8799345b2d4cd447ddf17daefc3c5fecb40efc9817e3eeb559bee6"
+metafile = true
+
+[[files]]
+file = "mods/ocrocketry.pw.toml"
+hash = "487393bfea43c17ef670b5f7ac68fad84b5e64ee450e54de4d6d1431d9061cb6"
+metafile = true
+
+[[files]]
+file = "mods/open-lights-controller.pw.toml"
+hash = "3e09b6a01822111af52d9206cdc8dac3bed17f64088cb69730e35b239869dd6d"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers-drivers-for-tinkers-construct.pw.toml"
+hash = "c94f909d85bf66c65b168fdeb8b0740385a35bdbb7b88ddcb4465effde7ae352"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "3c08a3918762284f970c538ab57365a0f0065c7f701ed53148cb709ac99d2a16"
+metafile = true
+
+[[files]]
+file = "mods/openlights.pw.toml"
+hash = "2a43c1d46912b6aa3511b3a6087057b6e139702d03bcc29c8526c08d42ab943c"
+metafile = true
+
+[[files]]
+file = "mods/openprinter.pw.toml"
+hash = "01e41b8bf4b9e0f7f3beee9d4d311c231ae744f7d91b898ae0ea492a2f18130e"
+metafile = true
+
+[[files]]
+file = "mods/opensecurity.pw.toml"
+hash = "29da7bd4dbcb3f8e2cf0ff23f9126eec0a6eb80665cd32e85d69cd2a0e5dc4fc"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
+metafile = true
+
+[[files]]
+file = "mods/trinity.pw.toml"
+hash = "2992065809fcd1a8cbc2f85df5927f02acedfa5a366453c10f1cedacabaebf96"
+metafile = true

@@ -1,0 +1,13 @@
+name = "OCRocketry"
+filename = "OCRocketry-1.1.1-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46864adcaba8d310a45e9f7f8fcc024589b31ee1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3268062
+project-id = 412108

@@ -1,0 +1,13 @@
+name = "Computer Pack"
+author = "Blue"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8a6d8664196d2b04f44dbbbb22c1d0eda0b969a1ec97c6c0388efc0296e64eab"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
