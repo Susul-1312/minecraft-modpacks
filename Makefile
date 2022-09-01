@@ -1,4 +1,4 @@
-all: markdown-main markdown-content update
+all: markdown-main markdown-content
 
 markdown-main:
 	markdown readme.md | ./html-wrap.sh Main > index.html
@@ -6,5 +6,5 @@ markdown-main:
 markdown-content:
 	/bin/ls -1 -d */ | xargs -I {} -d '\n' sh -c "markdown {}readme.md | ./html-wrap.sh {} > {}index.html"
 
-update:
-	/bin/ls -1 -d */ | xargs -I {} -d '\n' sh -c "cd {} && yes | packwiz update --all && packwiz refresh && cd -"
+# update:
+#	/bin/ls -1 -d */ | xargs -I {} -d '\n' sh -c "cd {} && yes | packwiz update --all && packwiz refresh && cd -"
