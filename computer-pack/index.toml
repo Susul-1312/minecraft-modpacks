@@ -44,11 +44,6 @@ hash = "5e57bf8b06ed3500216ec3df7728d8b258fd03cb7e8483dd29cc1724f7a431c0"
 metafile = true
 
 [[files]]
-file = "mods/gyro_heros-helicopter-pack-iv-mts.pw.toml"
-hash = "98fc42d86f7827258fa30387cbfba2f99b528a4c0ca54eefb1eb40da7acd06c7"
-metafile = true
-
-[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
@@ -96,11 +91,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-transport-simulator.pw.toml"
-hash = "63dc6ef009ec6c1b4bc1e70253c3ffe7995aa1559ab482f4c6d092160547dcf6"
 metafile = true
 
 [[files]]
