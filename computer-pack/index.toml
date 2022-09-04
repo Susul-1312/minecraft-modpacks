@@ -29,6 +29,16 @@ hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
 file = "mods/computronics.pw.toml"
 hash = "ff8a20cf33da23c0c1b7df0640ab960c158c5729e85f14d48eed38d0d4352dcc"
 metafile = true
@@ -76,11 +86,6 @@ metafile = true
 [[files]]
 file = "mods/libvulpes.pw.toml"
 hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
-metafile = true
-
-[[files]]
-file = "mods/logistics-pipes.pw.toml"
-hash = "3b01d5c142838a06c44745f16398530ee76db491c0a392ef299a4a184438b168"
 metafile = true
 
 [[files]]
@@ -156,6 +161,16 @@ metafile = true
 [[files]]
 file = "mods/project-red-integration.pw.toml"
 hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
 metafile = true
 
 [[files]]
