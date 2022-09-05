@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c41e0c2e0f939ab75d74eb9a87e70d7bdaf7076fc163ade799520c6fa0a96b77"
+hash = "3bf040db96566bf5625159716f3bbdc89364d0523c7a172841751e64160d93be"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/healing-campfire.pw.toml"
-hash = "3acd17630e1411b04a2961eda2ad902f1744bf6763ec6b0b1042f9cc281d4845"
+hash = "a9ff6ca4d1cc0b578e65c86bda283d02cf23e44dbf28d043a1d39e0ebf7a07db"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "53d679f820dc76250eec572b4bea233537590f119c063727c5551bf5f1ad0fe4"
+hash = "9d3dd88869e2c7e5a49df53a18ebece5d28de473ce976d700eb59e95af8a91ca"
 metafile = true
 
 [[files]]
@@ -368,6 +368,10 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "cb4a3ae9a9174262991ddf9b1fd48572e83e37bffc7f99061f29c6713b8119c1"
+
+[[files]]
+file = "scripts/chisels-and-knives.zs"
+hash = "dac2581ab6dbe9bbc1fb2b9ab80ce2d8d72f0cb7571d060a80ff106e30bc3fc3"
 
 [[files]]
 file = "scripts/only_real_torches.zs"
