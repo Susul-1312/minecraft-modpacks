@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "3c08a3918762284f970c538ab57365a0f0065c7f701ed53148cb709ac99d2a16"
+hash = "74f8def6d7450b838727c52206ad90d2813325fef2796185aea4d13c980795a3"
 metafile = true
 
 [[files]]
