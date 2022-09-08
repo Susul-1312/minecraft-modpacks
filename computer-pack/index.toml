@@ -19,6 +19,11 @@ hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
 metafile = true
 
 [[files]]
+file = "mods/aqua-acrobatics.pw.toml"
+hash = "78e501cc0564406d7d1f72a1941ec7543733f6b5b52032a70034212aa768a475"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
 metafile = true
@@ -96,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
 metafile = true
 
 [[files]]
