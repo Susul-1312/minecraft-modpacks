@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "c57fbfff6978034cf5a2b47c57fd8bf8ee7029cd1671435dfb4dfa03c32bed97"
+hash = "4326c7d4958d7df81e1f2ef7606ea48f23a5c474a0b297f19c31201fccf5b770"
 
 [[files]]
 file = "config/forge.cfg"
