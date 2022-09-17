@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "ca55629c",
+		type: "item",
+		items: [{
+			item: "opensecurity:mag_card"
+		}]
+	}]
+}

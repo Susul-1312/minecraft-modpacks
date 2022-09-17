@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 2.0d,
+	dependencies: [
+		"787225d7"
+	],
+	tasks: [{
+		uid: "992ee9f2",
+		type: "forge_energy",
+		value: 100000000L
+	}],
+	rewards: [{
+		uid: "8cf5bc8e",
+		type: "item",
+		item: "minecraft:emerald"
+	}]
+}

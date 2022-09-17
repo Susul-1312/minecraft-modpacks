@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"787225d7"
+	],
+	tasks: [{
+		uid: "e7d166dc",
+		type: "item",
+		items: [{
+			item: "trinity:thermonuclear_core_pu239"
+		}]
+	}],
+	rewards: [{
+		uid: "e2c49976",
+		type: "item",
+		item: "minecraft:emerald"
+	}]
+}

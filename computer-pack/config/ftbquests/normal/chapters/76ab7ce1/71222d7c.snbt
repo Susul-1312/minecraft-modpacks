@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "440f3cf2",
+		type: "item",
+		items: [{
+			item: "openlights:openlight"
+		}]
+	}]
+}

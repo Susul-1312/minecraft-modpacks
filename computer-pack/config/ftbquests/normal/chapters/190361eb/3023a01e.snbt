@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"c5a48445"
+	],
+	tasks: [{
+		uid: "df163afe",
+		type: "item",
+		items: [{
+			item: "trinity:bomb_am242"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 6.0d,
+	y: 2.0d,
+	dependencies: [
+		"81261ef1"
+	],
+	tasks: [{
+		uid: "e89f2893",
+		type: "forge_energy",
+		value: 1000000000000L
+	}]
+}

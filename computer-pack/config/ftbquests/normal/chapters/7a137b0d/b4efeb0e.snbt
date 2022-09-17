@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"7e98baad"
+	],
+	tasks: [{
+		uid: "f4eaf0b6",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:moonturf"
+		}]
+	}]
+}

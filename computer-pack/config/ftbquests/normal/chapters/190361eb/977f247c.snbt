@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	dependencies: [
+		"c5a48445"
+	],
+	tasks: [{
+		uid: "5e6ffc1d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					explosive: {}
+				}
+			},
+			id: "icbmclassic:missile",
+			Damage: 15s
+		}],
+		ignore_nbt: 1b
+	}]
+}

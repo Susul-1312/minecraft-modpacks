@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "856e5421",
+		type: "item",
+		items: [{
+			item: "openprinter:printed_page"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

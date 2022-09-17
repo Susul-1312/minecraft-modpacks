@@ -73,6 +73,16 @@ hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-legacy-forge.pw.toml"
+hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "957762b6d44988e01eda99f71ceac8642a81d1398a8842fa006fdf4a1646bcf7"
+metafile = true
+
+[[files]]
 file = "mods/gaspunk.pw.toml"
 hash = "5e57bf8b06ed3500216ec3df7728d8b258fd03cb7e8483dd29cc1724f7a431c0"
 metafile = true
@@ -95,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/infinitylib.pw.toml"
 hash = "049829767ce58c31a916f27dda0e368a8e0564ffad4c138db49ff72dfe17eb87"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "34d15131bc2ade2772fc98488400018f26b8e2ad38dee94c0d98890bb29e6c9e"
 metafile = true
 
 [[files]]

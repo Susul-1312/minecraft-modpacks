@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "9f3b2a92",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:launchpad"
+		}]
+	}]
+}

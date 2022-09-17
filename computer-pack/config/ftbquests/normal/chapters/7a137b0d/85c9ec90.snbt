@@ -1,0 +1,35 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"b4efeb0e"
+	],
+	tasks: [{
+		uid: "d16f2d96",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:hotturf"
+		}]
+	},
+	{
+		uid: "c0789638",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:basalt"
+		}]
+	},
+	{
+		uid: "29b1070b",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:vitrifiedsand"
+		}]
+	},
+	{
+		uid: "e957e943",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:alienwood"
+		}]
+	}]
+}
