@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CustomMainMenu/mainmenu.json"
+hash = "c57fbfff6978034cf5a2b47c57fd8bf8ee7029cd1671435dfb4dfa03c32bed97"
+
+[[files]]
 file = "config/forge.cfg"
 hash = "9751d148afc7867dc73afeb25ab42ac641aa399db98a4a91321432f4519ac97c"
 
@@ -56,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/custom-main-menu.pw.toml"
+hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
 metafile = true
 
 [[files]]
@@ -169,11 +178,6 @@ hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
 metafile = true
 
 [[files]]
-file = "mods/phosphor-forge.pw.toml"
-hash = "900c33ef3ec1924d7557882e955063e30726a81f662e1443b7a3d3ff66a557d1"
-metafile = true
-
-[[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "80a1afd5a26156aef0eeaedd9f19e881326bf40c087428b0d75240a63c33dd08"
 metafile = true
@@ -191,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-flux.pw.toml"
 hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/resource-loader.pw.toml"
+hash = "5b23fff02027846cadc887ffe26fce12a4e20bdee2cc0c06732897a44f364357"
 metafile = true
 
 [[files]]
@@ -246,3 +255,19 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "86821deaa0bb21e4e866d8b8851b8d06e1a05be75e2be3da9f7e7007d086ac07"
+
+[[files]]
+file = "resources/main_menu/blue_background_circular.png"
+hash = "f584750b4530453821f1f5192af9812417752fa3f8dda39ab4a40868fe554201"
+
+[[files]]
+file = "resources/main_menu/blue_presents.png"
+hash = "8d68f105b08b3765bb1a171fd596702162fa31d83bd9f9e6004d99401819a7ea"
+
+[[files]]
+file = "resources/main_menu/computer_pack.png"
+hash = "a813811f9e86b4cbfb228e0718422d41385abe124daaf036413049522eda2ced"
+
+[[files]]
+file = "resources/main_menu/screen.png"
+hash = "e51d9f0dcbd6673f5b80e6910893907c63bec146a6e6303fd99281f3a3aba15f"

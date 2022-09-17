@@ -1,0 +1,148 @@
+{
+    "images":
+    {
+        "pack":
+        {
+            "image" : "main_menu:computer_pack.png",
+            "posX" : -170,
+            "posY" : 35,
+            "width" : 360,
+            "height" : 45,
+            "alignment" : "top_center"
+        },
+        
+        "blue_presents":
+        {
+            "image" : "main_menu:blue_presents.png",
+            "posX" : -45,
+            "posY" : 25,
+            "width" : 90,
+            "height" : 15,
+            "alignment" : "top_center"
+        },
+
+        "blue":
+        {
+            "image" : "main_menu:blue_background_circular.png",
+            "posX" : -25,
+            "posY" : 5,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "top_right"
+        },
+
+        "logo":
+        {
+            "image" : "main_menu:screen.png",
+            "posX" : -250,
+            "posY" : -50,
+            "width" : 150,
+            "height" : 150,
+            "alignment" : "right_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 10,
+            "posY" : -45,
+            "width" : 95,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            },
+            "alignment" : "left_center"
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 110,
+            "posY" : -45,
+            "width" : 95,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            },
+            "alignment" : "left_center"
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 10,
+            "posY" : -15,
+            "width" : 195,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            },
+            "alignment" : "left_center"
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 10,
+            "posY" : 15,
+            "width" : 195,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            },
+            "alignment" : "left_center"
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 10,
+            "posY" : 45,
+            "width" : 170,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            },
+            "alignment" : "left_center"
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 185,
+            "posY" : 45,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            },
+            "alignment" : "left_center"
+        }
+    },
+    
+    "other":
+    {   
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}
