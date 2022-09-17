@@ -74,6 +74,11 @@ hash = "4970c905dae0a560a948602ddf08c935022d94daf9b2e8e2f5a1034c9908d33b"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
+metafile = true
+
+[[files]]
 file = "mods/infinitylib.pw.toml"
 hash = "049829767ce58c31a916f27dda0e368a8e0564ffad4c138db49ff72dfe17eb87"
 metafile = true
@@ -186,6 +191,16 @@ metafile = true
 [[files]]
 file = "mods/redstone-flux.pw.toml"
 hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.pw.toml"
+hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
 
 [[files]]
