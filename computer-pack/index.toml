@@ -29,6 +29,11 @@ hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
@@ -156,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.pw.toml"
+hash = "900c33ef3ec1924d7557882e955063e30726a81f662e1443b7a3d3ff66a557d1"
 metafile = true
 
 [[files]]
