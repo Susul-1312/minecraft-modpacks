@@ -1,0 +1,13 @@
+name = "Hardcore Torches (Fabric)"
+filename = "hardcore_torches_fabric-1.19-1.6.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "934569fe10521a6bab04476e9ccb2258975429c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3969843
+project-id = 242844

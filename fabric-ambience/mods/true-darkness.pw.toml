@@ -1,0 +1,13 @@
+name = "True Darkness"
+filename = "darkness-fabric-mc119-2.0.98.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "356d9aee6da885f79537ac86c2c5ca8fe4ff1938"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3996550
+project-id = 337243
