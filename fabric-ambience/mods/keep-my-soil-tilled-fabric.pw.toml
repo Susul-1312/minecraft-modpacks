@@ -1,0 +1,13 @@
+name = "Keep My Soil Tilled (Fabric)"
+filename = "keepmysoiltilled-fabric_1.19.2-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a28f936041c9c303b6ffafaff394b7bcd3fcb8cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4007643
+project-id = 547964

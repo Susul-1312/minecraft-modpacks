@@ -1,0 +1,13 @@
+name = "Chalk (Fabric): Colorful Addon"
+filename = "chalk-colorful-addon-2.1.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfdd5fe8c1a1ab6dc2727036eb814d39ed875b73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855432
+project-id = 638881

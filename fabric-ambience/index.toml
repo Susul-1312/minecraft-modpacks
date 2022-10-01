@@ -14,8 +14,23 @@ hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
 metafile = true
 
 [[files]]
+file = "mods/camp-chair.pw.toml"
+hash = "856872aa18d99ee749be019b6b854aeaa1567f212b0d7b919c24b71b7b31901e"
+metafile = true
+
+[[files]]
 file = "mods/caveore.pw.toml"
 hash = "316ef3534f987a61210d4fe9d5cbdf32de8a76f0054b4083819a5dec59e16c5c"
+metafile = true
+
+[[files]]
+file = "mods/chalk-fabric-colorful-addon.pw.toml"
+hash = "fd703f8c130ebdf8936141024bd21a28735ad970d44ff253567e92520c9d15e1"
+metafile = true
+
+[[files]]
+file = "mods/chalk-fabric.pw.toml"
+hash = "56a7b25d5c90a7c976967e066c32633bde1dcbcb79476c8a8636dabbdd30fc99"
 metafile = true
 
 [[files]]
@@ -34,8 +49,18 @@ hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.pw.toml"
+hash = "144bf938b65a81ecfbff1cde095dfc04c68832bc3916ce1a08393046404f4d46"
+metafile = true
+
+[[files]]
 file = "mods/comforts-fabric.pw.toml"
 hash = "7a6a89a3fc88f40c3e34ad03c596dccdaedbeb7d6896d80005313167cd6e56cc"
+metafile = true
+
+[[files]]
+file = "mods/crimson-moon.pw.toml"
+hash = "08895d827a2bf8a492b4021c81147be7308f33d3d3f88fdadc820f7b1ba47fe6"
 metafile = true
 
 [[files]]
@@ -56,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
+metafile = true
+
+[[files]]
+file = "mods/keep-my-soil-tilled-fabric.pw.toml"
+hash = "138c45c453ecbfc78a4299750e97e9fb5dabb1573af97158aa80f3cf7728e35d"
 metafile = true
 
 [[files]]
@@ -111,6 +141,21 @@ metafile = true
 [[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "ca45201bd1356a0c505cdff061a712a33d4973438dcf8f4c66827fb759219455"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-fabric-version.pw.toml"
+hash = "de063dbe8bab50bb9516f10aba6156464226ed17341a392af81ccee111d5a2d1"
+metafile = true
+
+[[files]]
+file = "mods/weeping-angels-mod.pw.toml"
+hash = "7a523be6c22a7b751c21c97b68b474653a638d4b64c78ec2abc124c3a4e3f2b9"
+metafile = true
+
+[[files]]
+file = "mods/wool-tweaks-fabric.pw.toml"
+hash = "73e6989af7e89563f5c16474e7a78a99606be87186f88af481645b5d4fc628ac"
 metafile = true
 
 [[files]]

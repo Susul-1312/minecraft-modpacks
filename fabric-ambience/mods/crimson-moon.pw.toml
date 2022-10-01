@@ -1,0 +1,13 @@
+name = "Crimson Moon"
+filename = "crimson-moon-2.4.0-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37cbb9a7423c3d8a086b2e2074d7095e5c71a476"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3876279
+project-id = 380356
