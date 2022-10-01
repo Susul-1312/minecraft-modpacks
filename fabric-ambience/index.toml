@@ -61,6 +61,11 @@ hash = "a9fad21f2eaf1a4e088537611a09faa3db7ae88fe3547589d24bcc0cbb09bd86"
 metafile = true
 
 [[files]]
+file = "mods/resounding.pw.toml"
+hash = "256369e5aa6f3f9dd3674e9327ce29dfff05840aa297eb1a2c6b4085b1be0483"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "8d81eeec3000c9f1471a47552c9acf0a389de66f8ccc36fe227c7438950e3cd7"
 metafile = true
