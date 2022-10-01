@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/hardcore_torches.json5"
+hash = "cdb017a7ca60d8e28720da5e2cd585a953ddc936a131e4bf5745685271bff4e1"
+
+[[files]]
+file = "index.html"
+hash = "31603893abe8727e5efd8de79683b2d21ce9639695d0e0c763d70a544aa0af64"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
 metafile = true
@@ -104,3 +112,7 @@ metafile = true
 file = "mods/true-darkness.pw.toml"
 hash = "ca45201bd1356a0c505cdff061a712a33d4973438dcf8f4c66827fb759219455"
 metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "939fe3cdb4ef759aac4dfbacaf96a90890ac60bb646289e2108a20bb1cfc1c52"
