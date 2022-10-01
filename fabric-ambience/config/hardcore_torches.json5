@@ -1,8 +1,8 @@
 {
 	// Torches will extinguish if broken. default true
-	"torchesExtinguishWhenBroken": true,
+	"torchesExtinguishWhenBroken": false,
 	// Torches are fully expended when broken. Overrides torchesExtinguishWhenBroken. default true
-	"torchesBurnWhenDropped": true,
+	"torchesBurnWhenDropped": false,
 	// Torches become unlit in rain. If torchesSmolder is true, they will instead smolder in rain. default true
 	"torchesRain": true,
 	// Only matters if torchesRain is true. In rain, torches will extinguish but emit smoke, and consume fuel at 1/3 the rate until fully extinguished or re-lit. default true
