@@ -1,0 +1,13 @@
+name = "Peeping Creepers"
+filename = "peepingcreepers-fabric-1.2-1.18-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eaba856981805106a68552556ce1bedb0143192c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3870854
+project-id = 408865

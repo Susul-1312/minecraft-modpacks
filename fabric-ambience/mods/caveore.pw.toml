@@ -1,0 +1,13 @@
+name = "Cave Spelunking[Forge/Fabric]"
+filename = "caveore-fabric-1.19-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16f61a6dbe3e06314685b3e0f816fd51fa74f393"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3930785
+project-id = 468643

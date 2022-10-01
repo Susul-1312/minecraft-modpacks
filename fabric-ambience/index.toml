@@ -6,6 +6,11 @@ hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
 metafile = true
 
 [[files]]
+file = "mods/caveore.pw.toml"
+hash = "316ef3534f987a61210d4fe9d5cbdf32de8a76f0054b4083819a5dec59e16c5c"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "3bec248d77a44f165f5ca46ee297263c56d91de861444ef00e0d0f432156a8d8"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+metafile = true
+
+[[files]]
+file = "mods/comforts-fabric.pw.toml"
+hash = "7a6a89a3fc88f40c3e34ad03c596dccdaedbeb7d6896d80005313167cd6e56cc"
 metafile = true
 
 [[files]]
@@ -51,13 +61,28 @@ hash = "6efed395750fd72a1396750da222739ed5708b63bfb5fbad59b05ebec779e22c"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "8f25bcf2861e14d911472dc7f55087a156bd948bc6322e530d91cf46e5c26579"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
 metafile = true
 
 [[files]]
+file = "mods/peeping-creepers.pw.toml"
+hash = "08379f6f4802cae9595a0b0395c25112b0ec38099422325f70b38f4f34b97ce4"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9fad21f2eaf1a4e088537611a09faa3db7ae88fe3547589d24bcc0cbb09bd86"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "8e38ff256bfb7a0dc1c1399b723ceb2dcdac62f877975bdf5483c7b9271cf344"
 metafile = true
 
 [[files]]
