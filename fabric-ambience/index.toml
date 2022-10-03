@@ -69,6 +69,11 @@ hash = "da481c054a2671c6546413c1931ff90713edc950ad6a5462fc6798c478e01172"
 metafile = true
 
 [[files]]
+file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
+hash = "e16c3c7b7f85abcd007de5f7d4066284781700c1798d2e339b28af1193829235"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "1ec9dfa06e33af503dbd8ded0573daf20f866c286b54dab0813d9905d908fe3d"
 metafile = true
