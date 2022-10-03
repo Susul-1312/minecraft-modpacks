@@ -14,6 +14,11 @@ hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "25f249a88ba44e5db42aae4877790f528cc8805e54e9484239b3396e7b5fb4ac"
+metafile = true
+
+[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "856872aa18d99ee749be019b6b854aeaa1567f212b0d7b919c24b71b7b31901e"
 metafile = true
@@ -44,6 +49,11 @@ hash = "cd6b5907d8f15a87d3c1b3cf1f217af68e5826e74301c97d83920a5855f1684d"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "1fb7b679e08edeeb5d9720521ffd5966a67a38c9ee2ff7b8013ac9254cd93fb6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
@@ -59,8 +69,18 @@ hash = "7a6a89a3fc88f40c3e34ad03c596dccdaedbeb7d6896d80005313167cd6e56cc"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "3f4979b3bf621ce00e3ca876df47c2467fafac3118779bd8cb6800f31dc4f625"
+metafile = true
+
+[[files]]
 file = "mods/crimson-moon.pw.toml"
 hash = "08895d827a2bf8a492b4021c81147be7308f33d3d3f88fdadc820f7b1ba47fe6"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "51dca634f897c7840ec91bd734ddf837d18edfe80e68bba04c1dcb13e378486d"
 metafile = true
 
 [[files]]
@@ -84,8 +104,18 @@ hash = "4ffabce1544789331ae536132a001ce7b527d195e34f6929a37bcc554749fbe0"
 metafile = true
 
 [[files]]
+file = "mods/illuminations.pw.toml"
+hash = "3f6da5e369effa47f662723c3b8c8bc1b6756c03c7dc10dbc3ab6fb49ed17beb"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "d95061fc5e8c8f7fbde1322146a6272bebd37b4cf2ce367617c8dee52585291c"
 metafile = true
 
 [[files]]
@@ -101,6 +131,21 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "6efed395750fd72a1396750da222739ed5708b63bfb5fbad59b05ebec779e22c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "4af316eca31ccb03a3b314b7801bb89bf3d76eaf6321c23f5338cf365e6b65e5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "27e73e63118d0afa759317328e8d54bc1512bb6ed69ad96b6dca9ed472aba43f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "5dd16ad9b4057da6697197872580a42f92cbc3bf2a464871b8ff349163ea3f98"
 metafile = true
 
 [[files]]
@@ -139,8 +184,18 @@ hash = "8d81eeec3000c9f1471a47552c9acf0a389de66f8ccc36fe227c7438950e3cd7"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "394f42b683efbdd486804197815b47fd1263d26d8acb972cbbf0ba0bd3e66d50"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "3fd72c1dc35ee7b8361861b6c13bd6eca5ef93afe89e55970bacdf8a2c57759e"
 metafile = true
 
 [[files]]
