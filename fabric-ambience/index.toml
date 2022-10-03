@@ -104,11 +104,6 @@ hash = "4ffabce1544789331ae536132a001ce7b527d195e34f6929a37bcc554749fbe0"
 metafile = true
 
 [[files]]
-file = "mods/illuminations.pw.toml"
-hash = "3f6da5e369effa47f662723c3b8c8bc1b6756c03c7dc10dbc3ab6fb49ed17beb"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
@@ -191,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "5ada7f998eff54a09d5c31a6c8941b0f1017dc54217bba32583917010268dd9a"
 metafile = true
 
 [[files]]
