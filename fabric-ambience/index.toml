@@ -154,6 +154,11 @@ hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "7e7a9fc6a8457d8b2c1ed8332cec6dadba305a25191a5aa0cb34ddd1623c8f72"
+metafile = true
+
+[[files]]
 file = "mods/peeping-creepers.pw.toml"
 hash = "08379f6f4802cae9595a0b0395c25112b0ec38099422325f70b38f4f34b97ce4"
 metafile = true
