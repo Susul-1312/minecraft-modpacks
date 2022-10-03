@@ -5,6 +5,50 @@ file = "config/hardcore_torches.json5"
 hash = "cdb017a7ca60d8e28720da5e2cd585a953ddc936a131e4bf5745685271bff4e1"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/backpack.json"
+hash = "c6f3d292a922380b6ea3e8ed0b4935a663f3a6c0112056f7854830c171ef1285"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/campfire.json"
+hash = "47235479ee6c9ea4588228d7ac302ac4c0d368bf0813ce13dd9fbb2f47831bac"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/chalk.json"
+hash = "905b2dd594a04039d95e25a16bbd1a183315aa6c2aa44b2a62a15fdea489f870"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/challenge.json"
+hash = "3f07ffb0396501c1e818ad92df57a96352ac33dd92b581f9a53cbc5390916443"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/fat.json"
+hash = "de2acec4dcb4b7f868f4990ae9ef58bf4f1ec124809040df7833af95431ee5fb"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/lantern.json"
+hash = "5abfa485bd4361723fe9c1d397b2aa626d2881609006dcc64881caf5e7c251f7"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/smolder.json"
+hash = "126aab5ef041cbfdbb0449e0ce187bc8f0209bb9585163425051d020e0f34036"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/torch_light.json"
+hash = "eb8527faa5c040385f46f4e711f8ca5c4f9c528b71e1c883e54642977d2b6812"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/pack.mcmeta"
+hash = "e912e8e23809d30d15ebbd9009d4ae86ef18911cdb2f9b08f40094871a66d496"
+
+[[files]]
+file = "config/tips.json"
+hash = "fc484eee7e0610bf93331b612d31229de0dc80533d42b1ebcd99366a782b3799"
+
+[[files]]
 file = "index.html"
 hash = "31603893abe8727e5efd8de79683b2d21ce9639695d0e0c763d70a544aa0af64"
 
