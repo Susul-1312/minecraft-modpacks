@@ -53,6 +53,11 @@ file = "index.html"
 hash = "31603893abe8727e5efd8de79683b2d21ce9639695d0e0c763d70a544aa0af64"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
 metafile = true
@@ -113,6 +118,11 @@ hash = "7a6a89a3fc88f40c3e34ad03c596dccdaedbeb7d6896d80005313167cd6e56cc"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "0a82c23063612bf1baf43934323d8fca8dd23ddc2dc0a3db968f72d14b99e887"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3f4979b3bf621ce00e3ca876df47c2467fafac3118779bd8cb6800f31dc4f625"
 metafile = true
@@ -135,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
 hash = "e16c3c7b7f85abcd007de5f7d4066284781700c1798d2e339b28af1193829235"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ac550d593a055e3b0c5867ccc64c970f54978fb487be3dec333c303334a586f3"
 metafile = true
 
 [[files]]
@@ -165,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
 
 [[files]]
