@@ -283,6 +283,11 @@ hash = "de063dbe8bab50bb9516f10aba6156464226ed17341a392af81ccee111d5a2d1"
 metafile = true
 
 [[files]]
+file = "mods/void-fog.pw.toml"
+hash = "06589ac25f97659cbe4e0e43bd9066cc6aa024cb3b874503769ebc7e3c15c805"
+metafile = true
+
+[[files]]
 file = "mods/weeping-angels-mod.pw.toml"
 hash = "7a523be6c22a7b751c21c97b68b474653a638d4b64c78ec2abc124c3a4e3f2b9"
 metafile = true

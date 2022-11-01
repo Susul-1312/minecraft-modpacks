@@ -1,0 +1,13 @@
+name = "Void Fog"
+filename = "Void-Fog-2.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JRC9aXm9/versions/2.7.0/Void-Fog-2.7.0.jar"
+hash-format = "sha1"
+hash = "a980e0abab77b1ebb47ec8fa140b52eaaf887cfd"
+
+[update]
+[update.modrinth]
+mod-id = "JRC9aXm9"
+version = "vUPALIna"
