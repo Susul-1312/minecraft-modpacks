@@ -1,0 +1,13 @@
+name = "Dreampack"
+author = "Blue"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "deae491bd2d0347dcf335fe4ce86b75aa9486fffc03dfdd32fd24f2165a987f8"
+
+[versions]
+forge = "14.23.0.2486"
+minecraft = "1.12.2"
