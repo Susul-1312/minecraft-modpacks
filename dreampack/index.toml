@@ -151,6 +151,11 @@ hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
 metafile = true
 
 [[files]]
+file = "mods/thaumic-augmentation.pw.toml"
+hash = "a6910676b9f3710d653abb1ce46c2a3c53c7a6fc18cd5d54d5098c7b854308e5"
+metafile = true
+
+[[files]]
 file = "mods/thaumic-computers.pw.toml"
 hash = "ecb913cf712aab3070f60d821edc14f063b0c2af6d7811005f961eaf53f4d1f1"
 metafile = true
