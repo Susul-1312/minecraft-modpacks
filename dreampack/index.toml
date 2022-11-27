@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "index.html"
+hash = "5e65f6c696211abfb69bd577dbdec98a24ae42ae7482a73982bcdc8f2b14b858"
+
+[[files]]
 file = "mods/advanced-rocketry.pw.toml"
 hash = "00068ff25ed8dbf295aa7972e7e56e38e583f3c06ce1083984d4d1ad93a5a8e8"
 metafile = true
@@ -187,4 +191,4 @@ metafile = true
 
 [[files]]
 file = "readme.md"
-hash = "8098bfbabab060a578feed8bb91b8b18706e5b2a95910f805a857312999a3bb5"
+hash = "87530caa108bc61b98282888478be9ca15dda24e67b7540fc96e9069a92eead2"
