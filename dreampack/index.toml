@@ -20,6 +20,11 @@ hash = "326a3f2039867c0515e552f1ac3c396c62b136e560f126e3cf80975a0351a95f"
 metafile = true
 
 [[files]]
+file = "mods/arcane-archives.pw.toml"
+hash = "0f172097972b6d1be0cf645cd02a38350bd112df1bfe3f33249f06418f729c84"
+metafile = true
+
+[[files]]
 file = "mods/astral-sorcery.pw.toml"
 hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/mystcraft.pw.toml"
 hash = "42335fb85fa32b9dbb44a30093a845fdfa5e38e9547cefed3299e9ae8e9ace1a"
+metafile = true
+
+[[files]]
+file = "mods/mysticallib.pw.toml"
+hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
 metafile = true
 
 [[files]]
