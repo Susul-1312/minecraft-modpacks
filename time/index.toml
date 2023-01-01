@@ -162,3 +162,7 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "fb876963cc4a7804c3bfbf77cf2fca72f8925f2de41d612c6db6d614abea768e"
+
+[[files]]
+file = "scripts/ages.zs"
+hash = "6f860315b24d3a20d574580b0a9238769959485d59b4975b4ba9a48536c73040"

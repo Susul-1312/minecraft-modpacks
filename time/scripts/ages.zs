@@ -1,0 +1,9 @@
+mods.recipestages.Recipes.setRecipeStageByMod("machine", "immersiveengineering");
+mods.recipestages.Recipes.setRecipeStageByMod("machine", "immersivepetroleum");
+mods.recipestages.Recipes.setRecipeStageByMod("atomic", "icbmclassic");
+mods.recipestages.Recipes.setRecipeStageByMod("atomic", "nuclearcraft");
+mods.recipestages.Recipes.setRecipeStageByMod("atomic", "trinity");
+mods.recipestages.Recipes.setRecipeStageByMod("space", "ic2");
+mods.recipestages.Recipes.setRecipeStageByMod("space", "advancedrocketry");
+mods.recipestages.Recipes.setRecipeStageByMod("information", "opencomputers");
+mods.recipestages.Recipes.setRecipeStageByMod("information", "computronics");
