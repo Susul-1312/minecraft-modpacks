@@ -1,9 +1,14 @@
-mods.recipestages.Recipes.setRecipeStageByMod("machine", "immersiveengineering");
-mods.recipestages.Recipes.setRecipeStageByMod("machine", "immersivepetroleum");
-mods.recipestages.Recipes.setRecipeStageByMod("atomic", "icbmclassic");
-mods.recipestages.Recipes.setRecipeStageByMod("atomic", "nuclearcraft");
-mods.recipestages.Recipes.setRecipeStageByMod("atomic", "trinity");
-mods.recipestages.Recipes.setRecipeStageByMod("space", "ic2");
-mods.recipestages.Recipes.setRecipeStageByMod("space", "advancedrocketry");
-mods.recipestages.Recipes.setRecipeStageByMod("information", "opencomputers");
-mods.recipestages.Recipes.setRecipeStageByMod("information", "computronics");
+mods.ItemStages.stageModItems("machine", "immersiveengineering");
+mods.ItemStages.stageModItems("machine", "immersivepetroleum");
+mods.ItemStages.stageModItems("atomic", "icbmclassic");
+mods.ItemStages.stageModItems("atomic", "nuclearcraft");
+mods.ItemStages.stageModItems("atomic", "trinity");
+mods.ItemStages.stageModItems("space", "ic2");
+mods.ItemStages.stageModItems("space", "advancedrocketry");
+mods.ItemStages.stageModItems("information", "opencomputers");
+mods.ItemStages.stageModItems("information", "computronics");
+
+mods.ItemStages.removeItemStage(<ore:plate*>);
+mods.ItemStages.removeItemStage(<ore:nugget*>);
+mods.ItemStages.removeItemStage(<ore:ore*>);
+mods.ItemStages.removeItemStage(<ore:ingot*>);

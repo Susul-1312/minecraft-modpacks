@@ -124,11 +124,6 @@ hash = "c61de336f3aaaa0d155163b5390ccf07b78180a85ec1d43868e8c4fdff20054f"
 metafile = true
 
 [[files]]
-file = "mods/recipe-stages.pw.toml"
-hash = "07d687fea814f6ab1a1567bcabd62ae15fb3c22d9b8c4b7a88bf160db02e842b"
-metafile = true
-
-[[files]]
 file = "mods/regrowth.pw.toml"
 hash = "8ac5a19a65061eee7acca7adb0d6cc7587adeef9860a84403229caadd27243db"
 metafile = true
@@ -179,4 +174,4 @@ hash = "fb876963cc4a7804c3bfbf77cf2fca72f8925f2de41d612c6db6d614abea768e"
 
 [[files]]
 file = "scripts/ages.zs"
-hash = "6f860315b24d3a20d574580b0a9238769959485d59b4975b4ba9a48536c73040"
+hash = "bf9000fe1e344b631359bc1969c753c133a300595f473f07ce53ac271df38348"
