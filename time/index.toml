@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/gamestages/known_stages.json"
+hash = "ff8dd28b09fb39ac40d198037680de5eac73c447e8b39375f108b105d3919076"
+
+[[files]]
 file = "index.html"
 hash = "5c745ba5508bfc6b67c6aa0ff80f687c7e9d7bd0a353a15bc1ff38f432477af2"
 
