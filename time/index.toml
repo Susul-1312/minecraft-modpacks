@@ -20,6 +20,11 @@ hash = "115fb2e2dc9a7a6927ccc90c3def1c56f68fd246df5cc7ab85f2e0212f146787"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "1901eae762e0e63ea74a253835c684c9f8ebdc533e2dd2a99a8ffaff92fef58e"
 metafile = true
@@ -37,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "e8d1cfc13226f6633ebd7fef08e6818471969453778bb4d7e99c8ca09250831a"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "586a89f27eec933e166c5e1fb90f0909b9f2b219419a432aaad1e1c8865edd28"
+metafile = true
+
+[[files]]
+file = "mods/game-stages.pw.toml"
+hash = "58473bbbfb72a4e7aa553ecee24cc654756443860042af596ec94d2e94ac3be9"
 metafile = true
 
 [[files]]
@@ -102,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "c61de336f3aaaa0d155163b5390ccf07b78180a85ec1d43868e8c4fdff20054f"
+metafile = true
+
+[[files]]
+file = "mods/recipe-stages.pw.toml"
+hash = "07d687fea814f6ab1a1567bcabd62ae15fb3c22d9b8c4b7a88bf160db02e842b"
 metafile = true
 
 [[files]]
