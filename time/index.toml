@@ -70,11 +70,6 @@ hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
 metafile = true
 
 [[files]]
-file = "mods/immersive-railroading.pw.toml"
-hash = "8142b434d15baa49253cf4ca09ee26bee07ac0bce52ae4211979bb1f06257590"
-metafile = true
-
-[[files]]
 file = "mods/industrial-craft.pw.toml"
 hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
@@ -135,11 +130,6 @@ hash = "d92f03f56fdcf1ed768593bb7e5e2f287dedaecd56e5abf05ec58f85722c1665"
 metafile = true
 
 [[files]]
-file = "mods/track-api.pw.toml"
-hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
-metafile = true
-
-[[files]]
 file = "mods/traverse-reforged.pw.toml"
 hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
 metafile = true
@@ -152,11 +142,6 @@ metafile = true
 [[files]]
 file = "mods/unidict.pw.toml"
 hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
-metafile = true
-
-[[files]]
-file = "mods/universal-mod-core.pw.toml"
-hash = "2c83c967888d9c46edb2e1191bc5c9e7760a4b290bd7c7dd346a923dd7b63735"
 metafile = true
 
 [[files]]
