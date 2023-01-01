@@ -1,0 +1,13 @@
+name = "Research Table 🔬"
+filename = "ResearchTable-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c18c8f9352f0e4f87382f4af86cb637f624f459"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3479716
+project-id = 307346

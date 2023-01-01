@@ -79,6 +79,11 @@ hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
 
 [[files]]
+file = "mods/item-stages.pw.toml"
+hash = "cbdaa55b50ad2751bfe5fb532484bc66976d441704c42eae1819e7885c8c6c75"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "a39db085d980dcf786ea711276308ab7a0ef8424da5c3fb258389b78b6ef4023"
 metafile = true
@@ -126,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/regrowth.pw.toml"
 hash = "8ac5a19a65061eee7acca7adb0d6cc7587adeef9860a84403229caadd27243db"
+metafile = true
+
+[[files]]
+file = "mods/research-table.pw.toml"
+hash = "aea0873a5620de25b67a0c889c231c4f7612cf3ea4a6f57961933b9e331a17c7"
 metafile = true
 
 [[files]]
