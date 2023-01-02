@@ -5,6 +5,14 @@ file = "config/gamestages/known_stages.json"
 hash = "ff8dd28b09fb39ac40d198037680de5eac73c447e8b39375f108b105d3919076"
 
 [[files]]
+file = "config/itemstages.cfg"
+hash = "62ff957b5fa8fc2e08c78e1b1ff88237420df3ef212ba4db871a200f15114e0b"
+
+[[files]]
+file = "config/researchtable.cfg"
+hash = "bd9a86f30827c5d1591e066911c585dd346a215fa4e21e0c639266b0af759323"
+
+[[files]]
 file = "index.html"
 hash = "5c745ba5508bfc6b67c6aa0ff80f687c7e9d7bd0a353a15bc1ff38f432477af2"
 
@@ -174,4 +182,8 @@ hash = "fb876963cc4a7804c3bfbf77cf2fca72f8925f2de41d612c6db6d614abea768e"
 
 [[files]]
 file = "scripts/ages.zs"
-hash = "bf9000fe1e344b631359bc1969c753c133a300595f473f07ce53ac271df38348"
+hash = "76fdc3682aea9bfd87933c98485de728f768efd71c66c9694d0db32797375509"
+
+[[files]]
+file = "scripts/research.zs"
+hash = "28d55d3fbbff767ba0d6cb31043ff2ff967189bbc1687b0ca29a51cdf03f9ba9"
