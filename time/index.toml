@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/gamestages/known_stages.json"
-hash = "ff8dd28b09fb39ac40d198037680de5eac73c447e8b39375f108b105d3919076"
+hash = "d5e0d6a9694a279d4fbcd96df98edad8d64fbd1317a320113af4dfe5cdab8a2b"
 
 [[files]]
 file = "config/itemstages.cfg"
@@ -24,6 +24,21 @@ metafile = true
 [[files]]
 file = "mods/advanced-rocketry.pw.toml"
 hash = "00068ff25ed8dbf295aa7972e7e56e38e583f3c06ce1083984d4d1ad93a5a8e8"
+metafile = true
+
+[[files]]
+file = "mods/alchemistry.pw.toml"
+hash = "4f1863018a3ba4060c192acadce52dcf187a6fde6915468c9584a22bcf63402d"
+metafile = true
+
+[[files]]
+file = "mods/alchemylib.pw.toml"
+hash = "326a3f2039867c0515e552f1ac3c396c62b136e560f126e3cf80975a0351a95f"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
 metafile = true
 
 [[files]]
@@ -142,6 +157,11 @@ hash = "aea0873a5620de25b67a0c889c231c4f7612cf3ea4a6f57961933b9e331a17c7"
 metafile = true
 
 [[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "d92f03f56fdcf1ed768593bb7e5e2f287dedaecd56e5abf05ec58f85722c1665"
 metafile = true
@@ -182,8 +202,12 @@ hash = "fb876963cc4a7804c3bfbf77cf2fca72f8925f2de41d612c6db6d614abea768e"
 
 [[files]]
 file = "scripts/ages.zs"
-hash = "76fdc3682aea9bfd87933c98485de728f768efd71c66c9694d0db32797375509"
+hash = "d6b014d6d5835db0f3d59dcdb985405cfa9a177f4732ebc97257501bee34aa15"
+
+[[files]]
+file = "scripts/general.zs"
+hash = "3d0f4967dc20db9458aa32465d2552e3be72a5aa7d3e687e93ab18928022cf48"
 
 [[files]]
 file = "scripts/research.zs"
-hash = "28d55d3fbbff767ba0d6cb31043ff2ff967189bbc1687b0ca29a51cdf03f9ba9"
+hash = "2394dd74a7ebe102aa06d8e96334b283f7e5d3d072953a4df6dd65211f24d22c"
