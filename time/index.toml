@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/aquaacrobatics.cfg"
-hash = "4a711b14b5033e13eb81785e1aea9cb592eab1d5deca47a7a1c6f207247b9de2"
+hash = "49c3dad7c8d0ab28fa56e581e7bc8af9ca68ed12bc388992f3b0e39f661e60e0"
 
 [[files]]
 file = "config/clearwater.cfg"
-hash = "910aaf76ebe54825db00bd305734759d74abd15928611ecd722ed6f18e668aed"
+hash = "193525d5629ad77c156270f27729d658a3c975182a7b0d3d224c19eb1e04cde9"
 
 [[files]]
 file = "config/gamestages/known_stages.json"
