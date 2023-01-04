@@ -32,6 +32,12 @@ for item in (<ore:plateIron> | <ore:plateGold> | <ore:plateCopper> | <ore:plateT
     mods.ItemStages.addItemStage("mechanics", item);
 }
 
+// Lets restage the basics early in the morning
+for item in (<ore:ingotSteel> | <ore:plateSteel>).items{
+    mods.ItemStages.removeItemStage(item);
+    mods.ItemStages.addItemStage("mechanics", item);
+}
+
 mods.ItemStages.removeItemStage(<appliedenergistics2:material:7>);
 mods.ItemStages.addItemStage("chemistry", <appliedenergistics2:material:7>);
 
