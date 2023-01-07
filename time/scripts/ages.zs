@@ -33,7 +33,7 @@ for item in (<ore:plateIron> | <ore:plateGold> | <ore:plateCopper> | <ore:plateT
 }
 
 // Lets restage the basics early in the morning
-for item in (<ore:ingotSteel> | <ore:plateSteel>).items{
+for item in (<ore:ingotSteel> | <ore:plateSteel> | <ore:blockSteel>).items{
     mods.ItemStages.removeItemStage(item);
     mods.ItemStages.addItemStage("mechanics", item);
 }
