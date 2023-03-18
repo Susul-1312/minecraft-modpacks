@@ -1,0 +1,78 @@
+hash-format = "sha256"
+
+[[files]]
+file = "index.html"
+hash = "68a90d7ba6bd0b26d32c1d95e07723c19b7cba858b9cfc891606bb17fcbb0b3b"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "434bea6bc8c6b9abe951688847292ea5cf32a1d4b585e9e1d3f13f1dca58c3ff"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "80f49d10263dca41505fd9a2c41c58209bd8f35ebd242e00e29b14d87abd9955"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "741141875e3195675988173f2ee04ec2cef83d536dfdae9382f8144013737865"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "9966fa77d57235f7460b84632e7b89188b2944787f23214f87a10908f5aed867"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "cdf0700ff83b93af99c5c2c543a902cae02660ec4b6d18a19143ab7cb7b9591c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "14c0b1711134071fdc63c9085830a2df973da4ee453f6b149aeb7cf522ce5317"
+
+[[files]]
+file = "wait-for-update"
+hash = "7a0823eef3d00aa07bf3bc18d55ee5eb26e76352c03f0c491188d25a682cc701"

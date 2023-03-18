@@ -1,0 +1,13 @@
+name = "Performance Optimizations"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7279e77f65efd14214f0d9626b9416c6404d301adf8647e485a200a382466ba5"
+
+[versions]
+fabric = "0.14.17"
+minecraft = "1.19.4"
