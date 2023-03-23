@@ -15,6 +15,11 @@ hash = "434bea6bc8c6b9abe951688847292ea5cf32a1d4b585e9e1d3f13f1dca58c3ff"
 metafile = true
 
 [[files]]
+file = "mods/dcwa.pw.toml"
+hash = "4f9f6239c807264164b75ab1e11fc140e27b9a29c7e9b50c55b1bf53c98661c8"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -55,6 +60,11 @@ hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "9966fa77d57235f7460b84632e7b89188b2944787f23214f87a10908f5aed867"
 metafile = true
@@ -62,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cdf0700ff83b93af99c5c2c543a902cae02660ec4b6d18a19143ab7cb7b9591c"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
@@ -75,4 +90,4 @@ hash = "14c0b1711134071fdc63c9085830a2df973da4ee453f6b149aeb7cf522ce5317"
 
 [[files]]
 file = "wait-for-update"
-hash = "7a0823eef3d00aa07bf3bc18d55ee5eb26e76352c03f0c491188d25a682cc701"
+hash = "1b0abb68a4ba9d30d14baed58d4a1c962267699774a563e6cf601bd7a0bf13d0"
