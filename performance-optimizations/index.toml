@@ -80,6 +80,11 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
@@ -90,4 +95,4 @@ hash = "14c0b1711134071fdc63c9085830a2df973da4ee453f6b149aeb7cf522ce5317"
 
 [[files]]
 file = "wait-for-update"
-hash = "1b0abb68a4ba9d30d14baed58d4a1c962267699774a563e6cf601bd7a0bf13d0"
+hash = "a883e044ece1fb73b1317be4d4c0e4172a2f929782f2139b2460f7b3b31b82bc"
