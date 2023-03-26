@@ -1,0 +1,13 @@
+name = "Futuristic Industrialism"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "58ad87e4c6a98ac0d296d0f41782c38df844a61b57234fed1057ca6f82c3d244"
+
+[versions]
+fabric = "0.14.18"
+minecraft = "1.19.3"

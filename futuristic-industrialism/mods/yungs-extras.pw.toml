@@ -1,0 +1,13 @@
+name = "YUNG's Extras"
+filename = "YungsExtras-1.19.3-Fabric-3.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/NxK9Eu2q/YungsExtras-1.19.3-Fabric-3.2.0.jar"
+hash-format = "sha1"
+hash = "e9ca513ac8b9f9943e7ed38dc0f19494dab700ab"
+
+[update]
+[update.modrinth]
+mod-id = "ZYgyPyfq"
+version = "NxK9Eu2q"

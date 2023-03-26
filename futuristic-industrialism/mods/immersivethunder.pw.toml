@@ -1,0 +1,13 @@
+name = "ImmersiveThunder"
+filename = "ImmersiveThunder-fabric-1.19.4+1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uKjKoMsj/versions/jQvsnRrr/ImmersiveThunder-fabric-1.19.4%2B1.1.2.jar"
+hash-format = "sha1"
+hash = "8b6f715c7f39975f723f7afe0684809ed2eec10a"
+
+[update]
+[update.modrinth]
+mod-id = "uKjKoMsj"
+version = "jQvsnRrr"

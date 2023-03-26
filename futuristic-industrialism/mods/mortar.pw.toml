@@ -1,0 +1,13 @@
+name = "Mortar"
+filename = "mortar-mc1.19.3-v1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/26zEKxNr/versions/cGt1SXey/mortar-mc1.19.3-v1.0.1.jar"
+hash-format = "sha1"
+hash = "da1afb7d76b305e3f7ac5c1b36435c2dc2d6ece8"
+
+[update]
+[update.modrinth]
+mod-id = "26zEKxNr"
+version = "cGt1SXey"
