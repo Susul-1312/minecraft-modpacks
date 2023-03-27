@@ -1,0 +1,13 @@
+name = "EMIffect"
+filename = "emiffect-0.1.5+mc1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/705gWllI/versions/P762vbTe/emiffect-0.1.5%2Bmc1.19.3.jar"
+hash-format = "sha1"
+hash = "91252f66fa70fa3ebaed11b5143efbaaf56cefff"
+
+[update]
+[update.modrinth]
+mod-id = "705gWllI"
+version = "P762vbTe"

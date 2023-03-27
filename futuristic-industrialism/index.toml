@@ -55,6 +55,26 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "7816938e8968e092c38dc5d4fdbfe24175f88ba4715d882598b8f0bb21d7c639"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "5d099ba56637ddc215666c092f03cd647751a2e6d2ed41880e23c8e5217c79e1"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "85fa10f231e5feb098d7661085b189d7deabdde0ff17c1e899da4599d9511b07"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "2b1426166acbd700135de9985cdef704eda759c257438f21daad6068dc9a0a95"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
 metafile = true
@@ -185,28 +205,8 @@ hash = "eb4420f64de5a7dacb0e4f2f2852a84064853c05a6137373258548ceed7a12b3"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "b133ebe5db0b754e2bd66e7b0b419c063fda94b19d253c4ff27b096253965bba"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "7fdafe436fce7c2fdbcac7f83edbec4a30ea71d42914e6682d85cab72c76e9ad"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-loot-tables.pw.toml"
-hash = "d6696013c9c6bafa947b8e998124080bb41c97fe89d1c91098ca1dbec3350e37"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "fb57bda09abe002d7b94f1e9e3f6e836874c0de950d026da273853337d9aac87"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "44743a46e6f1af55144f3fcc91005499757cba9c34122ed759ae0bcde2ed5bb4"
 metafile = true
 
 [[files]]
