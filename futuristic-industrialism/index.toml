@@ -75,6 +75,11 @@ hash = "2b1426166acbd700135de9985cdef704eda759c257438f21daad6068dc9a0a95"
 metafile = true
 
 [[files]]
+file = "mods/energized-power.pw.toml"
+hash = "9e940eca8ca1eda828f886c45f4206deb98a00fad3db53eab9ba6d7738529c14"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
 metafile = true
