@@ -45,16 +45,6 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
-metafile = true
-
-[[files]]
-file = "mods/create-renewable-ores.pw.toml"
-hash = "fd20d186c194b41b945a5308ff42136965464d311a4b29d3b4f6866616860bae"
-metafile = true
-
-[[files]]
 file = "mods/doors.pw.toml"
 hash = "be1b4fff8f2946c1f647d9e47dd33166e240da6f3e25b44b62d0eeb457569f6a"
 metafile = true
