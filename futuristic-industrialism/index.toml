@@ -85,6 +85,11 @@ hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
 metafile = true
 
 [[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "2605093f114b83cd602addb28ff43cc15b465dc923f3b0f15f0a6408eb5ad525"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3631c36fa685ff8b408b83f41cb5ed62d44a10314247a379c20bceaae32ce88b"
 metafile = true
