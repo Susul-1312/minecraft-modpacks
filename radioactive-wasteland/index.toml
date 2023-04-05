@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/mekanism.cfg"
+hash = "788b88726c6a6e3d9cc39288d7748d640ef8cb46bbd7809b1cad65309bb62ba7"
+
+[[files]]
 file = "config/nuclearcraft.cfg"
 hash = "d5bb650aedb9ce4632e0ef9ceff756b7775f95e4ad82a0a7f4534a74ec1e26e0"
 
