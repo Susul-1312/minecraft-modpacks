@@ -1,0 +1,13 @@
+name = "Radioactive Wasteland"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9c854ff8f2b4006fbcd7d9428c83ee4889de82b7c63b1710c019c605f59c6f93"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

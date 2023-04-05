@@ -1,0 +1,98 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/nuclearcraft.cfg"
+hash = "d5bb650aedb9ce4632e0ef9ceff756b7775f95e4ad82a0a7f4534a74ec1e26e0"
+
+[[files]]
+file = "index.html"
+hash = "3ddd24510f0955ee1bb94201181580f52d07f6fa38d5b71749017b39f8e7bafc"
+
+[[files]]
+file = "mods/agricraft.pw.toml"
+hash = "55f7d78f2ac1e056acab58d6fb073a51bd64af8abc507819c9be719eaf8c6235"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
+metafile = true
+
+[[files]]
+file = "mods/aqua-acrobatics.pw.toml"
+hash = "115fb2e2dc9a7a6927ccc90c3def1c56f68fd246df5cc7ab85f2e0212f146787"
+metafile = true
+
+[[files]]
+file = "mods/computronics.pw.toml"
+hash = "ff8a20cf33da23c0c1b7df0640ab960c158c5729e85f14d48eed38d0d4352dcc"
+metafile = true
+
+[[files]]
+file = "mods/forestry.pw.toml"
+hash = "0fcbf068bdf8fe52c5ef3136b3d76108b7ed514353ec9c38ca030c9bb88787e8"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "f95fbfd24205ef5f4eaea0ef052c4ae3c2c8f57d3dab77d54da85f8912b19f97"
+metafile = true
+
+[[files]]
+file = "mods/infinitylib.pw.toml"
+hash = "049829767ce58c31a916f27dda0e368a8e0564ffad4c138db49ff72dfe17eb87"
+metafile = true
+
+[[files]]
+file = "mods/jei-bees.pw.toml"
+hash = "5217258c2ca6fedd22cc77af64c9c5572b871df90b737d67a0b646020d69781f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "cda01bf4d35760f39fba127b80337559dbd82e75edd63c268f87ef6f02eb460b"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ad1cbcb45a295913115227ab17d09460cd86ddde624d3ecf04cee7b5d07a2c03"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "585af8e8ddd35f290d39127c22d133b803ca2ff36eb2994fa11bf33d2e9bf9f2"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "a9534d73df10ac0b2a91ef645ca7ad7ca2d7f51de82c276123cc364236cd0d65"
+metafile = true
+
+[[files]]
+file = "mods/nuclearcraft-overhauled.pw.toml"
+hash = "f26ccfdf7d8799345b2d4cd447ddf17daefc3c5fecb40efc9817e3eeb559bee6"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "af483d5e01f2f4a487e613020b041e686fceddbcb504468a67cf14245a845bf0"
+metafile = true
+
+[[files]]
+file = "mods/unidict.pw.toml"
+hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
+metafile = true
+
+[[files]]
+file = "mods/wanionlib.pw.toml"
+hash = "c7ccd04b86ab565a6728caed521d36346b312aeeb1055dfda5b1e379cb8a9565"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "90ed247fbecac4c9a6bd07942c40473da62220657bb89f6771b00729d0a963b1"
