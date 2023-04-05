@@ -74,6 +74,11 @@ hash = "a9534d73df10ac0b2a91ef645ca7ad7ca2d7f51de82c276123cc364236cd0d65"
 metafile = true
 
 [[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "ce1c9fd18602071c7abd88dd31fb2023fff6e7655fd42fb538fd09adcd391a90"
+metafile = true
+
+[[files]]
 file = "mods/nuclearcraft-overhauled.pw.toml"
 hash = "f26ccfdf7d8799345b2d4cd447ddf17daefc3c5fecb40efc9817e3eeb559bee6"
 metafile = true
