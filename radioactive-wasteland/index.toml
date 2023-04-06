@@ -112,8 +112,18 @@ hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
 metafile = true
 
 [[files]]
+file = "mods/waila-harvestability.pw.toml"
+hash = "57dcdf70cea23a3a1d9f4f12594dc624fb3bb3e0c0fbb2aa4a2a1f817b345816"
+metafile = true
+
+[[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "c7ccd04b86ab565a6728caed521d36346b312aeeb1055dfda5b1e379cb8a9565"
+metafile = true
+
+[[files]]
+file = "mods/wasaila.pw.toml"
+hash = "6602dc64af3386d045f8295daed9196ef8b9b2685a3647a1632711d574626318"
 metafile = true
 
 [[files]]

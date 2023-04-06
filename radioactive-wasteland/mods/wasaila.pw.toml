@@ -1,0 +1,13 @@
+name = "Wasaila"
+filename = "Wasaila-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a9c171c9c64bfb8ac992ef7d9d4ac0b00bfd7d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2668865
+project-id = 313252
