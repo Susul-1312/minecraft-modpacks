@@ -1,8 +1,9 @@
 # Radioactive Wasteland
 
-After generating a world, run two commands:<br>
-	/nc_set_chunk_radius_radiation 10 50<br>
-	/nc_set_chunk_radius_radiation 0 3<br>
+After generating a world, run three commands:<br />
+`/nc_set_chunk_radius_radiation 10 50`<br />
+`/nc_set_chunk_radius_radiation 0 3`<br />
+`/nc_set_player_radiation 0`<br />
 Note that the first command might lag for a while, this is ok and intended, just wait for it to complete. These commands will irradiate everything in a 50 chunk radius except for a 7x7 square at your spawn, which players will be able to move in freely
 
 IC²'s distribution rules are a little bit annoying, requiring explicit credit in human readable form, so here:<br>
