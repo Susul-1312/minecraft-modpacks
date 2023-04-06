@@ -9,6 +9,10 @@ file = "config/nuclearcraft.cfg"
 hash = "d5bb650aedb9ce4632e0ef9ceff756b7775f95e4ad82a0a7f4534a74ec1e26e0"
 
 [[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "088e702ff2cc06f22a4c3cd98453d5e4cebc56eb9fcd875de72e3f0ea95234dc"
+
+[[files]]
 file = "index.html"
 hash = "a6e560170f873c1ad829e07ea438d04c2a41a2a5c7fe4bdc9a46d9b9f80407b9"
 
@@ -25,6 +29,11 @@ metafile = true
 [[files]]
 file = "mods/aqua-acrobatics.pw.toml"
 hash = "115fb2e2dc9a7a6927ccc90c3def1c56f68fd246df5cc7ab85f2e0212f146787"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
 metafile = true
 
 [[files]]
@@ -89,7 +98,12 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "af483d5e01f2f4a487e613020b041e686fceddbcb504468a67cf14245a845bf0"
+hash = "74f8def6d7450b838727c52206ad90d2813325fef2796185aea4d13c980795a3"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "8706fffb7b175ef25ed810ff3b462714ff9ca978a7db9ff203d2ebce115bfae5"
 metafile = true
 
 [[files]]
