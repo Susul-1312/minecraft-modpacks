@@ -37,11 +37,6 @@ hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
 metafile = true
 
 [[files]]
-file = "mods/commons0815.pw.toml"
-hash = "aba619ad14a84abdcb9993a7aca90ee7d052f45b2f2825e89e3da0b90c001d7e"
-metafile = true
-
-[[files]]
 file = "mods/computronics.pw.toml"
 hash = "ff8a20cf33da23c0c1b7df0640ab960c158c5729e85f14d48eed38d0d4352dcc"
 metafile = true
@@ -104,11 +99,6 @@ metafile = true
 [[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "74f8def6d7450b838727c52206ad90d2813325fef2796185aea4d13c980795a3"
-metafile = true
-
-[[files]]
-file = "mods/openglasses2.pw.toml"
-hash = "be80a6f0e3109bd4a647e05f1953e42ba40ecb537e709416a88d187e1bb8f54d"
 metafile = true
 
 [[files]]
