@@ -1,0 +1,13 @@
+name = "DesirePaths"
+filename = "desirepaths-1.12.1-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7707bd37817e1bb9738ef12893cb26a5ce106e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2679314
+project-id = 307301

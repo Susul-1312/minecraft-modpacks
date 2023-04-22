@@ -1,0 +1,13 @@
+name = "S Pack"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "07ebb7ab19ca38ab7d225f7d63fe375cbce5cfe93d056f3ce2a637293afb66af"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

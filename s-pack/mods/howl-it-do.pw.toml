@@ -1,0 +1,13 @@
+name = "Howl It Do?"
+filename = "howl-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57875c62a690baafbe27828e0df6222d6cf9d41d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2862186
+project-id = 306610

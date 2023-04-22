@@ -1,0 +1,13 @@
+name = "Wasaila"
+filename = "Wasaila-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BSvnxoIJ/versions/1.0.0/Wasaila-1.0.jar"
+hash-format = "sha1"
+hash = "6a9c171c9c64bfb8ac992ef7d9d4ac0b00bfd7d0"
+
+[update]
+[update.modrinth]
+mod-id = "BSvnxoIJ"
+version = "Ec495LCV"

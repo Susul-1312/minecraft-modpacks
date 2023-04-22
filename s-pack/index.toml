@@ -1,0 +1,154 @@
+hash-format = "sha256"
+
+[[files]]
+file = "index.html"
+hash = "0788d593e5db9b508cf2ac8af0ee2fe4e08e1cb9a2d1d7e12ba3ce957b747a85"
+
+[[files]]
+file = "mods/agricraft.pw.toml"
+hash = "55f7d78f2ac1e056acab58d6fb073a51bd64af8abc507819c9be719eaf8c6235"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0f443a766d9cc4f8292b8bbba1994fdf992d76f935d77e812de262225d9d6157"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2b21defe55c00e45d68f58812614a342d8a890677ea201d7daa5ecc6b6deb72d"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "86e34e25bcd7111f534c634de3df33366e09d16902438f7bdebe8f512a7d6544"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "974bfdc724a130e0f50828c9abb7b82c4f38f6ab2ffbfe1ddf2878f9f2bf249b"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "83d6d4ceba620560a694340ea122e062834c9746fe6a207994b467d128051bd5"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "be62c3108c996dbd1e971903441926e3d85cfa0ae4839666fea9e0c653de92b5"
+metafile = true
+
+[[files]]
+file = "mods/desirepaths.pw.toml"
+hash = "d114eba88ab4fb7aab73dc430d2041a3bb9dae69d34fe73802164724ef753702"
+metafile = true
+
+[[files]]
+file = "mods/howl-it-do.pw.toml"
+hash = "fd0a73f4211eb13421531007199d924e57bc7f99bdcf983ee6e8241b54fb2f05"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "fa44141edef2d65756f7e32f2da4d332a375bd14c1fd77645e18785569f0f4d1"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
+metafile = true
+
+[[files]]
+file = "mods/immersive-railroading.pw.toml"
+hash = "2ac8e11041a7d6f2fde341e03a49f03c6f1763ac364c9d2b725d2f9bc22f7317"
+metafile = true
+
+[[files]]
+file = "mods/infinitylib.pw.toml"
+hash = "049829767ce58c31a916f27dda0e368a8e0564ffad4c138db49ff72dfe17eb87"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fc1f17adc1ca1dc160e053b4f6026b9c5d72dbfd3426987035670fa54afd26ba"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-petroleum.pw.toml"
+hash = "010b10d09b9795700cf164f767ed1d1703b16a25dd879972fedffb1036e57a40"
+metafile = true
+
+[[files]]
+file = "mods/libnine.pw.toml"
+hash = "64d6e39b5d51503a28f35961c1b507f19a74149342dcbb05521a9433d24596b8"
+metafile = true
+
+[[files]]
+file = "mods/librarianlib.pw.toml"
+hash = "c09ef7a87aaa6c9db80818c57236f08265aaf43b66177f138a0ae69b8c776893"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "e8e4324356038197b55d8f88bf82e518c04d9694c6d801dd1834b93b4b27f1b9"
+metafile = true
+
+[[files]]
+file = "mods/psi.pw.toml"
+hash = "6a6cc523738ff3e7b89b5c2c094b4032fe441da493100f678004237b6896eccc"
+metafile = true
+
+[[files]]
+file = "mods/psio.pw.toml"
+hash = "1394864196e8baa16b15f78434ae5e388deb40dfbb3dab93ad0095e43653e8a2"
+metafile = true
+
+[[files]]
+file = "mods/random-psideas.pw.toml"
+hash = "925db478f825f965819dce10b064ce014e6015d111984a082bcce1602bb9e88e"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "97674afa38fff47d407224dd924b1622c97c081799f53dca3ad3d55f3e1021ba"
+metafile = true
+
+[[files]]
+file = "mods/track-api.pw.toml"
+hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
+metafile = true
+
+[[files]]
+file = "mods/universal-mod-core.pw.toml"
+hash = "1bf8016cf98dc275e4cd9e63bd794d0aff0dbf81b41b1c1432b617b454574384"
+metafile = true
+
+[[files]]
+file = "mods/wasaila.pw.toml"
+hash = "bd73a6f30f2efc3d536f119ed57404da5226bafba77182eb706b43c9630d342a"
+metafile = true
+
+[[files]]
+file = "mods/wizardry-mod.pw.toml"
+hash = "9f4654184fae3fc4363a039ac84452168db5bcbdc66381af18716c3fc7775f71"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "084d66277e54c2e0f0f09c84e8699f8d03133c2d0d3bba7eb6fec23ba7929227"

@@ -1,0 +1,13 @@
+name = "Random PSIdeas"
+filename = "rpsideas-2.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b1df3d12cddf8298af2a1220817950479f6f4ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2725942
+project-id = 302313
