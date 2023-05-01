@@ -40,6 +40,11 @@ hash = "974bfdc724a130e0f50828c9abb7b82c4f38f6ab2ffbfe1ddf2878f9f2bf249b"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
