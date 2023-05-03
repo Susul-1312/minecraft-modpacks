@@ -145,6 +145,11 @@ hash = "97674afa38fff47d407224dd924b1622c97c081799f53dca3ad3d55f3e1021ba"
 metafile = true
 
 [[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "c71fec6b29afa76df1d182f785a6eb63ba1184bf146be4a735535e7eaa5ecacd"
+metafile = true
+
+[[files]]
 file = "mods/track-api.pw.toml"
 hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
 metafile = true
