@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/jei/jei-client.ini"
+hash = "35ac845766752a61fb7360f63ebebb69ae36cf6402a056b77de29619ef89ef20"
+
+[[files]]
 file = "index.html"
 hash = "f8b92536490948eb7a1b80a23bcca40b62d66f1904f7d9cc7d90207c3eb64bc5"
 
