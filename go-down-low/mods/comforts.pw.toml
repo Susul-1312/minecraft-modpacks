@@ -1,0 +1,13 @@
+name = "Comforts"
+filename = "comforts-forge-1.18.2-5.0.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/DFNEJtPk/comforts-forge-1.18.2-5.0.0.6.jar"
+hash-format = "sha1"
+hash = "738aa237f6b8e82a5b4ad8af9d9e371fbd25eb08"
+
+[update]
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "DFNEJtPk"

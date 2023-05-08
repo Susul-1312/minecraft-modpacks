@@ -1,0 +1,13 @@
+name = "Stonecutter Recipe Tags"
+filename = "stonecutter_recipe_tags-3.0.1+1.18.bc850d5.forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BcCkI96l/versions/3.0.1-forge/stonecutter_recipe_tags-3.0.1%2B1.18.bc850d5.forge.jar"
+hash-format = "sha1"
+hash = "4f6d9af3d282da440266230745cd4238c770ecc9"
+
+[update]
+[update.modrinth]
+mod-id = "BcCkI96l"
+version = "omG6euq9"

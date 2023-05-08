@@ -1,0 +1,13 @@
+name = "Reforgium"
+filename = "reforgium-1.18.2-1.0.12a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vmn85VI7/versions/uCq6zZWl/reforgium-1.18.2-1.0.12a.jar"
+hash-format = "sha1"
+hash = "75530289d19191dcc80ced1b63ce7fca360f32ae"
+
+[update]
+[update.modrinth]
+mod-id = "vmn85VI7"
+version = "uCq6zZWl"

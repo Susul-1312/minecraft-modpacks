@@ -1,0 +1,13 @@
+name = "Overworld Quartz"
+filename = "overworld_quartz-1.18.2-1.1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CKI6qOiK/versions/4fCD86JL/overworld_quartz-1.18.2-1.1.1.1.jar"
+hash-format = "sha1"
+hash = "bb3aa4711270e6643937b7d84754de281ddb0c0a"
+
+[update]
+[update.modrinth]
+mod-id = "CKI6qOiK"
+version = "4fCD86JL"

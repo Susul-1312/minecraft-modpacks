@@ -1,0 +1,164 @@
+hash-format = "sha256"
+
+[[files]]
+file = "index.html"
+hash = "f8b92536490948eb7a1b80a23bcca40b62d66f1904f7d9cc7d90207c3eb64bc5"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "535d312128e500ea510af84dbf65008ae48f4d9640be713088c3d00a99ef1f7d"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4864451af376b26104b421900f69a0bea7c462edc2e47e359a341dbc457f3508"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "0ac2ee8c06a13bd0009b5a2eb95cffbdf89b726f5cd45a170faa83eaedf507ec"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "0c80358f0939bd9957ccce6472a7074701781e1b0e710862acfebe174574e13c"
+metafile = true
+
+[[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "8f9e1d8e6a9c625595bd5ee6ec5462ae3ce97e5926bdcd9c71fd719326d2bf2d"
+metafile = true
+
+[[files]]
+file = "mods/connectedness.pw.toml"
+hash = "921b3b769a72f8af087b0fc9678f85c41215ae9060a2d89f02115063547371b8"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "780f03eed5039683ca9e28011794d528563d417dbbc50f2306a603f556cd77c8"
+metafile = true
+
+[[files]]
+file = "mods/create-cafe.pw.toml"
+hash = "7760b1fb5fad45aefda237a832e67daa56529604eca8edfc7432107aebf5bcc5"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "e5fdf73b00092f2c84c52bab611ce912e0c29c9fde0c6fb00007ac3b05807d76"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "b49bd25260561b206923be311616680ab7800fa89ef4669a92a3ff88449ce2e6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "fbb0a9e7d2930e91c49c7ea9ac56aacd4475169c0b50b463245c2a2b2eb24c11"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "d9a57d545fa589a3f82737a8f971703c04434774e08e2c393aa7411ce0c23a6a"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "3a2c20b13809217398fc83daf1c403323b0ed40ebd011124717a61d267bcda27"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "51af7e09f641a8935726243e54fd39d6df55ea2cc27620d776a0ef2e88aedd2c"
+metafile = true
+
+[[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "518809b381804a6f4c108c78ca0a542adeadaf748cdf6833a55025e4a107168b"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "f47fe58a84e9b5fc7ed703b7eca10c5818243bfb57f11b023f3693c49be48686"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "42a30fb9d06cd57832d8c8cc44132342d7636acb79842624e84ed21094122236"
+metafile = true
+
+[[files]]
+file = "mods/overworld-quartz.pw.toml"
+hash = "af7d763cb77fe020d219928d2076419f24f8e8d50d9b9669f6ae6f0758e6fe03"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "a15753ef45bd45e4c1125473588e568d6949a9a0068bb50c6f26c5003781c450"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "755368e13ec9a63ec82a97e2cee8a0805444412ca6a254d1d69e959d32a51ad5"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "4d04ec67f5041f013f8794b693c20a00ce79d23cbca877b56803e5a73951414c"
+metafile = true
+
+[[files]]
+file = "mods/reforgium.pw.toml"
+hash = "f1bcbc345d9d7fe0014918a1a044b2d2a13d3f050750d9fc0854ff0864096112"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "2fe5c063db5622e0e0a56f739230471de2dd26e08ec80d74fb9c5b2afbe67dc3"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "59583b3b0263c1d2a6bd7210eef0bfaeadcbf6482e8c331f6b5a114dc976e3ca"
+metafile = true
+
+[[files]]
+file = "mods/stonecutter_recipe_tags.pw.toml"
+hash = "ac186746e7ba021dc843ee5cb7c3a624e77975e2c53dd37e94d9bdb99207e995"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "c8d5a727db377a833f484e2f7b060f09f5da8147406d753080a9d98f7c042925"

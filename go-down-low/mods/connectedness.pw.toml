@@ -1,0 +1,13 @@
+name = "Connectedness"
+filename = "connectedness-1.18.2-2.0.1a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ceiPqFmI/versions/5CqAX8ph/connectedness-1.18.2-2.0.1a.jar"
+hash-format = "sha1"
+hash = "d5126d23155f611a7926480c247976e5c230039d"
+
+[update]
+[update.modrinth]
+mod-id = "ceiPqFmI"
+version = "5CqAX8ph"
