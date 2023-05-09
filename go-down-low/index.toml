@@ -44,6 +44,11 @@ hash = "780f03eed5039683ca9e28011794d528563d417dbbc50f2306a603f556cd77c8"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "bf0298f05d45cb823e0eaddf2d268cde7422cf893ae2d2119dc55c9217d2112a"
+metafile = true
+
+[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "1fadea6e9a2eee2be15d83c8c8ded711c52a292003cb88c065d5faeb48440b33"
 metafile = true
@@ -106,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
 
 [[files]]
@@ -176,3 +186,7 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "c8d5a727db377a833f484e2f7b060f09f5da8147406d753080a9d98f7c042925"
+
+[[files]]
+file = "scripts/flour.zs"
+hash = "51504d9ab0d5656dc31183d8a28e5e53fdf52a1581ff89c4b400188bda2713eb"
