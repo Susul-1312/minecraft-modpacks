@@ -9,6 +9,10 @@ file = "index.html"
 hash = "f8b92536490948eb7a1b80a23bcca40b62d66f1904f7d9cc7d90207c3eb64bc5"
 
 [[files]]
+file = "kubejs/server_scripts/andesite.js"
+hash = "d063e7c7d7ba038d50744a4bee3362c156eb010ade08af705a8f1f5e83954231"
+
+[[files]]
 file = "kubejs/server_scripts/flour.js"
 hash = "438b70c258be6eff6d789c8062b08715815afe87a05c0a400f2e34d4a1909c99"
 
