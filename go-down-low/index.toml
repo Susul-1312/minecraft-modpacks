@@ -10,7 +10,7 @@ hash = "f8b92536490948eb7a1b80a23bcca40b62d66f1904f7d9cc7d90207c3eb64bc5"
 
 [[files]]
 file = "kubejs/server_scripts/andesite.js"
-hash = "453e131e1f9704eb8a291a106540d1afb39ec6483259477170872d290eec9ac1"
+hash = "a801c58edebad83d4fa0e18fd2271cccfa94610510f7d582bc9302391d30c2c2"
 
 [[files]]
 file = "kubejs/server_scripts/flour.js"

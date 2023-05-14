@@ -6,5 +6,5 @@ onEvent('item.tags', event => {
 })
 
 onEvent('recipes', event => {
-    event.replaceInput({output: 'create:andesite_alloy'}, 'minecraft:andesite', '#forge:material/andesite');
+    event.replaceInput({output: 'create:andesite_alloy'}, 'minecraft:andesite', '#custom:andesite');
 });
