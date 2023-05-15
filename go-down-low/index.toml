@@ -13,6 +13,10 @@ file = "kubejs/server_scripts/andesite.js"
 hash = "a801c58edebad83d4fa0e18fd2271cccfa94610510f7d582bc9302391d30c2c2"
 
 [[files]]
+file = "kubejs/server_scripts/cobbles.js"
+hash = "4a6ec1eaaef59b0a10d7f2a22a9ff11e3e99f03e0d7ef4d5312196091eb1639e"
+
+[[files]]
 file = "kubejs/server_scripts/flour.js"
 hash = "438b70c258be6eff6d789c8062b08715815afe87a05c0a400f2e34d4a1909c99"
 
