@@ -13,11 +13,11 @@ jobs:
     - run: |
         for pack in */
         do
-          NAME=$(cat $pack/pack.toml | head -n 1 | cut -c 9- | rev | cut -c 2- | rev)
+          NAME=$(cat $pack"pack.toml" | head -n 1 | cut -c 9- | rev | cut -c 2- | rev)
           mkdir "$NAME"
           mkdir "$NAME"/.minecraft
           cp packwiz-installer-bootstrap.jar "$NAME"/.minecraft
-          cat > "$NAME"/instance.cfg < "ForgeVersion=
+          cat >> "$NAME"/instance.cfg << "ForgeVersion=
           InstanceType=OneSix
           IntendedVersion=
           JoinServerOnLaunch=false
@@ -41,7 +41,7 @@ jobs:
           OverrideNativeWorkarounds=false
           OverrideWindow=false
           PostExitCommand=
-          PreLaunchCommand="$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://susul-1312.github.io/minecraft-modpacks/$pack/pack.toml
+          PreLaunchCommand="$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://susul-1312.github.io/minecraft-modpacks/"$pack"pack.toml
           WrapperCommand=
           iconKey=default
           lastLaunchTime=1669563250850
