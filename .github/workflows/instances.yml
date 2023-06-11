@@ -48,6 +48,6 @@ jobs:
           lastLaunchTime=1669563250850
           name="$NAME"
           notes=
-          EOF
+EOF
         done
     - run: find -name '*.cfg' | xargs cat
