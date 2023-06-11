@@ -22,7 +22,7 @@ jobs:
         done
     - uses: actions/upload-artifact@v3
       with:
-        name: packs.zip
+        name: packs
         path: ./*.zip
 
   create-release:
