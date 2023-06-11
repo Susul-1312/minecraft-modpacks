@@ -1,0 +1,10 @@
+name: Build MultiMC instances
+on: push
+jobs:
+  create-zips:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - run: ls
+  create-release:
+    runs-on: ubuntu-latest
