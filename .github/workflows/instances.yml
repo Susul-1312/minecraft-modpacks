@@ -17,7 +17,7 @@ jobs:
           mkdir "$NAME"
           mkdir "$NAME"/.minecraft
           cp packwiz-installer-bootstrap.jar "$NAME"/.minecraft
-          cat >> "$NAME"/instance.cfg << "a
-          EOF"
+          cat >> "$NAME"/instance.cfg << "a"
+          EOF
         done
     - run: find -name '*.cfg' | xargs cat
