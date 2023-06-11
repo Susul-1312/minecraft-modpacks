@@ -14,7 +14,7 @@ jobs:
         for pack in */
         do
           NAME=$(cat $pack/pack.toml | head -n 1 | cut -c 9- | rev | cut -c 2- | rev)
-          mkdir $NAME
+          mkdir "$NAME"
         done
     - run: ls
         
