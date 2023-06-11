@@ -24,15 +24,3 @@ jobs:
       with:
         name: packs
         path: ./*.zip
-
-  create-release:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-    - uses: actions/checkout@v3
-    - uses: ncipollo/release-action@v1
-      with:
-        tag: Release
-        artifacts: "packs.zip"
-        body: "All the modpacks, ready to be imported into MultiMC/Prism/whatever"
