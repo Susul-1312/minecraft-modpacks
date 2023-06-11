@@ -5,9 +5,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    - uses: robinraju/release-downloader@v1.8
+      with:
+        repository: "packwiz/packwiz-installer-bootstrap"
+        latest: true
+        fileName: "packwiz-installer-bootstrap.jar"
     - run: |
         for pack in */
         do
-          cat $pack/pack.toml | head -n 1 | cut -c 9- | rev | cut -c 2- | rev
+          NAME=$(cat $pack/pack.toml | head -n 1 | cut -c 9- | rev | cut -c 2- | rev)
+          mkdir $NAME
         done
+    - run: ls
         
