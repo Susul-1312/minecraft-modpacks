@@ -5,4 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - run: ls
+    - run: |
+        for pack in ls -d */
+        do
+          cat $pack/pack.toml | head -n 1 | cut -c 9- | rev | cut -c 2- | rev
+        done
+        
