@@ -45,6 +45,11 @@ hash = "fc1f17adc1ca1dc160e053b4f6026b9c5d72dbfd3426987035670fa54afd26ba"
 metafile = true
 
 [[files]]
+file = "mods/mekanism.pw.toml"
+hash = "a9534d73df10ac0b2a91ef645ca7ad7ca2d7f51de82c276123cc364236cd0d65"
+metafile = true
+
+[[files]]
 file = "mods/mrtjpcore.pw.toml"
 hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
 metafile = true
@@ -62,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "aae4de57bd90fadfdd99f8d4402db17772f8ce5aa85c4954e90642552eb90f55"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "6a9f8707c2c33dbf5cc8221804ccf505617aa86d020185eb9ccf091d1646bb49"
 metafile = true
 
 [[files]]
