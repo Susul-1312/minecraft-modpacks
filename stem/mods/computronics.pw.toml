@@ -1,0 +1,9 @@
+name = "Computronics"
+filename = "computronics.jar"
+side = "both"
+
+[download]
+url = "https://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar"
+
+hash-format = "sha256"
+hash = "9BFC4C8763C008E7DD4E50FD5F82492962197F2BDC5F29668E9154E2C0C83DDF"

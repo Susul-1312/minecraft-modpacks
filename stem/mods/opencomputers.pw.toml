@@ -1,0 +1,13 @@
+name = "OpenComputers"
+filename = "OpenComputers-MC1.12.2-1.8.2+b4abbf9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YiAbZis2/versions/PaAw19v3/OpenComputers-MC1.12.2-1.8.2%2Bb4abbf9.jar"
+hash-format = "sha1"
+hash = "8b79534ccd5ea928ebc6efcd2a8dc52c898cbe6d"
+
+[update]
+[update.modrinth]
+mod-id = "YiAbZis2"
+version = "PaAw19v3"

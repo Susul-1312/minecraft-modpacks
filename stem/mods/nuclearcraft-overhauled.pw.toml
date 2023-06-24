@@ -1,0 +1,13 @@
+name = "NuclearCraft: Overhauled"
+filename = "NuclearCraft-2o.6.2-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EcProx3V/versions/sPMGUVx1/NuclearCraft-2o.6.2-1.12.2.jar"
+hash-format = "sha1"
+hash = "c9a0c91863d2078ea9a45696f64a21b593e7d73a"
+
+[update]
+[update.modrinth]
+mod-id = "EcProx3V"
+version = "sPMGUVx1"

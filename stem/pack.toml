@@ -1,0 +1,13 @@
+name = "STEM"
+author = "Blue"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e536a751e16c7bb251545fe9f8f159e6f1e1ca5761262baa7c4c404c7effaf8e"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

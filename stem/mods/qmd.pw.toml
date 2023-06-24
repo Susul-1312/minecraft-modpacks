@@ -1,0 +1,13 @@
+name = "QMD"
+filename = "QMD-1.2.1-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "660607daa2391c8887a424f4aabac8def3c78a72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4486426
+project-id = 362056

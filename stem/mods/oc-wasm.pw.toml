@@ -1,0 +1,13 @@
+name = "OC-Wasm"
+filename = "oc-wasm-1.12-0.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5da547c7e012d266e4c2f80ddb03978a4225ccaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4278311
+project-id = 508311

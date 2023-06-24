@@ -1,0 +1,13 @@
+name = "AlchemistryDriver"
+filename = "aldriver-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c02cc69aef02606f149d14956e6db8d8d6b34b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4437476
+project-id = 837692

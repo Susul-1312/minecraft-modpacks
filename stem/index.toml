@@ -1,0 +1,94 @@
+hash-format = "sha256"
+
+[[files]]
+file = "index.html"
+hash = "823d57df061d99abcb147e180e440f9f16fed85eff561fd2d5a9d86b63c523e8"
+
+[[files]]
+file = "mods/alchemistry.pw.toml"
+hash = "4f1863018a3ba4060c192acadce52dcf187a6fde6915468c9584a22bcf63402d"
+metafile = true
+
+[[files]]
+file = "mods/alchemistrydriver.pw.toml"
+hash = "4fae2735c1af323168aaf2f364f7471e4b810e8c4e2b15c5ffd172659b58e732"
+metafile = true
+
+[[files]]
+file = "mods/alchemylib.pw.toml"
+hash = "326a3f2039867c0515e552f1ac3c396c62b136e560f126e3cf80975a0351a95f"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2b21defe55c00e45d68f58812614a342d8a890677ea201d7daa5ecc6b6deb72d"
+metafile = true
+
+[[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
+file = "mods/computronics.pw.toml"
+hash = "ff8a20cf33da23c0c1b7df0640ab960c158c5729e85f14d48eed38d0d4352dcc"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fc1f17adc1ca1dc160e053b4f6026b9c5d72dbfd3426987035670fa54afd26ba"
+metafile = true
+
+[[files]]
+file = "mods/mrtjpcore.pw.toml"
+hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
+metafile = true
+
+[[files]]
+file = "mods/nuclearcraft-overhauled.pw.toml"
+hash = "cf4aa99efddb861da639a33aaf2cb03c7631faf1e0f4ac14f3ce5d2e741b3505"
+metafile = true
+
+[[files]]
+file = "mods/oc-wasm.pw.toml"
+hash = "00beaf2c57c6d7a5df0e48e1aec5e60781659e8457c22ebc83bb8a1a39ada16c"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "aae4de57bd90fadfdd99f8d4402db17772f8ce5aa85c4954e90642552eb90f55"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "80a1afd5a26156aef0eeaedd9f19e881326bf40c087428b0d75240a63c33dd08"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
+metafile = true
+
+[[files]]
+file = "mods/psi.pw.toml"
+hash = "6a6cc523738ff3e7b89b5c2c094b4032fe441da493100f678004237b6896eccc"
+metafile = true
+
+[[files]]
+file = "mods/qmd.pw.toml"
+hash = "ef207d88588df5dd5e2fc0cb335e308f6699c07c254a23881daf91c7a0eb2bec"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "34c7d6f91b76730e746a56c932c6960c87d76114bb15b022b9dd318a786576b8"
