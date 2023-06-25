@@ -30,6 +30,11 @@ hash = "73a44c0ad5e413b30b07aed83c7da733bfec0aa800eb85c68cfaae2de174a311"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "38edf6d14597ab216cb9d6209cc3ab9a82d5dddb5a4a2785f246739ff8182218"
 metafile = true
@@ -185,11 +190,6 @@ hash = "7db72e761cbc24899b879a44751aa371cb5a3dcfb7ec85d07172cffed8266e50"
 metafile = true
 
 [[files]]
-file = "mods/wilder-world.pw.toml"
-hash = "a8ff4f7a8490a7c49d40a9d27f472bafd97449f376f6580d617769da2192bcd1"
-metafile = true
-
-[[files]]
 file = "mods/windchimes.pw.toml"
 hash = "8d9b5bbfc4606485bc3e2a3eb44c0fcad2c1d253deab603f281ffb912e1a5df8"
 metafile = true
@@ -205,4 +205,4 @@ hash = "388513d0bdf811695708218bcc149fa6132c49d010297c170f2369281591b54c"
 
 [[files]]
 file = "todo"
-hash = "e0845af15250b5222a5fbeec3bd351d0a3f7fef3bb3d493d1ae74886e49a7620"
+hash = "9e7fa447bae1d3613539afeff07de4faaf6ad7fe2022d63fcb58d9a6d163bce0"
