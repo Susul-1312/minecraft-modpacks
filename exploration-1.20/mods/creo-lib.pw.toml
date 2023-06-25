@@ -1,0 +1,13 @@
+name = "Creo Lib"
+filename = "CreoLib-1.20.1-1.0.0-beta.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hjZhuEZs/versions/V8ENaaAV/CreoLib-1.20.1-1.0.0-beta.21.jar"
+hash-format = "sha1"
+hash = "8a09adc93c431c6d644ce64f6f3bbf4c3d162a73"
+
+[update]
+[update.modrinth]
+mod-id = "hjZhuEZs"
+version = "V8ENaaAV"

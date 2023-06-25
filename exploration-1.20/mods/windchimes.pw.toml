@@ -1,0 +1,13 @@
+name = "Windchimes"
+filename = "windchimes-1.2.3+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iM50gcBD/versions/PpYmsuxp/windchimes-1.2.3%2B1.20.jar"
+hash-format = "sha1"
+hash = "bb2beb663e3165d0dd7391372f2fdc88a4da8032"
+
+[update]
+[update.modrinth]
+mod-id = "iM50gcBD"
+version = "PpYmsuxp"

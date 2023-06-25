@@ -1,0 +1,13 @@
+name = "Explorations"
+filename = "explorations-fabric-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcGnjJ39/versions/M0EKBnDS/explorations-fabric-1.20.1-1.5.1.jar"
+hash-format = "sha1"
+hash = "edf85e36a3c8083644fca5d1744b272d41bf6c56"
+
+[update]
+[update.modrinth]
+mod-id = "pcGnjJ39"
+version = "M0EKBnDS"
