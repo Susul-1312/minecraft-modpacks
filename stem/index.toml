@@ -6,7 +6,7 @@ hash = "5294f51498a3ae7ca79cd3c9e3dfd360c6c67b2f124f131884dc94936e993c75"
 
 [[files]]
 file = "config/mekanism.cfg"
-hash = "33377e59d1e45820baa6fb1b6ac9d7669277862b7d16474c4638674cb321ea01"
+hash = "ca8914d3dbad1f2406aa3ddcd46ba94a95b1ff3362d1be7a29313d7cdabd80f9"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
@@ -54,6 +54,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "fc1f17adc1ca1dc160e053b4f6026b9c5d72dbfd3426987035670fa54afd26ba"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ad1cbcb45a295913115227ab17d09460cd86ddde624d3ecf04cee7b5d07a2c03"
 metafile = true
 
 [[files]]
