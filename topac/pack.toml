@@ -1,0 +1,13 @@
+name = "Topac"
+author = "Blue"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "be3a75e2a8c02e4c6b9325fc4831bb1c3d86aaabff76ddd57c91d5d96303549b"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"

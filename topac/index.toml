@@ -1,0 +1,124 @@
+hash-format = "sha256"
+
+[[files]]
+file = "index.html"
+hash = "88499e702c60e4def35ce17d49b2236254e69d040e4ffae80fa60c629438389d"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "eedea915275815b220b4e9b5879785ced31d4eb536240a957f45c23d2ac338db"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "7f18d88810e9649b925cdcacfb2f27946c3c54af9d40cb56a8fdbbf47fe360d0"
+metafile = true
+
+[[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "8e5501b7fd008ad06478f09221b1fbc5cc837a8088fe29147a1b57c746ae1855"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "cfb64adb69c18363c484f4496c8e540afa1f3c23874d04634de7c1735726d093"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "cdede627056f2cc9d5fe7cb7236e6168ba07c210d331b33bc1d28fab86fc78fc"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "eef17c3bd75fc8389b257e43086b2919206cd91ef87a693c2f3e444dfbaa8901"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "5d6e71a926ac88002e3e5d155f9d56608eec51919ba9bba36887ed49edfbb266"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "92416110473cd3a8b46b4aeddf79df79df24915d5040b41ba3a1ad9b33865d2b"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "056c06cb61ff81448b5a5a45a6e32b19614f02021d2a860e5124b2e864b32d19"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "e358c83f3da91257775eaf016af0fbf4c96900ce18652a0bb1a24641e67da4ea"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "5d0527ab1c25ecc10b69c63754922a11fe5f47523f30c11afd8fd534a1c2d0ae"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "ef6f9f3903dcca45c08849643b8c42fee02a6d891efed66ca4cfd4832e00a9c6"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "b85dd4e48de446c293ec7195fbb76015125ee0df3458b33bec8fa0801a04ea33"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "b7f2208957ae6e4666fdca00422343b9f375d4470b6b711a72eddb072a4597f5"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "a018d7dd6bfa797e018e2b6a13fc6cbbea92fb0fdd76f3f58d0daafa13d7e2e7"
+metafile = true
+
+[[files]]
+file = "mods/tis-create.pw.toml"
+hash = "8fa37078e7037365625c229ad080d053628dc6872a9d8c675444c67f6ea16a5e"
+metafile = true
+
+[[files]]
+file = "mods/tis3d.pw.toml"
+hash = "5c72c40280121280301e645cd0ea6852d75399a12d713caaae1fa88c7d1aacc3"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "155ddb9d488e8804c36fb79bd82e343d78019cd5983c416be37c12b77654bf5a"
