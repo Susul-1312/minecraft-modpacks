@@ -105,6 +105,11 @@ hash = "2604e35907215b905fc7730d6d4f303adad5bb61219a4d34fc8e8a4e6a4c92b4"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "a018d7dd6bfa797e018e2b6a13fc6cbbea92fb0fdd76f3f58d0daafa13d7e2e7"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "47923fc87db1855f6740beb91336b907e7c22f75eaa5f1a199f81bdba165ac2d"
 metafile = true
 
 [[files]]
