@@ -25,11 +25,6 @@ hash = "eedea915275815b220b4e9b5879785ced31d4eb536240a957f45c23d2ac338db"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "7f18d88810e9649b925cdcacfb2f27946c3c54af9d40cb56a8fdbbf47fe360d0"
-metafile = true
-
-[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "8e5501b7fd008ad06478f09221b1fbc5cc837a8088fe29147a1b57c746ae1855"
 metafile = true
