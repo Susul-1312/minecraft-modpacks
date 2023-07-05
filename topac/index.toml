@@ -25,6 +25,11 @@ hash = "eedea915275815b220b4e9b5879785ced31d4eb536240a957f45c23d2ac338db"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
+metafile = true
+
+[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "8e5501b7fd008ad06478f09221b1fbc5cc837a8088fe29147a1b57c746ae1855"
 metafile = true
@@ -47,11 +52,6 @@ metafile = true
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "5d6e71a926ac88002e3e5d155f9d56608eec51919ba9bba36887ed49edfbb266"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "92416110473cd3a8b46b4aeddf79df79df24915d5040b41ba3a1ad9b33865d2b"
 metafile = true
 
 [[files]]
@@ -127,6 +127,16 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "a018d7dd6bfa797e018e2b6a13fc6cbbea92fb0fdd76f3f58d0daafa13d7e2e7"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "4f3bb9b27ed6d539fc51c32cfaa5f40fe89e81e483227b5e391d4cbbeb9530fc"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "f3a60be69dcc6f70951ca1c8750fc473a4374adef53926a557fca2c17522689d"
 metafile = true
 
 [[files]]
