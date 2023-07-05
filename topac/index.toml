@@ -145,6 +145,11 @@ hash = "4f3bb9b27ed6d539fc51c32cfaa5f40fe89e81e483227b5e391d4cbbeb9530fc"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "a838f6ef3537badd66375fb2c65d8cafaf1a7bb6c16771556a9c178e4b99e192"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-trades.pw.toml"
 hash = "f3a60be69dcc6f70951ca1c8750fc473a4374adef53926a557fca2c17522689d"
 metafile = true
