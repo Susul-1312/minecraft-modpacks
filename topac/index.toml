@@ -40,6 +40,16 @@ hash = "cfb64adb69c18363c484f4496c8e540afa1f3c23874d04634de7c1735726d093"
 metafile = true
 
 [[files]]
+file = "mods/create-renewable-ores.pw.toml"
+hash = "fd20d186c194b41b945a5308ff42136965464d311a4b29d3b4f6866616860bae"
+metafile = true
+
+[[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "e34e3c5a0a08acbca4c148470df4c1d86cf4fe3476dea29f430b138bfbd10c30"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "cdede627056f2cc9d5fe7cb7236e6168ba07c210d331b33bc1d28fab86fc78fc"
 metafile = true
