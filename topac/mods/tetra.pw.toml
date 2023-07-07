@@ -1,13 +1,13 @@
-name = "Tetra"
-filename = "tetra-1.19.2-5.3.0.jar"
+name = "tetra"
+filename = "tetra-1.19.2-5.3.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/YP9DjOvN/versions/okiVspv1/tetra-1.19.2-5.3.1.jar"
 hash-format = "sha1"
-hash = "2f8ea27af411cf85e72d60d026455e7fa5c38f8f"
-mode = "metadata:curseforge"
+hash = "868ed60402c342a95b016b4cf0d37739e6ed6879"
 
 [update]
-[update.curseforge]
-file-id = 4618612
-project-id = 289712
+[update.modrinth]
+mod-id = "YP9DjOvN"
+version = "okiVspv1"

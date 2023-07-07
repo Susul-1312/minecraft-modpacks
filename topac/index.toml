@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "cdede627056f2cc9d5fe7cb7236e6168ba07c210d331b33bc1d28fab86fc78fc"
+hash = "a7aaa4f23505b6e1f08184d153d3a75d97cc2804c1c277567d11453cc1e19e0f"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal.pw.toml"
-hash = "e358c83f3da91257775eaf016af0fbf4c96900ce18652a0bb1a24641e67da4ea"
+hash = "a84a5d2da961a108633e24ee862d6e30c02a079cc4feaf7ef2fd34261fb217f4"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "47923fc87db1855f6740beb91336b907e7c22f75eaa5f1a199f81bdba165ac2d"
+hash = "f8746a14ec7438961ea5788c584092d2a2aeb80c31a405a925ca40a259a87ab8"
 metafile = true
 
 [[files]]

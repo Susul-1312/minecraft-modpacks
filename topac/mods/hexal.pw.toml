@@ -1,13 +1,13 @@
 name = "Hexal"
-filename = "hexal-forge-1.19.2-0.2.16.jar"
+filename = "hexal-forge-1.19.2-0.2.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/cvP489iv/hexal-forge-1.19.2-0.2.16.jar"
+url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/CpzILaOc/hexal-forge-1.19.2-0.2.17.jar"
 hash-format = "sha1"
-hash = "d957c3b9167b1fece1344dd7b21ab423e1351f7c"
+hash = "ce1032dd7d7a85457c7bc47c97336f599e046861"
 
 [update]
 [update.modrinth]
 mod-id = "aBVJ6Q36"
-version = "cvP489iv"
+version = "CpzILaOc"
