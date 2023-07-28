@@ -90,11 +90,6 @@ hash = "607c29e56944f91303577f8971726ddf8b10b7beae14761229b7441db1814963"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
-metafile = true
-
-[[files]]
 file = "mods/copper-horns.pw.toml"
 hash = "7021609b2bde031740cbedf1ea5619993c68e4a2c7f41bd13c5b80b128e40a74"
 metafile = true
