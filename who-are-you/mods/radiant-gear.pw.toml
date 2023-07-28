@@ -1,0 +1,13 @@
+name = "Radiant Gear"
+filename = "radiantgear-quilt-2.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtT9wm5O/versions/8W30WnGE/radiantgear-quilt-2.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "e80c98ea9c2b2475d3b8f0a941cc5cf9ea2bcb20"
+
+[update]
+[update.modrinth]
+mod-id = "AtT9wm5O"
+version = "8W30WnGE"

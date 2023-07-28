@@ -1,0 +1,13 @@
+name = "Hibernal Herbs"
+filename = "HibernalHerbs-fabric-1.20.1-0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8fBUTFL3/versions/Q5hKfXlw/HibernalHerbs-fabric-1.20.1-0.9.jar"
+hash-format = "sha1"
+hash = "cc72ccf105a8dc97af87c0cc521f8c2a83b1c4ea"
+
+[update]
+[update.modrinth]
+mod-id = "8fBUTFL3"
+version = "Q5hKfXlw"

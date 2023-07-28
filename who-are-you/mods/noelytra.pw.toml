@@ -1,0 +1,13 @@
+name = "No Elytra"
+filename = "noelytra-v1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NhrUGy5x/versions/4Wuip9BJ/noelytra-v1.jar"
+hash-format = "sha1"
+hash = "8c52d70a7ecd13dfc6f37891c6a8670369c7c16d"
+
+[update]
+[update.modrinth]
+mod-id = "NhrUGy5x"
+version = "4Wuip9BJ"

@@ -1,0 +1,13 @@
+name = "Thermoo"
+filename = "thermoo-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9TbXlAut/versions/4wmwqu56/thermoo-1.6.1.jar"
+hash-format = "sha1"
+hash = "60f963fe0ac36645d88e6bbd329c39b021580034"
+
+[update]
+[update.modrinth]
+mod-id = "9TbXlAut"
+version = "4wmwqu56"

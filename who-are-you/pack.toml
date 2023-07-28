@@ -1,0 +1,13 @@
+name = "Who are you?"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d21cd0846d0a501c0fd4c10f66216ee80452abb9511758628c7109254536725"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.4"

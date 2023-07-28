@@ -1,0 +1,13 @@
+name = "See Through Water/Lava"
+filename = "seethroughlava-4.0-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Cq6k6jf/versions/rXxcLi4c/seethroughlava-4.0-1.20.jar"
+hash-format = "sha1"
+hash = "123773331bb7e3be825b52e2cd4a613510a89200"
+
+[update]
+[update.modrinth]
+mod-id = "8Cq6k6jf"
+version = "rXxcLi4c"

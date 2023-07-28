@@ -1,0 +1,13 @@
+name = "Figura"
+filename = "figura-0.1.11.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s9gIPDom/versions/4IW3S96F/figura-0.1.11.20.1.jar"
+hash-format = "sha1"
+hash = "8f2eb24df81a7e0fe59ee8eb1c565c7ebcdf07a4"
+
+[update]
+[update.modrinth]
+mod-id = "s9gIPDom"
+version = "4IW3S96F"

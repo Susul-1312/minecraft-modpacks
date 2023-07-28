@@ -1,0 +1,13 @@
+name = "Good Tea"
+filename = "good-tea-0.3.3-1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fLAsXzkA/versions/ZY0VbPKO/good-tea-0.3.3-1.19.3.jar"
+hash-format = "sha1"
+hash = "ee2e3b503b45bb9855d2bc66d3a531012dc7d7de"
+
+[update]
+[update.modrinth]
+mod-id = "fLAsXzkA"
+version = "ZY0VbPKO"
