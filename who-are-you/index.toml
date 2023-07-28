@@ -255,6 +255,11 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "c866e7a833d91a51651767941d55b21e0b455a7a9a4450f7a718cbd3c0a5c64e"
 metafile = true
@@ -377,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "582db980b8147e0a5e6cbeca844fe8c10387208b8a59ec6b98371ee98f2d9842"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c4e216a13c42631f580da96e461abc76560d2b720bc5baac170dbf090e13b745"
 metafile = true
 
 [[files]]
