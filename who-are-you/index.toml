@@ -150,11 +150,6 @@ hash = "b66b0703ad2f5195ff977b9e9329be414983054f8077ea57c107b3c9b248c23f"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
-metafile = true
-
-[[files]]
 file = "mods/fabrication.pw.toml"
 hash = "2d2e46755efb50ba3f8ec9e2a49c854b76dd5c31cd64ad526a435d07f6259267"
 metafile = true
