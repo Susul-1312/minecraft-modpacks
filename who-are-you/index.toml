@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mod"
-hash = "cd98f198ef115f128cb5c5a05972aeb9b572d1d28aea92afdf5664f4f0deb673"
+file = "index.html"
+hash = "4dba3a05222b49209e0630f8258cd7a34ad3da8152bfa480ed703a42f2f47369"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
@@ -438,3 +438,7 @@ metafile = true
 file = "mods/wolves-of-other-furs.pw.toml"
 hash = "ccb78614fb49f7a46110628a5cb75299a0e0ceaf94d008f53f928c6f60be292c"
 metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "dc6510acec04fdae8edafbd666861d5b42ed07ba2c9ef14f9641e5f647e99664"
