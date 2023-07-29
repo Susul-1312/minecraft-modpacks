@@ -74,6 +74,11 @@ hash = "e07e9a0d4a0f64a1d47fb05b671b1a8d9470ad0ee07626d44b49f85446c1d979"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "e3a5e1b9f5c80d1fe052fe9825e3195ffb0fde3a33fe550a832c52e41c3b5452"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "2d5625745023a392a509aba9ced8e075990ab07a655c2f330decfa641cdddfcf"
 metafile = true
@@ -391,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "06261456a03688ace74546dea138553911f6647ac44ab1acb7e876c94ba63f29"
 metafile = true
 
 [[files]]
