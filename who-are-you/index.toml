@@ -104,11 +104,6 @@ hash = "6e622d19fe0290c839d6428fdfee9fdbf56a008e156d3bc05af36f71637ee7c5"
 metafile = true
 
 [[files]]
-file = "mods/complete-bone-meal.pw.toml"
-hash = "c2924b0514139ce4c08db7d447b8cc6af20fd5a14aca98db7064b85327064150"
-metafile = true
-
-[[files]]
 file = "mods/compress-it!.pw.toml"
 hash = "607c29e56944f91303577f8971726ddf8b10b7beae14761229b7441db1814963"
 metafile = true
@@ -531,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "b3e8be605fd2fe27c2ef25c543de100b994ebe71185dc186fa36eb4cc487f86a"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "1dfd2ca431ddf4bddd78ed14fcef582e305471c9eeefe197009f40d92a91cfb1"
 metafile = true
 
 [[files]]
