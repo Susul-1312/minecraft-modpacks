@@ -85,6 +85,11 @@ hash = "6e622d19fe0290c839d6428fdfee9fdbf56a008e156d3bc05af36f71637ee7c5"
 metafile = true
 
 [[files]]
+file = "mods/complete-bone-meal.pw.toml"
+hash = "c2924b0514139ce4c08db7d447b8cc6af20fd5a14aca98db7064b85327064150"
+metafile = true
+
+[[files]]
 file = "mods/compress-it!.pw.toml"
 hash = "607c29e56944f91303577f8971726ddf8b10b7beae14761229b7441db1814963"
 metafile = true
@@ -92,6 +97,16 @@ metafile = true
 [[files]]
 file = "mods/copper-horns.pw.toml"
 hash = "7021609b2bde031740cbedf1ea5619993c68e4a2c7f41bd13c5b80b128e40a74"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "f1cebc679e2601132872e7d1a182fb4b23954002ab6bc12212f9ca9af25dadf5"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "b6170f6465df20ddf674b44d11a81d08d57dfa9762e9c692ffe8a554c2de59d5"
 metafile = true
 
 [[files]]
@@ -140,6 +155,11 @@ hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
+metafile = true
+
+[[files]]
 file = "mods/explorations.pw.toml"
 hash = "b66b0703ad2f5195ff977b9e9329be414983054f8077ea57c107b3c9b248c23f"
 metafile = true
@@ -147,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "2d2e46755efb50ba3f8ec9e2a49c854b76dd5c31cd64ad526a435d07f6259267"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "76bff6c00431ae14e0de961cf30f2a950fb1dd46da429145f235a9b0adbecd7b"
 metafile = true
 
 [[files]]
@@ -200,6 +225,11 @@ hash = "a266409ee7850768e0883f4a9fbb64c0697cf63f393f5e35d03e23b772ab7452"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
@@ -237,6 +267,21 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/localizedfishingtables.pw.toml"
+hash = "060b72575ee8e0ba37084501d6e8d02292b3891c20aa90422c52332e88eae5ba"
+metafile = true
+
+[[files]]
+file = "mods/meal-api-addon.pw.toml"
+hash = "887cdf52233c317165c124e40c4eebde71a7780047d62dc7bf6fb395f1b396ac"
+metafile = true
+
+[[files]]
+file = "mods/mealapi.pw.toml"
+hash = "adb920b48728998e86f1994a1b6fe3d9a522e0a586d22f3fc24f6d25faef874b"
 metafile = true
 
 [[files]]
@@ -390,6 +435,11 @@ hash = "ca18619d2625bf8ed2763871b61c63fd16376c0e0de9fee60ee88b2074aa2791"
 metafile = true
 
 [[files]]
+file = "mods/the-chocolate-mod.pw.toml"
+hash = "016b564a9562a890da3a373d783ee1f11cb225e5ff240b0912929936676f64da"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "71759ba6675ec4109bc555e2f5adfa5d433d8f633692a1bb69b0c7b2a0b90ae9"
 metafile = true
@@ -407,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "b3e8be605fd2fe27c2ef25c543de100b994ebe71185dc186fa36eb4cc487f86a"
 metafile = true
 
 [[files]]

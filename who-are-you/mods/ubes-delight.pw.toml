@@ -1,0 +1,13 @@
+name = "Ube's Delight"
+filename = "ubes-delight-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PYjpoAys/versions/CkLX1Upa/ubes-delight-0.1.2.jar"
+hash-format = "sha1"
+hash = "5ab0844810e8a02a7f4c9bdb86a6d76c4df87c9f"
+
+[update]
+[update.modrinth]
+mod-id = "PYjpoAys"
+version = "CkLX1Upa"

@@ -1,0 +1,13 @@
+name = "LocalizedFishingTables"
+filename = "localizedfishingtables-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BOaS7IZn/versions/S0ZDHOEg/localizedfishingtables-1.1.jar"
+hash-format = "sha1"
+hash = "e2aaacc841636c87dae21c9a5ad4b66aa93e42bc"
+
+[update]
+[update.modrinth]
+mod-id = "BOaS7IZn"
+version = "S0ZDHOEg"

@@ -1,0 +1,13 @@
+name = "Meal API Addon"
+filename = "mealapiaddon-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RbE9Jt5n/versions/UOKpBybQ/mealapiaddon-1.0.0.jar"
+hash-format = "sha1"
+hash = "f9ecb4d2539fe3437a0644dde74ee21c8b88b492"
+
+[update]
+[update.modrinth]
+mod-id = "RbE9Jt5n"
+version = "UOKpBybQ"
