@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/doubledoors.json5"
+hash = "d7bb1517f49ccfd97f9cd3dce220c3ed33ff479eb22f2127e8c191f27abde086"
+
+[[files]]
 file = "config/snowrealmagic-common.yaml"
 hash = "54c35bd9bcbc05ea4091581dd0411a69e65c55eb5cf7b5a621c91981d3f235fc"
 
