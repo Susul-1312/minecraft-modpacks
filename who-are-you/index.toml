@@ -35,6 +35,11 @@ hash = "bd4c7fbda191a82c2a0b3b87c1f459f8ef8c79791f15a272d216e3c71dc08e83"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "418b4902c5d870ee27a952cc3c39ddfa931f2d40c55c7e963f35849402955c2c"
 metafile = true
