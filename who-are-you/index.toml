@@ -35,6 +35,11 @@ hash = "bd4c7fbda191a82c2a0b3b87c1f459f8ef8c79791f15a272d216e3c71dc08e83"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "98bfdd21faa25ea05af2a6b80ae8c24d16379afeae0f41a129d049f5f36c6862"
+metafile = true
+
+[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
@@ -105,6 +110,11 @@ hash = "7021609b2bde031740cbedf1ea5619993c68e4a2c7f41bd13c5b80b128e40a74"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "ad083cc16c8a9e2b9aec947df1eeab8891bb0a80b46c34f169ba61ae4b54066e"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "f1cebc679e2601132872e7d1a182fb4b23954002ab6bc12212f9ca9af25dadf5"
 metafile = true
@@ -147,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "3fab0faf851513090ce8ee932cdbb6f1ec7c2b68510457d41b21f176a43e750a"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "d8cff179a1e34fac660bb78c7b93e0b3181422991ac50a5d8169d895dfe70275"
 metafile = true
 
 [[files]]
@@ -362,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
