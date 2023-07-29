@@ -150,11 +150,6 @@ hash = "3fab0faf851513090ce8ee932cdbb6f1ec7c2b68510457d41b21f176a43e750a"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "819b2fcd6fa31e79c4f3176439928ba14b49babcc455f8e2a0da2d920780e10c"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
@@ -390,6 +385,11 @@ hash = "f9bfa0f3edf2f457b3783eedb42e4d6682023f19ea34f16bacea26a5b2975695"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
+metafile = true
+
+[[files]]
 file = "mods/scorched.pw.toml"
 hash = "94c29bfc3309f3da6e08f1d09502bf1f5fc0730d2fa578801daf1f297d6f502a"
 metafile = true
@@ -452,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/thermoo.pw.toml"
 hash = "819a972cb74f13449c3f3d9fe39d9b117cea773f07f654ee9b35f44bd934e358"
+metafile = true
+
+[[files]]
+file = "mods/time-control.pw.toml"
+hash = "e910a683a61b0569ec1a8bb9a811afd58bd777cc60c911c6561daa2800432738"
 metafile = true
 
 [[files]]
