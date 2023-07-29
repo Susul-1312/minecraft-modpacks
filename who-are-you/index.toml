@@ -259,6 +259,11 @@ hash = "59d50a4a51175b7a086c95ba05e4f149083ea57381421ede52d93a0f392c11c1"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "dda8804373399241378b587e9cc002b967a46a113c0ff58d7206add4dcbfce13"
+metafile = true
+
+[[files]]
 file = "mods/hibernal-herbs.pw.toml"
 hash = "06f219f77be2fdccc3ce1259bf73f092d47eaa0c89cc242ed0f9e4a239ddda5e"
 metafile = true
