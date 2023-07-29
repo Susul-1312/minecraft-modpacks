@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
-hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
+hash = "c8f7a08cb636bd1054a6a2c8e3fdc1b0513bd69576ddfdce12e6a975d3d4d373"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "6513a4c41a2bb10838474fa71753eae7dd83472989dee44d727c11c4298b3bad"
+hash = "c5a8c9cabff8f77a65f431a24e2b1625e83beea6395a103880ad6c2c2d1568af"
 metafile = true
 
 [[files]]
