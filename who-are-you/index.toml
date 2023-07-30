@@ -238,6 +238,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/forgotten-graves.pw.toml"
+hash = "3f3dce13535ee9364a37c9b990499f9846e3aac0fedb451653358c2264f98247"
+metafile = true
+
+[[files]]
 file = "mods/frostiful.pw.toml"
 hash = "04a7e60ce0e00f9053392f00e897880fbe419c9302bdba4eda6e44d8e07240ba"
 metafile = true
