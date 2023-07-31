@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "98bfdd21faa25ea05af2a6b80ae8c24d16379afeae0f41a129d049f5f36c6862"
+hash = "4e5f7d855ed198218bbd3ce75857be9a36b9006760728df3a647921dca2e5c31"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "f1cebc679e2601132872e7d1a182fb4b23954002ab6bc12212f9ca9af25dadf5"
+hash = "8b40bfadfa94f40e3310148cb4828e304cbdd3842304c300366b25a0d0769818"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fe2384196e070ee510cb1d4cc69f82eb577fd8c231808ddf3633bed2dfbe13f1"
+hash = "fa7fa0f6977b9d4225035bd8d9abde8e1074fe7c7f24d2dba2682f6f381e73a3"
 metafile = true
 
 [[files]]
@@ -524,17 +524,17 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "87616c7a3467e54af078422dd46aa330dcb9df1ee20065d869776deed6984e79"
+hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
 metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
-hash = "ca18619d2625bf8ed2763871b61c63fd16376c0e0de9fee60ee88b2074aa2791"
+hash = "1f8864220e64134a17647b86dc857f5ea95c62c134fff42b8619f2e44628cc3d"
 metafile = true
 
 [[files]]
 file = "mods/the-chocolate-mod.pw.toml"
-hash = "016b564a9562a890da3a373d783ee1f11cb225e5ff240b0912929936676f64da"
+hash = "9913cedfbd74f7d447a7c6cae85930d7ae081d00ec4227d0338aba55a5141e4f"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "e866842f652cd71dcb7848aa44ad422ab2bf51e6b0d8ecaa256a4153a1ffee25"
+hash = "fa828cee58820db21721f890e029e0469480e330ff44556d1611ddb5faf9da64"
 metafile = true
 
 [[files]]
