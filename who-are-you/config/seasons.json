@@ -1,0 +1,28 @@
+{
+  "seasonLength": {
+    "springLength": 384000,
+    "summerLength": 384000,
+    "fallLength": 384000,
+    "winterLength": 384000
+  },
+  "seasonLock": {
+    "isSeasonLocked": false,
+    "lockedSeason": "SPRING"
+  },
+  "dimensionAllowlist": [
+    "minecraft:overworld"
+  ],
+  "doTemperatureChanges": true,
+  "shouldSnowyBiomesMeltInSummer": true,
+  "biomeDenylist": [
+    "terralith:glacial_chasm"
+  ],
+  "isSeasonTiedWithSystemTime": false,
+  "isInNorthHemisphere": true,
+  "isSeasonMessingCrops": true,
+  "isSeasonMessingBonemeal": false,
+  "doCropsGrowsNormallyUnderground": false,
+  "doAnimalsBreedInWinter": true,
+  "notifyCompat": true,
+  "debugCommandEnabled": false
+}

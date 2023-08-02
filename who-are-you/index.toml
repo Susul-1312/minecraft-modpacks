@@ -5,8 +5,16 @@ file = "config/doubledoors.json5"
 hash = "d7bb1517f49ccfd97f9cd3dce220c3ed33ff479eb22f2127e8c191f27abde086"
 
 [[files]]
+file = "config/seasons.json"
+hash = "f65499c3fa0fa4b7af665a15bee188ff2cdfcf87f2f2a191eb1c03244fe66fb3"
+
+[[files]]
 file = "config/snowrealmagic-common.yaml"
 hash = "54c35bd9bcbc05ea4091581dd0411a69e65c55eb5cf7b5a621c91981d3f235fc"
+
+[[files]]
+file = "config/vinery/config.json5"
+hash = "9509f64e0f7d5b3dbe314f763241f5146ec7160d97b878eac6d8ffa9c1ecedb8"
 
 [[files]]
 file = "index.html"
