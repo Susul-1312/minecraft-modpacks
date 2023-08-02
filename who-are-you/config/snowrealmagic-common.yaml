@@ -16,8 +16,8 @@ snow-cover:
   placeNaturally: true
 accumulation:
   naturalMelting: true
-  snowAndIceMeltInWarmBiomes: false
-  maxLayers: 8
+  snowAndIceMeltInWarmBiomes: true
+  maxLayers: 3
   accumulatesDuringSnowstorm: true
   accumulatesDuringSnowfall: true
 debug:
