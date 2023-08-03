@@ -50,6 +50,11 @@ hash = "7d9a59fee9ce605fd38794f8ce8f0c3f42c00ee3e4818281d538920ef98d18d9"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "3f3094de80c370f4cdbc1a3ffeaed34c65d1a151ae7b5204ee00ab78fe9f5e8e"
+metafile = true
+
+[[files]]
 file = "mods/bed-benefits.pw.toml"
 hash = "bd4c7fbda191a82c2a0b3b87c1f459f8ef8c79791f15a272d216e3c71dc08e83"
 metafile = true
@@ -320,6 +325,11 @@ hash = "235a2ad50dc38b10c95721ec9998aa8da2dbdc46ec1ad11661160c259bf26d12"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
@@ -400,11 +410,6 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
-file = "mods/noelytra.pw.toml"
-hash = "274bd86f67aadf6c03b12979ee8c9969307f8dcd5ca1f3c0a1a8800a496fe8a2"
-metafile = true
-
-[[files]]
 file = "mods/northerncompass.pw.toml"
 hash = "4134948c61435976e7f2e1e403f33ee64a0e864151c36b2f7045a418b5ec7e36"
 metafile = true
@@ -470,6 +475,11 @@ hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
+metafile = true
+
+[[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "0e81e79717053640d0beaf2b6d3d3068dc550764625de05b653515f4bfaacc8a"
 metafile = true
@@ -482,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
 metafile = true
 
 [[files]]
@@ -547,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/thermoo.pw.toml"
 hash = "819a972cb74f13449c3f3d9fe39d9b117cea773f07f654ee9b35f44bd934e358"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "072611854b3a7da9855119e94f60b3619b8a5f2ed14691ddd331691c2be178a9"
 metafile = true
 
 [[files]]
