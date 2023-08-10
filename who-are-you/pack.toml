@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "6f97d6e7cb62cddcc060ebaff2eacb367cb0ee934d387a0ca5ea5a8ec9a6ed89"
+=======
+hash = "f07a4acda341592dc850acac9d20398b1fd5bab5bcb56fb2f5fc8b044c67bd1c"
+>>>>>>> parent of f04eb64 (updoots)
 
 [versions]
 minecraft = "1.20.1"
