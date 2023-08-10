@@ -21,6 +21,10 @@ file = "config/vinery/config.json5"
 hash = "9509f64e0f7d5b3dbe314f763241f5146ec7160d97b878eac6d8ffa9c1ecedb8"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "b79e5338e58e0bf0a1ee73873ea4c90b4a5721024bd2a6b7b60010de20d915d1"
+
+[[files]]
 file = "index.html"
 hash = "4dba3a05222b49209e0630f8258cd7a34ad3da8152bfa480ed703a42f2f47369"
 
