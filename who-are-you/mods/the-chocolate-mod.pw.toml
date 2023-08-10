@@ -1,13 +1,13 @@
 name = "The Chocolate Mod"
-filename = "SCME-5.1.1.jar"
+filename = "SCME-5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4iT0YIwk/versions/jTXnl17I/SCME-5.1.1.jar"
+url = "https://cdn.modrinth.com/data/4iT0YIwk/versions/xfCyV5as/SCME-5.2.jar"
 hash-format = "sha1"
-hash = "235dbe0f916a0a9549f8ef3219af8a8e3702bcbe"
+hash = "e1130af8451c8582fae499ff1dabf65eb7121617"
 
 [update]
 [update.modrinth]
 mod-id = "4iT0YIwk"
-version = "jTXnl17I"
+version = "xfCyV5as"
