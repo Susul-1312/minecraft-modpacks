@@ -1,4 +1,3 @@
-#! /bin/bash
 echo "<html>
 <head>
 <title>$1</title>
