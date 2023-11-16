@@ -94,6 +94,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+metafile = true
+
+[[files]]
 file = "mods/mine-little-pony.pw.toml"
 hash = "a905a60dc3472f554cde65f8682263379fcb9cffd3c409d8594c0f979520c805"
 metafile = true
