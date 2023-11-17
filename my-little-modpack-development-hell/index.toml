@@ -134,11 +134,6 @@ hash = "534d7c3832a363282fa9df19ac6c04c07dab02f9088803868f5f9f1932bb7404"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
@@ -201,11 +196,6 @@ metafile = true
 [[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
