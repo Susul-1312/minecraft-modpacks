@@ -9,13 +9,33 @@ file = "index.html"
 hash = "1efabd18779e69a75b73ffe4cf768d991f980d30ac7953a78321efc6b4e4381f"
 
 [[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "90194ada0c801384badf927ec83c7673f3b6ea61668a0098437ed1dd504bc57d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "91cb77aca838a3456212796c727067e16d82997708d60a7a33673b404df82065"
+metafile = true
+
+[[files]]
 file = "mods/big-pony.pw.toml"
 hash = "a1ef837843b4c513e1722d890f45f8dd29a0102e64abe18ae1edfd330b4bbe81"
+metafile = true
+
+[[files]]
+file = "mods/carpeted-stairs.pw.toml"
+hash = "7d3e32de5baaad4c32873fdd063d06b193e87d9b9cf0d8f6a3519359d626bc1e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
@@ -44,6 +64,11 @@ hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "9884c9af4ba83cbdf8bc6b102a257068566641a17d2c6dde63dcf41d0dd0603e"
 metafile = true
@@ -51,6 +76,16 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
+metafile = true
+
+[[files]]
+file = "mods/euphonium.pw.toml"
+hash = "d34ee6c3ae84ae7d6ce3b82fcf839c76175973af3d7e2efb347b9e42c9955bee"
 metafile = true
 
 [[files]]
@@ -89,6 +124,16 @@ hash = "a72f9d22199c058b621d49d651dcb6909f211bad7b7327347691a07f4bc6ecb4"
 metafile = true
 
 [[files]]
+file = "mods/heartstone.pw.toml"
+hash = "a3ec96ac770543822515321621d92d52fa9017a272fef407043a571c3973dc2c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "534d7c3832a363282fa9df19ac6c04c07dab02f9088803868f5f9f1932bb7404"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
@@ -99,6 +144,16 @@ hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
+metafile = true
+
+[[files]]
 file = "mods/mine-little-pony.pw.toml"
 hash = "a905a60dc3472f554cde65f8682263379fcb9cffd3c409d8594c0f979520c805"
 metafile = true
@@ -106,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "feb8ca50c3f0fa5f910f2d57744171670d9a28af526c29120650fc5dbcfcd84e"
 metafile = true
 
 [[files]]
@@ -134,6 +194,11 @@ hash = "8ecb202cbaf851233c9b3ff1541f8c70af8334779d59e8046450d6bcd62edc67"
 metafile = true
 
 [[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "f6d1e9e7ae5c58e553b7ed878a835b60516243663c0f9fb57c547f1ca61ba8ea"
+metafile = true
+
+[[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
 metafile = true
@@ -141,6 +206,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "a69de34851715b0bf011311fafca0d6e8217cc32717f8351e12babbb382fc480"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "81844685b21b8f3c84d289a39151f4442ada20c168546bb9a9c471927c99e370"
 metafile = true
 
 [[files]]
