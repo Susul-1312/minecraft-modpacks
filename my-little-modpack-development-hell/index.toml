@@ -199,6 +199,16 @@ hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat-radio.pw.toml"
+hash = "f2e538d44912ed4d42c1f8664cabe9c2de3b46aea305188d2f428127fe9bf56d"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "80f2cd7cb60ed88d20d70b92b162362f2e8830d4d46085e31660ee9a3d4cf7e1"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
 metafile = true
