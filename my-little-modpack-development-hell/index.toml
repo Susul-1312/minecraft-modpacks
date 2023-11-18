@@ -5,6 +5,10 @@ file = "config/minelp.json"
 hash = "476b1e123b8f77cd496bc6582e2fab9a86b5b7b3d5045901f13944d6244dd2e3"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "b44f71fa1856b2abeaf99ab463a2afcf36604a617263eb2be5df432775c59e21"
+
+[[files]]
 file = "index.html"
 hash = "1efabd18779e69a75b73ffe4cf768d991f980d30ac7953a78321efc6b4e4381f"
 
