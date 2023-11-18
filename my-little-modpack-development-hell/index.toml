@@ -213,11 +213,6 @@ hash = "80f2cd7cb60ed88d20d70b92b162362f2e8830d4d46085e31660ee9a3d4cf7e1"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "a69de34851715b0bf011311fafca0d6e8217cc32717f8351e12babbb382fc480"
 metafile = true
