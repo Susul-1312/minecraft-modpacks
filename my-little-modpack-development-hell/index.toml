@@ -88,11 +88,6 @@ hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
-metafile = true
-
-[[files]]
 file = "mods/euphonium.pw.toml"
 hash = "d34ee6c3ae84ae7d6ce3b82fcf839c76175973af3d7e2efb347b9e42c9955bee"
 metafile = true
@@ -123,6 +118,11 @@ hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -148,8 +148,18 @@ hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
@@ -160,6 +170,11 @@ metafile = true
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
 hash = "a905a60dc3472f554cde65f8682263379fcb9cffd3c409d8594c0f979520c805"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b9125c39c0cdfdf11287f16e856b4ff1823b19d58e6f05a7066d15f14ac64aa6"
 metafile = true
 
 [[files]]
