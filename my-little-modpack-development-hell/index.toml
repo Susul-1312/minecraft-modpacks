@@ -198,11 +198,6 @@ hash = "f6d1e9e7ae5c58e553b7ed878a835b60516243663c0f9fb57c547f1ca61ba8ea"
 metafile = true
 
 [[files]]
-file = "mods/respite-creators-fabric.pw.toml"
-hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat-radio.pw.toml"
 hash = "f2e538d44912ed4d42c1f8664cabe9c2de3b46aea305188d2f428127fe9bf56d"
 metafile = true
