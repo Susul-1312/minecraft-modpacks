@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "index.html"
-hash = "3daad0a964a6bea647ed32be773eb2b90fbc4ff2f404ac4998271ce0d7959483"
+hash = "b11e5245554162db925ea19bcf2c29c7bdab372ff2a7263fefff2e4f57d6ad65"
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
@@ -141,4 +141,4 @@ metafile = true
 
 [[files]]
 file = "readme.md"
-hash = "df2a399643ad7579ceca570a6dcf030c74249e0bf24d451dae369f48e1f672cd"
+hash = "eb2cc5b34844f69f563bb3322fed51f5bbf3785644dca5e9361667d64cfb6d49"
