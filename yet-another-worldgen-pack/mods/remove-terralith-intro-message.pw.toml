@@ -1,0 +1,13 @@
+name = "Remove Terralith Intro Message"
+filename = "remove-terralith-intro-message-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sk4iFZGy/versions/2jAppOW4/remove-terralith-intro-message-1.0.jar"
+hash-format = "sha1"
+hash = "80b617cdd2dcd973779bb7ce273dc06a4639ca6e"
+
+[update]
+[update.modrinth]
+mod-id = "sk4iFZGy"
+version = "2jAppOW4"
