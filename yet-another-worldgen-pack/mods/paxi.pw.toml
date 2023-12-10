@@ -1,0 +1,13 @@
+name = "Paxi"
+filename = "Paxi-1.19.3-Fabric-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CU0PAyzb/versions/PndwEY0C/Paxi-1.19.3-Fabric-3.1.0.jar"
+hash-format = "sha1"
+hash = "b4461a93be8f3b074593fcb7a990a50d1a2515d1"
+
+[update]
+[update.modrinth]
+mod-id = "CU0PAyzb"
+version = "PndwEY0C"

@@ -1,0 +1,13 @@
+name = "Tidal Towns"
+filename = "ocean_village.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EEIwvQVo/versions/2Sx8IhIr/ocean_village.zip"
+hash-format = "sha1"
+hash = "0f8cc16b16a70aeae7a1276f79c72062fa2869ce"
+
+[update]
+[update.modrinth]
+mod-id = "EEIwvQVo"
+version = "2Sx8IhIr"

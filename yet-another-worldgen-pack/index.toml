@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/scorched.pw.toml"
+hash = "9aeba9d40ab451118ef7064feb211d6c18b101e77e3a966c8b9a7f931904d90e"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/tidal-towns.pw.toml"
+hash = "fa26e127dfeceae44f98476ae81a59780f9206588eb09681059e92c1ba7a6228"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/towers-of-the-wild-reworked.pw.toml"
+hash = "f20574dd4c14fcebce36d2963a5174ff003f889b688eb3b31bf9c41591109ccb"
+metafile = true
+
+[[files]]
 file = "index.html"
 hash = "b11e5245554162db925ea19bcf2c29c7bdab372ff2a7263fefff2e4f57d6ad65"
 
@@ -10,8 +25,18 @@ hash = "b2807f73b75d5b6f73332f54f0fde9c529c97bdda7f7110b5e47785405bb69cd"
 metafile = true
 
 [[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "b458aa5583194824cb08dc9ed980322bd69726ca9d9b94c96a48142d8d731f30"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "352f8e78011e79ffec7b6ee6191be165deab39ca040a9f3e7b8d166f67c29d85"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "db1a9131ca013d2b744166f5788b935f08eb47752356607517c563d454b83267"
 metafile = true
 
 [[files]]
@@ -20,8 +45,28 @@ hash = "14440a05054feeaa8d8ff83e74a6189ed4d18552acfa1cbeeef28b30263c6471"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "c3907eab7e08d7db198d2e5c3c7cd806ff406bc34f03af5b0f1dc2fdfac61a27"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "d02024521821336e40652c36c675ee520b4137ed73953e98f21bcf8a55f6a583"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "d5f00c0dc0cfa23dde54728bf346e89b84bbbde9c077a2c2b60356850cdff25b"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "1fd651189bd30e949d6bb2b3dbb6c2f0ea6180896b7087a969f286f84000b92e"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
 
 [[files]]
@@ -60,6 +105,16 @@ hash = "f1128e7959731059900093f9f2835dbac03d2e888533bff4eef44588f8c93ca5"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "0f2d15648dd6d1a50437258b9a5f3769bacd5edeaed8e861991ddb979b3ea465"
+metafile = true
+
+[[files]]
+file = "mods/perfect-accuracy.pw.toml"
+hash = "2256146bd9b62695a8f33739ff84476cd849ee0646e9961163980094226f857c"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
@@ -70,8 +125,18 @@ hash = "5a7a1adfffe4c099da8a01999defb8a5116a0eb9c41991b679f5d5d802881b94"
 metafile = true
 
 [[files]]
+file = "mods/refined-advancements.pw.toml"
+hash = "5508098b317629352f08368ac597b08fd45fee38b2cf9de5cc3a89a5a1ba42a5"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "01c7c567870bbba304ab642a61f8d476abfa2536804ed56cd259e717dce7f7bc"
 metafile = true
 
 [[files]]
@@ -95,6 +160,11 @@ hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
 metafile = true
 
 [[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "6e3814a08ebcf03a2d55a9811ff3c1b49e75d04ae11656793ec1e7e6451d5898"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
@@ -102,11 +172,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "c48b69c8ae5c8c62b6debff9011531bda831e4e5e15f95b8b12784c27b6456d1"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "02012fa07b2f30ccd8b136249db50763bdf2528e7299e6bb0c75f9d2fa27a958"
 metafile = true
 
 [[files]]
