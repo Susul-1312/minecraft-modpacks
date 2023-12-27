@@ -1,0 +1,13 @@
+name = "Don't void Arrows"
+filename = "don't void arrows V.1.1-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tVEORSsQ/versions/wvmdTAKf/don%27t%20void%20arrows%20V.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "ace23c809e0e90c1a6511d27332a39353d86ef83"
+
+[update]
+[update.modrinth]
+mod-id = "tVEORSsQ"
+version = "wvmdTAKf"

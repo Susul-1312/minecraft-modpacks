@@ -1,0 +1,79 @@
+hash-format = "sha256"
+
+[[files]]
+file = "index.html"
+hash = "690cf8151a7fc3c33b95456a9b3309f678c82e6f367b6205f4eb2191648ff97b"
+
+[[files]]
+file = "mods/arrow-collector.pw.toml"
+hash = "73b8d6eb9c374fbe95f82d9e8d9608ce101b1bddc3805f4e4b2ae44938e74eab"
+metafile = true
+
+[[files]]
+file = "mods/basic-weapons.pw.toml"
+hash = "0dae602beb894372af727fccb49cc9f57b8a6fe0c1e70c37eacae2dc8ec81d29"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1b9ee39fd1356323e4079873e9513535f635e5681d94ac8fb5bc2487dfbd5b78"
+metafile = true
+
+[[files]]
+file = "mods/dont-void-arrows.pw.toml"
+hash = "a6075f5fa08294ee329a7ccb580e44c82a9b911312ba2196736c96975a8df70a"
+metafile = true
+
+[[files]]
+file = "mods/expanded-combat.pw.toml"
+hash = "de3af0b3710f27c87cc94039031e889bce22970e2709a4707edb9abce27fa699"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "27d1ccc9950046ef6c8d7284aad99f7f1e5e7df1a8ce41cd37c48d91eaf6537a"
+metafile = true
+
+[[files]]
+file = "mods/homeostatic.pw.toml"
+hash = "fa3cda728dc0ceee32c9ebcfb44d1a21f371b1849812d428e94cfba7610796f9"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "c85ee74b78c2ccf8668ce8d66147231e999712218dde0bb719353616864800a6"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2c6133bbbfa2783e58b52a7670458781f1d51a0ccc82c56a582410ba3266bc43"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "9d5935fd4df78e0300c574ea6e48931783edf54916a8befccee23073931928d7"
+metafile = true
+
+[[files]]
+file = "mods/tinyinv.pw.toml"
+hash = "b06d2859b693657e432d8bfc7299ce5a13c287715eddb741c5c56bfe4e430269"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "2d5edde4ce59a899c9e44e06a12be9b64470c8a85834598fff676c8688d668d2"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "e017eb77f2798970e43fcb33dad188df2e40a86a92be7a8da244094338e481d0"

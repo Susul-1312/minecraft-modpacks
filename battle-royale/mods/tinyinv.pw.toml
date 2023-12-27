@@ -1,0 +1,13 @@
+name = "TinyInv"
+filename = "tinyinv-1.20.1-1.1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eg2PfUjr/versions/6axJEvul/tinyinv-1.20.1-1.1.0.0.jar"
+hash-format = "sha1"
+hash = "b4264cc11960354829f1c5ed9b8fde3c20d9a2cd"
+
+[update]
+[update.modrinth]
+mod-id = "Eg2PfUjr"
+version = "6axJEvul"
