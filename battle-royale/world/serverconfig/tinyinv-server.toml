@@ -1,0 +1,30 @@
+[general]
+	#The default number of slots
+	#Range: 0 ~ 36
+	inventory_slots = 9
+	#The default number of hotbar slots
+	#Range: 0 ~ 36
+	hotbar_slots = 3
+	#Should offhand slot be enabled?
+	offhand_slot = true
+	#Should offhand slot be enabled?
+	head_slot = true
+	#Should offhand slot be enabled?
+	chest_slot = true
+	#Should offhand slot be enabled?
+	legs_slot = true
+	#Should offhand slot be enabled?
+	hooves_slot = true
+	#Should offhand slot be enabled?
+	crafting_top_left_slot = true
+	#Should offhand slot be enabled?
+	crafting_top_right_slot = true
+	#Should offhand slot be enabled?
+	crafting_bottom_left_slot = true
+	#Should offhand slot be enabled?
+	crafting_bottom_right_slot = true
+	#Should exclude the players who are in creative mode?
+	exclude_creative_mode_players = true
+	#What indexing to use? Mojang counts inventory slots from top to bottom, while TinyInv counts from bottom to top (which lines up better with hotbar indexes)
+	#Allowed Values: MOJANG, TINYINV
+	indexing = "TINYINV"

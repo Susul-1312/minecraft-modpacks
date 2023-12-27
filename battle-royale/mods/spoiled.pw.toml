@@ -1,0 +1,13 @@
+name = "Spoiled"
+filename = "Spoiled-forge-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsHyEZFS/versions/JthlEAVf/Spoiled-forge-1.20.1-2.0.4.jar"
+hash-format = "sha1"
+hash = "3b039e2bc8572f897dd2f49a2de185f8b8abb3c6"
+
+[update]
+[update.modrinth]
+mod-id = "FsHyEZFS"
+version = "JthlEAVf"

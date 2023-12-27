@@ -1,8 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/homeostatic-client.toml"
+hash = "a3defb8ef4f713af161c5bb808955b92a6e333ee9b910045a8ccfc303d6b6780"
+
+[[files]]
 file = "index.html"
 hash = "690cf8151a7fc3c33b95456a9b3309f678c82e6f367b6205f4eb2191648ff97b"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "5920f0de3ae998d997cc8864ff6744ec6f4f2a62eb1c75e20b72ec193e2294e0"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+metafile = true
 
 [[files]]
 file = "mods/arrow-collector.pw.toml"
@@ -20,6 +33,11 @@ hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
+file = "mods/cook-your-food.pw.toml"
+hash = "8cfdac6385440afd5d7ac17a0db0c8894d44cdb7c17a85beeb565e7deb173e3c"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "1b9ee39fd1356323e4079873e9513535f635e5681d94ac8fb5bc2487dfbd5b78"
 metafile = true
@@ -27,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/dont-void-arrows.pw.toml"
 hash = "a6075f5fa08294ee329a7ccb580e44c82a9b911312ba2196736c96975a8df70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "61512dd4f965d4b8fd0db788a60c71255dbd970900c5856fa2e88b238379fa02"
 metafile = true
 
 [[files]]
@@ -50,6 +73,26 @@ hash = "fa3cda728dc0ceee32c9ebcfb44d1a21f371b1849812d428e94cfba7610796f9"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "a61d706ee3c4cce64f1a557da15ec944a3d08aeecda5c46826671a27a0b452c1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/no-tree-punching.pw.toml"
+hash = "744c87aac346c32f00e3f82f890800421391ac8755a7a3b3c0f965a714d34cf8"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "c85ee74b78c2ccf8668ce8d66147231e999712218dde0bb719353616864800a6"
 metafile = true
@@ -65,6 +108,11 @@ hash = "9d5935fd4df78e0300c574ea6e48931783edf54916a8befccee23073931928d7"
 metafile = true
 
 [[files]]
+file = "mods/spoiled.pw.toml"
+hash = "44da894587263ff0c5452289a7b08fdc97b1b04447eb1a9894c4f856abce0e97"
+metafile = true
+
+[[files]]
 file = "mods/tinyinv.pw.toml"
 hash = "b06d2859b693657e432d8bfc7299ce5a13c287715eddb741c5c56bfe4e430269"
 metafile = true
@@ -77,3 +125,7 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "e017eb77f2798970e43fcb33dad188df2e40a86a92be7a8da244094338e481d0"
+
+[[files]]
+file = "world/serverconfig/tinyinv-server.toml"
+hash = "73994b1bf1738a59c96ac8c21c86fd8aa5095bfbe9d81d23bf8963c62959697f"
