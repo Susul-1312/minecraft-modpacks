@@ -59,6 +59,11 @@ hash = "86934e48e50a5e92cf82103f60893c7028436c1112a4e1ef92a68b59ca68814a"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "87e4d67d6a7336abf8d2b362b1f013f01574616f1c6971012bb24613cb4be9ae"
 metafile = true
