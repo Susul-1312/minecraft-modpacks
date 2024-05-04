@@ -1,0 +1,13 @@
+name = "Crushed Astra"
+filename = "crushedastra-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9GAv60Rl/versions/msoWmT9D/crushedastra-1.0.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "a3a8f04b119f392a4a633f1721524b2e1a6b1d91"
+
+[update]
+[update.modrinth]
+mod-id = "9GAv60Rl"
+version = "msoWmT9D"

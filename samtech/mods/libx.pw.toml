@@ -1,0 +1,13 @@
+name = "LibX"
+filename = "LibX-1.20.1-5.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qEH6GYul/versions/YHTMDq85/LibX-1.20.1-5.0.14.jar"
+hash-format = "sha1"
+hash = "d75610b0c34626cea8b1155a47d28333cc1f58a2"
+
+[update]
+[update.modrinth]
+mod-id = "qEH6GYul"
+version = "YHTMDq85"

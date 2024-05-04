@@ -1,0 +1,13 @@
+name = "Almost Unified"
+filename = "almostunified-forge-1.20.1-0.9.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/fscv1Pjy/almostunified-forge-1.20.1-0.9.3.jar"
+hash-format = "sha1"
+hash = "e03d5bcc2f8de175d8a790464c2e4e337677463c"
+
+[update]
+[update.modrinth]
+mod-id = "sdaSaQEz"
+version = "fscv1Pjy"

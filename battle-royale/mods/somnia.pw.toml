@@ -1,0 +1,13 @@
+name = "Somnia Awoken"
+filename = "Somnia-Awoken-1.20.1-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BiSrUr8O/versions/9RZ5Myi6/Somnia-Awoken-1.20.1-3.3.0.jar"
+hash-format = "sha1"
+hash = "47b3b043e9bc755e2a320744ffe2cfe8018b7a32"
+
+[update]
+[update.modrinth]
+mod-id = "BiSrUr8O"
+version = "9RZ5Myi6"

@@ -1,0 +1,13 @@
+name = "Create: Addon Compatibility"
+filename = "createaddoncompatibility-v0.1.2b-1.20.1-(neo)forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgrK9rtJ/versions/DgcHYnsg/createaddoncompatibility-v0.1.2b-1.20.1-%28neo%29forge.jar"
+hash-format = "sha1"
+hash = "2117e78eec57bac265be47f6e509ad8c2636eb0b"
+
+[update]
+[update.modrinth]
+mod-id = "QgrK9rtJ"
+version = "DgcHYnsg"

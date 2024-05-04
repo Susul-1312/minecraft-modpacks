@@ -5,6 +5,10 @@ file = "config/homeostatic-client.toml"
 hash = "a3defb8ef4f713af161c5bb808955b92a6e333ee9b910045a8ccfc303d6b6780"
 
 [[files]]
+file = "config/homeostatic-common.toml"
+hash = "2631e442b207c0ecd6dba6718da03270f5dfe7b9e64a92148e38cefa0469846b"
+
+[[files]]
 file = "index.html"
 hash = "690cf8151a7fc3c33b95456a9b3309f678c82e6f367b6205f4eb2191648ff97b"
 
@@ -73,6 +77,11 @@ hash = "fa3cda728dc0ceee32c9ebcfb44d1a21f371b1849812d428e94cfba7610796f9"
 metafile = true
 
 [[files]]
+file = "mods/koremods.pw.toml"
+hash = "ee1354ba139db860fe359dfa1aa477ebb8855e15cde882558d3afa9ec2916270"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "a61d706ee3c4cce64f1a557da15ec944a3d08aeecda5c46826671a27a0b452c1"
 metafile = true
@@ -100,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2c6133bbbfa2783e58b52a7670458781f1d51a0ccc82c56a582410ba3266bc43"
+metafile = true
+
+[[files]]
+file = "mods/somnia.pw.toml"
+hash = "d0ce3234fbda795978756d663fe2159a1d55b5baa700113707f85449f5ee4679"
 metafile = true
 
 [[files]]

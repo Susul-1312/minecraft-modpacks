@@ -1,4 +1,4 @@
-name = "Battle Royale"
+name = "Samtech"
 author = "Susul"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9c023ab4aec978e0ecbacb3a6d077a6308e3210e0f840d0aab680b8ce4059fe5"
+hash = "1b1e8f559d5d06761a86bad500ad1c5af5e5c9ccf511e23ae5baf5e8a63086cd"
 
 [versions]
-forge = "47.2.18"
+forge = "47.2.30"
 minecraft = "1.20.1"
