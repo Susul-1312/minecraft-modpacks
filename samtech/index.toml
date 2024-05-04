@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "59ad7e4771cb7b66f9477686a272b7d587e42c7ca869f0bf5314def6a50d6bc2"
+hash = "ac589712c04c74450b28551d27d9742ade44547bb585a138b55ae638f76f0cf9"
 metafile = true
 
 [[files]]
