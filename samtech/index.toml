@@ -259,11 +259,6 @@ hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
 metafile = true
 
 [[files]]
-file = "mods/unifiedoptions.pw.toml"
-hash = "34070092bcc47fcba943a6b3d09226ff9a0e54512fa91e3e34371a965c84ce8e"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "1c81e1ebfd0a47ebc8fd6da82834c06f2d730538f892f9933420748586779be5"
 metafile = true
