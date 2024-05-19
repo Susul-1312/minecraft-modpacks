@@ -1,6 +1,6 @@
 name = "RightClickHarvest"
 filename = "right-click-harvest-3.2.3+1.20.1-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/FhoXR7D3/right-click-harvest-3.2.3%2B1.20.1-forge.jar"
