@@ -234,6 +234,11 @@ hash = "026e484ff48513b66e8d78169bfbe5644fb76974ec1a7d5db1dfcc4590c9ef45"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "bdb82e60106867e222b060ecec3df3cb06b95e4de34bf61f7109f07dd20a1191"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
@@ -271,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "0328dcee3fced9edb7fe463b35624381fc94e09f6303a7cb1cdccb26747a130c"
 metafile = true
 
 [[files]]
