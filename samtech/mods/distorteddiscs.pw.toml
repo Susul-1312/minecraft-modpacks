@@ -1,0 +1,13 @@
+name = "Distorted Discs"
+filename = "DistortedDiscs-1.20.1-0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c1YGVwll/versions/BNqTTaWs/DistortedDiscs-1.20.1-0.7.jar"
+hash-format = "sha1"
+hash = "7c4bb33852cc5176197e32d11f9fa10ae0f6116b"
+
+[update]
+[update.modrinth]
+mod-id = "c1YGVwll"
+version = "BNqTTaWs"
