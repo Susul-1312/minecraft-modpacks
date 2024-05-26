@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "bdb82e60106867e222b060ecec3df3cb06b95e4de34bf61f7109f07dd20a1191"
+hash = "f156c40c0c9453fc3871188e483fb6f696802ef07f87ebfaf5f5eda58979cb1c"
 metafile = true
 
 [[files]]
