@@ -59,11 +59,6 @@ hash = "86934e48e50a5e92cf82103f60893c7028436c1112a4e1ef92a68b59ca68814a"
 metafile = true
 
 [[files]]
-file = "mods/classic-musical-discs.pw.toml"
-hash = "a609e46a1760ba7464bd81f652c547b2af48a04fe2b695f0b572b21ee31a5297"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "db682d3c387eff10ff70087bdee0e13bb97f8616c49a8f4c7bb0e3146034a663"
 metafile = true
@@ -71,11 +66,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
-metafile = true
-
-[[files]]
-file = "mods/constant-music.pw.toml"
-hash = "8001ad91fa8916c8f88649ab21b7588e7f1733926615def05d33f0bd403dd118"
 metafile = true
 
 [[files]]
@@ -136,11 +126,6 @@ metafile = true
 [[files]]
 file = "mods/destroy.pw.toml"
 hash = "a5b0f85c1e1c585e2e38d2ab902340647b5d59ed83c0bf12f7d17e6d8f48d078"
-metafile = true
-
-[[files]]
-file = "mods/distorteddiscs.pw.toml"
-hash = "803ee0bf6ff07188c43de75bf8ffe65922771a596f74f379254a16c363d9427f"
 metafile = true
 
 [[files]]
