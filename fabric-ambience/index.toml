@@ -9,6 +9,10 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/assasin.json"
+hash = "a58e21ac2d41535c0df2c9776af05695127c4d83b7623398014fe558ee828a66"
+
+[[files]]
 file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/backpack.json"
 hash = "c6f3d292a922380b6ea3e8ed0b4935a663f3a6c0112056f7854830c171ef1285"
 
@@ -25,12 +29,24 @@ file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/
 hash = "3f07ffb0396501c1e818ad92df57a96352ac33dd92b581f9a53cbc5390916443"
 
 [[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/creepers.json"
+hash = "8c46dd3a3fb92ac8a484c3cf7a32ce7aa073fbb1840883599c0fc9970f4aeaff"
+
+[[files]]
 file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/fat.json"
 hash = "de2acec4dcb4b7f868f4990ae9ef58bf4f1ec124809040df7833af95431ee5fb"
 
 [[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/lamp_off.json"
+hash = "2607cfbb2001804fc8026b4f0d6f396a543ad2084d70aef198af9c1ca7025798"
+
+[[files]]
 file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/lantern.json"
 hash = "5abfa485bd4361723fe9c1d397b2aa626d2881609006dcc64881caf5e7c251f7"
+
+[[files]]
+file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/sleeping_bag.json"
+hash = "f359c89d24552ca695d658f32f3bc7c34101bba06a625eece05dd509f70fcc44"
 
 [[files]]
 file = "config/openloader/resources/fabric_ambience/assets/fabric_ambience/tips/smolder.json"
