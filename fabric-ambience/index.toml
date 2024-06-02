@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "da481c054a2671c6546413c1931ff90713edc950ad6a5462fc6798c478e01172"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
 metafile = true
 
 [[files]]
@@ -171,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "1ec9dfa06e33af503dbd8ded0573daf20f866c286b54dab0813d9905d908fe3d"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "7537d7db35d975d7d0bbb7de3b6658a8d4c10f18e4813111d91259bddb192c42"
 metafile = true
 
 [[files]]
@@ -231,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "3e0d8315328cb92daad5a5815929a8f8702fab2831fee60e76b0ab564bce39fc"
 metafile = true
 
 [[files]]
