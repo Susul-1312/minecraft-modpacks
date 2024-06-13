@@ -1,0 +1,13 @@
+name = "MoreIotas"
+filename = "moreiotas-forge-1.19.2-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jmt7p37B/versions/HDGncqTm/moreiotas-forge-1.19.2-0.0.4.jar"
+hash-format = "sha1"
+hash = "36c353369e080650dd11f528ecde130fda06de85"
+
+[update]
+[update.modrinth]
+mod-id = "Jmt7p37B"
+version = "HDGncqTm"

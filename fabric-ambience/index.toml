@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "758d94a85f3cb06bdacbb16e695d40079b89b442a3fb3627edc5ab0394993c86"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
@@ -261,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9fad21f2eaf1a4e088537611a09faa3db7ae88fe3547589d24bcc0cbb09bd86"
+metafile = true
+
+[[files]]
+file = "mods/rain-should-extinguish-campfires.pw.toml"
+hash = "d6571a94fe175f24f659715453dac4a7cf63e945e5ce44d41927375a069bec25"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Amethysts of Fortune"
+filename = "Amethysts of Fortune [v1.0 - 1.19.2].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p7LQQgYX/versions/1QaUaUwJ/Amethysts%20of%20Fortune%20%5Bv1.0%20-%201.19.2%5D.jar"
+hash-format = "sha1"
+hash = "43099ed92486e757556365ad278dd0398a972053"
+
+[update]
+[update.modrinth]
+mod-id = "p7LQQgYX"
+version = "1QaUaUwJ"

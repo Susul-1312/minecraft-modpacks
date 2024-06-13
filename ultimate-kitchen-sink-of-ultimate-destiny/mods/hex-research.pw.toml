@@ -1,0 +1,13 @@
+name = "Hex Research"
+filename = "hexresearch-forge-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IwDgJLXt/versions/6jCaW7Mx/hexresearch-forge-1.19.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "81abb813a741323d6f29559316975b7a904498d8"
+
+[update]
+[update.modrinth]
+mod-id = "IwDgJLXt"
+version = "6jCaW7Mx"

@@ -1,0 +1,13 @@
+name = "Mo' Than Enough Guns"
+filename = "M'TEG-1.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mulzyv9p/versions/St2jrQ3h/M%27TEG-1.0.1-1.19.2.jar"
+hash-format = "sha1"
+hash = "2a79057f7dd2a332c9d5adc8dd57ce4e54be9010"
+
+[update]
+[update.modrinth]
+mod-id = "Mulzyv9p"
+version = "St2jrQ3h"

@@ -1,0 +1,13 @@
+name = "Ultimate Kitchen Sink of Ultimate Destiny"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "785b1643f6135e64e97a3582a9d0d5f71b5ce658c50021c64f772ec8fb36925d"
+
+[versions]
+forge = "43.4.0"
+minecraft = "1.19.2"

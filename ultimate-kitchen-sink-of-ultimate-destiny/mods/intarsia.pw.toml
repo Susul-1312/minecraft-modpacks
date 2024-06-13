@@ -1,0 +1,13 @@
+name = "Intarsia"
+filename = "intarsia-1.1.6-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FLmWD610/versions/9RBekAKs/intarsia-1.1.6-beta.jar"
+hash-format = "sha1"
+hash = "15e036f2a6fc6f953c04ae2a9e6336004e7a07dd"
+
+[update]
+[update.modrinth]
+mod-id = "FLmWD610"
+version = "9RBekAKs"

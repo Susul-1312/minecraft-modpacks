@@ -1,0 +1,13 @@
+name = "Rain should extinguish campfires"
+filename = "rsec-1.0-1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XFk4dAJX/versions/Ygw5zbcF/rsec-1.0-1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "872f25348f5fb7b930e3c2c6cb48d639ad1387a2"
+
+[update]
+[update.modrinth]
+mod-id = "XFk4dAJX"
+version = "Ygw5zbcF"

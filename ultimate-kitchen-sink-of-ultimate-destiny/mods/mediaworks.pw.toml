@@ -1,0 +1,13 @@
+name = "Mediaworks"
+filename = "mediaworks-forge-1.19.2-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kZJcMa9/versions/Ev0KEBSG/mediaworks-forge-1.19.2-1.0.7.jar"
+hash-format = "sha1"
+hash = "3bbd1acacb9e20ab051a46132349a34cef4645e1"
+
+[update]
+[update.modrinth]
+mod-id = "2kZJcMa9"
+version = "Ev0KEBSG"

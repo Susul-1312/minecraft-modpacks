@@ -1,0 +1,13 @@
+name = "Create Ad Astra Compat"
+filename = "createastracompat-1.0.3-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bk5D4qMV/versions/Tgxpv0X8/createastracompat-1.0.3-1.19.2.jar"
+hash-format = "sha1"
+hash = "be847bdb48b80fcbea8bb6f5c785d9142b48e9c5"
+
+[update]
+[update.modrinth]
+mod-id = "Bk5D4qMV"
+version = "Tgxpv0X8"

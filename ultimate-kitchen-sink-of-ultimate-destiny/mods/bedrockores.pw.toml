@@ -1,0 +1,13 @@
+name = "Bedrock Ores"
+filename = "bedrockores-MC1.19.2-2.0.0+59a42bf.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KCMBVtfE/versions/nKeK5WWc/bedrockores-MC1.19.2-2.0.0%2B59a42bf.jar"
+hash-format = "sha1"
+hash = "829309dc06d207f783a8ce67e16da03034eb38bc"
+
+[update]
+[update.modrinth]
+mod-id = "KCMBVtfE"
+version = "nKeK5WWc"

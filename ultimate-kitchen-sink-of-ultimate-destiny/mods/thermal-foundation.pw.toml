@@ -1,0 +1,13 @@
+name = "Thermal Foundation"
+filename = "thermal_foundation-1.19.2-10.3.1.57.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xvg6q5Wp/versions/kaIOIjDc/thermal_foundation-1.19.2-10.3.1.57.jar"
+hash-format = "sha1"
+hash = "14ade1c7880831dbe184676f56fed0be14ac717e"
+
+[update]
+[update.modrinth]
+mod-id = "Xvg6q5Wp"
+version = "kaIOIjDc"
