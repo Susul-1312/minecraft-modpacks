@@ -1,0 +1,13 @@
+name = "Towers of the Wild: Additions"
+filename = "totw_additions-1.2.3-1.19.x-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kzdWjLDh/versions/dk4fHUkn/totw_additions-1.2.3-1.19.x-forge.jar"
+hash-format = "sha1"
+hash = "d5d72e6a28a4fae7fa05b6fa2fa0ab1cb19f6856"
+
+[update]
+[update.modrinth]
+mod-id = "kzdWjLDh"
+version = "dk4fHUkn"

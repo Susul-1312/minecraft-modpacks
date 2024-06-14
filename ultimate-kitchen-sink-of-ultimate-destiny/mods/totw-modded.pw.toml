@@ -1,0 +1,13 @@
+name = "Towers of the Wild Modded"
+filename = "totw_modded-forge-1.19.2-1.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/54eqfZSC/versions/HJLh5Hib/totw_modded-forge-1.19.2-1.0.5.jar"
+hash-format = "sha1"
+hash = "c8cacd82293270e65f0b528f886c7d3b58279fd7"
+
+[update]
+[update.modrinth]
+mod-id = "54eqfZSC"
+version = "HJLh5Hib"

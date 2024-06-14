@@ -90,6 +90,11 @@ hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "117028aee504fb12600efb5bff26e8a3ee13d472ebe7e209ee122112b98fdb8e"
+metafile = true
+
+[[files]]
 file = "mods/bedrockores.pw.toml"
 hash = "102c26c562d4a146fca7eedf7583457009a0666e201ba338d073b20f5bdf4c9b"
 metafile = true
@@ -267,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "e4066c3a0dd88c76ff8944fc2ad2cbaa7a59ae758309228aa62e7c342f988878"
 metafile = true
 
 [[files]]
@@ -495,6 +505,11 @@ hash = "31d442e869d0eef066b660fe0c1ffdf98ee9b3fdd6cb5acc6ef2677f08500ad8"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "176eda94ad465f880e240ef29685dfd9b21aac18c1606c8d526b9dcad4a232f4"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "3c066f571719d9e5b1b63c6efd49bf1bf2ab93386e33612ab2b991752ff7b31b"
 metafile = true
@@ -532,6 +547,26 @@ metafile = true
 [[files]]
 file = "mods/tinkers-reforged.pw.toml"
 hash = "676eba18b3b75b06da777a90a7ae4f59c0886e56b4b3faa799f6ae73859c3974"
+metafile = true
+
+[[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "aabd57f85316f96f3263a7d8d882fc57a74bb26409cfae19a06cad5798c6818c"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "0fe1488f317c79d75828d4ebda9b4dc3e99eee4aba5ad21f29a0418d1bd827cb"
+metafile = true
+
+[[files]]
+file = "mods/twilight-delight.pw.toml"
+hash = "e85208e6207f575172d9e535fa9fb84d9876a67bbf15432d33aa3f371cd6696d"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "45951d2101d05815db6dec9940bff29ab8429d98e74d53d72cf2c7a61c360668"
 metafile = true
 
 [[files]]
