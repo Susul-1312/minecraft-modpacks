@@ -140,6 +140,11 @@ hash = "828e6940eb60f08488cb0b477530ea82bd3ec631547a279590603cf7e20de9ff"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
 file = "mods/constructs-casting.pw.toml"
 hash = "1f61f726b8fd0fcbbed1b558a79e38d62b5dd9db6f660d1d35156bb868ed4d5e"
 metafile = true
