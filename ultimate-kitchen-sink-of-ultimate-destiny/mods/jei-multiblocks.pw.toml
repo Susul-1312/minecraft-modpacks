@@ -1,6 +1,6 @@
 name = "Just Enough Immersive Multiblocks"
 filename = "jeimultiblocks-1.19.2-0.0.3.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ffLYPaWN/versions/a7cSVxhQ/jeimultiblocks-1.19.2-0.0.3.jar"

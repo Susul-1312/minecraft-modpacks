@@ -1,6 +1,6 @@
 name = "Towers of the Wild: Additions"
 filename = "totw_additions-1.2.3-1.19.x-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kzdWjLDh/versions/dk4fHUkn/totw_additions-1.2.3-1.19.x-forge.jar"

@@ -1,6 +1,6 @@
 name = "Radon"
 filename = "radon-0.8.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4AiJdRfV/versions/nswAOup6/radon-0.8.2.jar"

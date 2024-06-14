@@ -1,6 +1,6 @@
 name = "Engineered Compatibility"
 filename = "engineeredcompatibility-1.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WlumywmT/versions/v2nCBSGd/engineeredcompatibility-1.1.1.jar"

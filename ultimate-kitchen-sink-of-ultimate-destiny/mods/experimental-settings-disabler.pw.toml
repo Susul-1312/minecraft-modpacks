@@ -1,6 +1,6 @@
 name = "Experimental Settings Disabler"
 filename = "experimentalsettingsdisabler-1.19.2-1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Dafp0il6/versions/RihahsK8/experimentalsettingsdisabler-1.19.2-1.0.jar"

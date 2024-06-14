@@ -1,6 +1,6 @@
 name = "Towers of the Wild Modded"
 filename = "totw_modded-forge-1.19.2-1.0.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/54eqfZSC/versions/HJLh5Hib/totw_modded-forge-1.19.2-1.0.5.jar"

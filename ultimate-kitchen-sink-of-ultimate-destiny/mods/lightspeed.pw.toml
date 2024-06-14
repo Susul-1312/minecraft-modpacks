@@ -1,6 +1,6 @@
 name = "Lightspeed"
 filename = "lightspeed-1.19.2-1.0.5.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/US93mifm/versions/fZzwk293/lightspeed-1.19.2-1.0.5.jar"
