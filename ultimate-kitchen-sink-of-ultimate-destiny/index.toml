@@ -165,11 +165,6 @@ hash = "20e049c37e64b6a7dc0b08f52130dcea50da847b722d06c6d99430d009f8d657"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "2b2bb4f3d292853e34dfa42e51b0b6408fff73d69aa068f820360ba3704ef9de"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "584c6222a424a394a13073da4574eb7781499e192de5661bfc3ee2cba6e3f37f"
 metafile = true
