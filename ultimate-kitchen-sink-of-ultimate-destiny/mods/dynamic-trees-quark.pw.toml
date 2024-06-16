@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Quark"
+filename = "DynamicTreesQuark-1.19.2-2.4.0-Beta1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9paueCZy/versions/66uKtNAn/DynamicTreesQuark-1.19.2-2.4.0-Beta1.jar"
+hash-format = "sha1"
+hash = "c5b483970ce086db4161ad7c7f6b7da9bb2f1565"
+
+[update]
+[update.modrinth]
+mod-id = "9paueCZy"
+version = "66uKtNAn"

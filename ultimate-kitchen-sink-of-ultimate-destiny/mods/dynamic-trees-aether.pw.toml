@@ -1,0 +1,13 @@
+name = "Dynamic Trees - The Aether"
+filename = "DynamicTreesAether-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s0UnCrWE/versions/QAyqSUnb/DynamicTreesAether-1.19.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "218c782f20d09cbb411781b82ad4407a6b19f538"
+
+[update]
+[update.modrinth]
+mod-id = "s0UnCrWE"
+version = "QAyqSUnb"

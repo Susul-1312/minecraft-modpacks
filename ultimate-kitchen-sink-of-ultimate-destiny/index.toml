@@ -30,6 +30,11 @@ hash = "0404df67b1976c2bc5cbbf43af1c1a2e64d729f82213d0452f89baa0157f2d60"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "faecbf1a1a60c3d2ff515e6d27dccdbd9ecf620621b3b9986615bd1f573972e3"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "6010c37d59bb4d30d12fe1676022e6d55234da529ee2f67c3b7bdb0e2f8c2548"
 metafile = true
@@ -232,6 +237,21 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "13576d3bc089e4e93299c691f9b0b50990d8b6fc7cb220304a31ee6eb0a9fe96"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-aether.pw.toml"
+hash = "0299e558c7bb50db247a6bca03e7fcc355925680e7654e87100b92a3429f4a1f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "55760fa48da9646287c1e548f20ede55356f5eea7d05a0df2c35fb0a4f6a6ed0"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "27ad48f9aaaafd767e326b104521715c081a51207b877b23b79513322cc6301a"
 metafile = true
 
 [[files]]
