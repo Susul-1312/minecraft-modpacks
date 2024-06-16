@@ -255,6 +255,11 @@ hash = "27ad48f9aaaafd767e326b104521715c081a51207b877b23b79513322cc6301a"
 metafile = true
 
 [[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "4812af912b02e4f35ad0a531890e69e4aa42d4a03c7984e1a3e0555d7bb7eda6"
+metafile = true
+
+[[files]]
 file = "mods/engineered-compatibility.pw.toml"
 hash = "2bff4494007018d28617652c7a00a7b9c8b12b0428513471c7ab855dadbeca5d"
 metafile = true
