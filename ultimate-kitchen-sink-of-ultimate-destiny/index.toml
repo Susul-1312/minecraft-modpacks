@@ -235,11 +235,6 @@ hash = "13576d3bc089e4e93299c691f9b0b50990d8b6fc7cb220304a31ee6eb0a9fe96"
 metafile = true
 
 [[files]]
-file = "mods/ducky-periphs.pw.toml"
-hash = "e38b67ffc1ecc0726286ceb0588de4ade36805a76f55de9e81ce74497dfe4602"
-metafile = true
-
-[[files]]
 file = "mods/engineered-compatibility.pw.toml"
 hash = "2bff4494007018d28617652c7a00a7b9c8b12b0428513471c7ab855dadbeca5d"
 metafile = true
