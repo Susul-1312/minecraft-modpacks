@@ -1,6 +1,6 @@
 name = "Mine Little Pony"
 filename = "minelittlepony-4.10.1+1.19.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JBjInUXM/versions/o8zo4hLp/minelittlepony-4.10.1%2B1.19.2.jar"

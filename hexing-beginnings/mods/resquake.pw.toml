@@ -1,6 +1,6 @@
 name = "re:squake"
 filename = "resquake-1.1.1+1.19.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/a9PBgIsO/versions/cLDjCEPQ/resquake-1.1.1%2B1.19.2.jar"

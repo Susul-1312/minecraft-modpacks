@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/big-pony.pw.toml"
-hash = "fdbb91f3649c888d24a773d86d203c96dc4aded45b8fb35516347355197e1142"
+hash = "68e969b7c00545030bc94613674b5d6ac60457822a572345b6481f4b6a5bdb41"
 metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "395f904642ba5daf2cc4f6dbdbf9cede5897a80229247186d2c705f649b35b76"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cd258cf38fa6384cb6a4c4888a3a4d844fad85da355720105a5b86b30e72c0aa"
+hash = "6253d463280fa365ad41b6e85c07d9170e09b92656f68ac7b6f52811453d36af"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
-hash = "839816ce07c7cb38170e8be83a43bf1f4ddc439c3695da2a144b3d1017daaf9c"
+hash = "89365097eec89e04dbcdc218afa1d0f9697af3b9df58a3a43f5b8f6207deeef1"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
+hash = "fa942a0e8233b93fe5bfc27b00f02d22cb09c2372df106bd490945bfb0b18c5d"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/resquake.pw.toml"
-hash = "cf1f8b4dfc701693abfcd6c84a0c7902026ce51dd0a2ef3dfbe16532c7c387d4"
+hash = "bc41a72ebda120fef2a269ccdb22213b3779623acebfcf1763806199c95fe736"
 metafile = true
 
 [[files]]
@@ -157,5 +157,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
