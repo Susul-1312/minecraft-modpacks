@@ -159,7 +159,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
 metafile = true
-
-[[files]]
-file = "resourcepacks/L-T_1.4.0-format.22-dacx-vt-ct-vsp-fb-mlp-un-tk-as-crt.zip"
-hash = "53e3a2224ab76ac4b4b2cf156b73622bda7f8cdfc45680750e7786bfbb814287"
