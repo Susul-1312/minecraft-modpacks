@@ -1,0 +1,165 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
+metafile = true
+
+[[files]]
+file = "mods/big-pony.pw.toml"
+hash = "fdbb91f3649c888d24a773d86d203c96dc4aded45b8fb35516347355197e1142"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "395f904642ba5daf2cc4f6dbdbf9cede5897a80229247186d2c705f649b35b76"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "cd258cf38fa6384cb6a4c4888a3a4d844fad85da355720105a5b86b30e72c0aa"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "96936089f965ded979c8caaec787969f931ec27bf1b156357953933560fb916f"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
+metafile = true
+
+[[files]]
+file = "mods/hex-circus.pw.toml"
+hash = "f499fda084b22733e27d0ecbf8d1b2c501a90baa724ec96c4c51800442b75d2c"
+metafile = true
+
+[[files]]
+file = "mods/hex-research.pw.toml"
+hash = "114d2b5056f7d6a7240ea048ed565872335ac443b0a0a8e1ca0b14d42aa01947"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "5097014f7de56317278be09cb37559f172d60292ba9bd6cef0727057df9c9a44"
+metafile = true
+
+[[files]]
+file = "mods/hexbound-fork.pw.toml"
+hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
+metafile = true
+
+[[files]]
+file = "mods/hexgloop.pw.toml"
+hash = "be9c931d7ef0d9adfdcc367976d2c6afb58a4e4bbb3dee0fe9d0c131cf076765"
+metafile = true
+
+[[files]]
+file = "mods/hexical.pw.toml"
+hash = "c6e6e17840fcf13a5422cc569304e744deef8b56dcc48707f3577fabfd3c27f9"
+metafile = true
+
+[[files]]
+file = "mods/hexkeys.pw.toml"
+hash = "dfdf10f4ec9a33471909029ef0d05d3fec2cc3d7c632e9aa8b8230aeaeaca941"
+metafile = true
+
+[[files]]
+file = "mods/hexlink.pw.toml"
+hash = "3bc73ae67fcaa542b7115927b9a1ee9f400a44f3c0c858b81c69d42693b8bebb"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+metafile = true
+
+[[files]]
+file = "mods/kettle.pw.toml"
+hash = "94865ef86f229df1ce78a22498f41779fd56313c6e7c8efe678f7253c56c09db"
+metafile = true
+
+[[files]]
+file = "mods/mine-little-pony.pw.toml"
+hash = "839816ce07c7cb38170e8be83a43bf1f4ddc439c3695da2a144b3d1017daaf9c"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "b91b43f5107ccaa99e43b36af1f7944dffa3ba9159f1a59f996a9e726653306c"
+metafile = true
+
+[[files]]
+file = "mods/oneironaut.pw.toml"
+hash = "d971883e9f7585a6405aed58b82b25abd3bc93363c0b7022f941d24300ae9dbb"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
+metafile = true
+
+[[files]]
+file = "mods/resquake.pw.toml"
+hash = "cf1f8b4dfc701693abfcd6c84a0c7902026ce51dd0a2ef3dfbe16532c7c387d4"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/unicopia.pw.toml"
+hash = "6d812eced69b99f08b080bad1d1e3b917637588f70f2eb9225affc177d6fd0e9"
+metafile = true
+
+[[files]]
+file = "mods/wnboi.pw.toml"
+hash = "44eeee05cb8e51124585414df5221036f052c3b0a91a7c18d3dfb393db91ed15"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/L-T_1.4.0-format.22-dacx-vt-ct-vsp-fb-mlp-un-tk-as-crt.zip"
+hash = "53e3a2224ab76ac4b4b2cf156b73622bda7f8cdfc45680750e7786bfbb814287"

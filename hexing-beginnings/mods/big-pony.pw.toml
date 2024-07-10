@@ -1,0 +1,13 @@
+name = "Big Pony"
+filename = "bigpony-1.7.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h9pJxJR9/versions/GAcpiCnj/bigpony-1.7.3.jar"
+hash-format = "sha1"
+hash = "4050452b4174e5163e48d0e90a1d5e769ff11229"
+
+[update]
+[update.modrinth]
+mod-id = "h9pJxJR9"
+version = "GAcpiCnj"

@@ -1,0 +1,13 @@
+name = "Unicopia"
+filename = "Unicopia-1.0.0+lts.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9K7RJlvM/versions/Iw1RTKqh/Unicopia-1.0.0%2Blts.jar"
+hash-format = "sha1"
+hash = "3132b37be98c48770067beacae936c70b11af49e"
+
+[update]
+[update.modrinth]
+mod-id = "9K7RJlvM"
+version = "Iw1RTKqh"
