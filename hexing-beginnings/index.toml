@@ -31,11 +31,6 @@ hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
-file = "mods/gravity-api.pw.toml"
-hash = "96936089f965ded979c8caaec787969f931ec27bf1b156357953933560fb916f"
-metafile = true
-
-[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
 metafile = true
