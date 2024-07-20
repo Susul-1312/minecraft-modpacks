@@ -31,13 +31,43 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "b56373e1509eebd1cc74047efe255a274b629a93cd532eb20073fb245a807d75"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "b1fd6e846b55d997d34de078bb850e4ddd76817a93cff2b50ae000388f8123cf"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "c48c68e4e8d8bcf325bf7339b68d6f9a48046ff0b50203489bcf9430ea320e8e"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "4eac62c54987686cf5940d3e9bc064c1bead7961bf00852ed1cabbf360b8e036"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "6253d463280fa365ad41b6e85c07d9170e09b92656f68ac7b6f52811453d36af"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "05bcf7c41511e7ef926d720af2ced9634a0a7d3e21723162e50efc5bc85e26d4"
 metafile = true
 
 [[files]]
@@ -91,6 +121,21 @@ hash = "3bc73ae67fcaa542b7115927b9a1ee9f400a44f3c0c858b81c69d42693b8bebb"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "5d9c9dd72bec94920068e553b9e03e1b17e5f987e036951c672ba75e7158412b"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "b205f2fa943f3eba9abba25ba45666533c2b3db28f7e5d84e6482a97ec82e804"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "b508713a412a72a4cb5567fb2f88b16bcfb8fe2904c9bf238863e9dfd7f03101"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -108,6 +153,36 @@ metafile = true
 [[files]]
 file = "mods/kettle.pw.toml"
 hash = "94865ef86f229df1ce78a22498f41779fd56313c6e7c8efe678f7253c56c09db"
+metafile = true
+
+[[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "345c21276f4e3d4a072cd7d63371f29886cbad79841de1f36bb88e66f30c3272"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-structures.pw.toml"
+hash = "d2ae2759f4b8a3b01f555be341b36503bf3908114529bdb4b748b26995274386"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "659a671daf4e1f52228ad37628c2cf8b0825e878110dd91c5ca354f5c72c7731"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "ca1b333a6d3585cada2a2e8a23dd4c35ba79dbc8c33e0c014aa6745a12686d7f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "9e775e38dac505bf4c777d8f16fce7da9de5ee09befbfbf591c8e62ec71a2a1c"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "1dbcf2e4f28daab3ded305ab53df2123770e988ca65b54e43eae7ad7e7336243"
 metafile = true
 
 [[files]]
@@ -163,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "4662dcd6aade6b4e055d072e56dbc21062c2d8b6a8a490852dab9e9b9767aebe"
 metafile = true
 
 [[files]]
