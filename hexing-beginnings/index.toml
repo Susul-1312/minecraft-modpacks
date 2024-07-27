@@ -60,11 +60,6 @@ hash = "4eac62c54987686cf5940d3e9bc064c1bead7961bf00852ed1cabbf360b8e036"
 metafile = true
 
 [[files]]
-file = "mods/eingesackt.pw.toml"
-hash = "157d36c753cacd25a3495bf67516cccfd165094fc1c3326b37a788b76f592f47"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "6253d463280fa365ad41b6e85c07d9170e09b92656f68ac7b6f52811453d36af"
 metafile = true
@@ -220,6 +215,11 @@ hash = "d971883e9f7585a6405aed58b82b25abd3bc93363c0b7022f941d24300ae9dbb"
 metafile = true
 
 [[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "2373a4bee6fd4a65c8deecd0a76e09ebbe5761a847e1ba44190b506dd70acf1b"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
@@ -272,6 +272,16 @@ metafile = true
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "4662dcd6aade6b4e055d072e56dbc21062c2d8b6a8a490852dab9e9b9767aebe"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8ca0446a0b3082fd087e698317c616149dd85c245b51739968af43eb819604cc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "243da542a8bee0d440d15d9388328e0fa7d5a8dfd1eeb0e977054897c1479491"
 metafile = true
 
 [[files]]
