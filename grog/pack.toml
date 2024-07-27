@@ -1,0 +1,13 @@
+name = "Grog"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "71ecb02cd6348c5fbb7bd7345e903c5279ec0161efa72d442aa0068a0f76c26d"
+
+[versions]
+forge = "47.3.5"
+minecraft = "1.20.1"

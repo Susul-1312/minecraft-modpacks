@@ -1,0 +1,13 @@
+name = "The Dyson Sphere Project"
+filename = "dysonsphere-0.1-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OexhTueU/versions/cRxgkPWk/dysonsphere-0.1-2.jar"
+hash-format = "sha1"
+hash = "b0c87e842577ce7d0961ae2b1cb8d8afb9313ad0"
+
+[update]
+[update.modrinth]
+mod-id = "OexhTueU"
+version = "cRxgkPWk"

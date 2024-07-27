@@ -1,0 +1,13 @@
+name = "Create: Old Infrastructure"
+filename = "Old Infrastructure 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h7UjQwqh/versions/qtt7Iyzi/Old%20Infrastructure%201.20.1.jar"
+hash-format = "sha1"
+hash = "3066835b83cd39e589c53cf45388e6202c24cb4f"
+
+[update]
+[update.modrinth]
+mod-id = "h7UjQwqh"
+version = "qtt7Iyzi"

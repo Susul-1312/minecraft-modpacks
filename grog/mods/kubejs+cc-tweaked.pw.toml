@@ -1,0 +1,13 @@
+name = "KubeJS + CC: Tweaked"
+filename = "kjscc-1.0.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h43V4ydX/versions/lgxMlIXC/kjscc-1.0.1-beta.jar"
+hash-format = "sha1"
+hash = "14f730e4a92fe3ad58566ac2ae535100264be226"
+
+[update]
+[update.modrinth]
+mod-id = "h43V4ydX"
+version = "lgxMlIXC"

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "index.html"
+hash = "695bed67e48cd1e409772274b7409ae7139ed3771d5b6d81bbae1505e4caa577"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Let Sleeping Dogs Lie"
+filename = "LetSleepingDogsLie-1.20.1-Forge-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nLlXyNIc/versions/idi72ReE/LetSleepingDogsLie-1.20.1-Forge-1.3.0.jar"
+hash-format = "sha1"
+hash = "64a9dbaa85afcd20f821f8a714e642f2be4cf0fa"
+
+[update]
+[update.modrinth]
+mod-id = "nLlXyNIc"
+version = "idi72ReE"
