@@ -41,6 +41,11 @@ hash = "b1fd6e846b55d997d34de078bb850e4ddd76817a93cff2b50ae000388f8123cf"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "3a4d9480b66856c2014cb78e770153104d3f2d9a6089916caa29d6940eb9cc46"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "c48c68e4e8d8bcf325bf7339b68d6f9a48046ff0b50203489bcf9430ea320e8e"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "4eac62c54987686cf5940d3e9bc064c1bead7961bf00852ed1cabbf360b8e036"
+metafile = true
+
+[[files]]
+file = "mods/eingesackt.pw.toml"
+hash = "157d36c753cacd25a3495bf67516cccfd165094fc1c3326b37a788b76f592f47"
 metafile = true
 
 [[files]]
@@ -221,8 +231,23 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
+file = "mods/portable-hole.pw.toml"
+hash = "901aa05b32d458cebf7957fc068d726a56c0da1a8cdc4cdfe0a22cb95ce1056c"
+metafile = true
+
+[[files]]
+file = "mods/portal-cubed.pw.toml"
+hash = "4a9d0dccb621d0b3cd3fba514dd47b1f099e405285d6ff95361d351acfa213f5"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "fa942a0e8233b93fe5bfc27b00f02d22cb09c2372df106bd490945bfb0b18c5d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
