@@ -50,6 +50,11 @@ hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "a6619aede80ea44ae5cc7fa36eeb0eeb08adbf9229e71a85f845921780d69153"
+metafile = true
+
+[[files]]
 file = "mods/kirin.pw.toml"
 hash = "2c236a60f52ffc3c08ecbb7f77173ba021457e3e282567eae22bbf04495de84c"
 metafile = true
@@ -111,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "32183306d7fd027a408716bc1d40b66f50fdeb5ecb5ad5ee3309f7c89bd00da4"
+hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
