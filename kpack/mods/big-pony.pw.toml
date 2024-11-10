@@ -1,6 +1,6 @@
 name = "Big Pony"
 filename = "bigpony-1.12.1+1.21.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/h9pJxJR9/versions/VJOSOZI2/bigpony-1.12.1%2B1.21.jar"
