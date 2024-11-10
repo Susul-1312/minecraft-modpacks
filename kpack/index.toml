@@ -40,16 +40,6 @@ hash = "6b0efa6d411faf50dedc9326b9991eea204455e5f39c35a41b8dd3a7513f543c"
 metafile = true
 
 [[files]]
-file = "mods/fancy-delight.pw.toml"
-hash = "8ed8dfba57b78048dff0bbdcb88f12b5220056a1bc83155c9e186137a5c0d23d"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "3e6c216664f7efc1491039c36ea07fa623a6121d8b1e9a42dbc4ab1517a6b56d"
-metafile = true
-
-[[files]]
 file = "mods/hd-skins.pw.toml"
 hash = "c11718b708bed87393a6d22f315ac355e4fbbacc8cebc358803a44134af2ebe3"
 metafile = true
@@ -100,11 +90,6 @@ hash = "c0550e3a96a7245729ebce432450c4fdf0756f38c80d2fe8ab249d7b2aaa53ac"
 metafile = true
 
 [[files]]
-file = "mods/more-delight.pw.toml"
-hash = "4947e1085eb454f407d0a2ca80e3756f557e9b4e768960e59dc4ee0af56c28d5"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f80f45f4db1eff307c014f826737b5db5b2297f017182e7adca72815984a9dae"
 metafile = true
@@ -122,11 +107,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "b3e74edfdfae49c97e2958972479cb7a53ad7771b5bd7b069175b256ffaaf656"
-metafile = true
-
-[[files]]
-file = "mods/pumpkin-pie-delight.pw.toml"
-hash = "77aaafe9d46707194bbcff816a436f962ba2204aab542dee81bbe76b66ab63ad"
 metafile = true
 
 [[files]]

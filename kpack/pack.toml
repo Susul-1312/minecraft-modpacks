@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "b0f333dec4f8040cdee5c6977e41c64249d64be7c2726dad097304e4186a3d6f"
+=======
+hash = "6e4af4985399a3b82d0d8ba5ca18a673701bdd72194a07f65f07c2a762e458b9"
+>>>>>>> parent of 2128c89 (Farmers Delight!!!)
 
 [versions]
 minecraft = "1.21"
