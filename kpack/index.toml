@@ -135,11 +135,6 @@ hash = "e33981925506a57934d71cedbbfbfad727f76efc0957e0973c8520667a0946d3"
 metafile = true
 
 [[files]]
-file = "mods/rustic-delight.pw.toml"
-hash = "537f3cd73426fa15c23d3be121065b974c8f13bab2651cf0301922fa5273671c"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "c0ef7a193709757fbc3e7d94e31783eca812b8b6a3775ccbe62363223162aafc"
 metafile = true
