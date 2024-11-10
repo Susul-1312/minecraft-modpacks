@@ -1,0 +1,13 @@
+name = "Kpack"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e21db7ba5e91b5bf72b49353968f67e94e0f1ae65dab1d29a4f3f5d3269ebf0b"
+
+[versions]
+minecraft = "1.21"
+quilt = "0.27.0-beta.1"

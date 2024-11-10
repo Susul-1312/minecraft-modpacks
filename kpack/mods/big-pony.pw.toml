@@ -1,0 +1,13 @@
+name = "Big Pony"
+filename = "bigpony-1.12.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h9pJxJR9/versions/VJOSOZI2/bigpony-1.12.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "13646c2007a06c1d6c125450d6d2da6fc0129e01"
+
+[update]
+[update.modrinth]
+mod-id = "h9pJxJR9"
+version = "VJOSOZI2"
