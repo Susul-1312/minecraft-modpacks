@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/astrocraft.json"
+hash = "a5e4ce36f22b894d414ee023a5b7b697591afde15a4f7dd7ae48a9c75059c4ab"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "54d56e62cc589ed836efd59f5edb819b41bb94a4d824524ec4410173ea2d79c8"
 metafile = true
@@ -93,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
+metafile = true
+
+[[files]]
+file = "mods/hd-skins.pw.toml"
+hash = "d69a7bae47c6c727c8f0fb1176113ff426a5584c7c4214604ac5e955a33ecd7a"
 metafile = true
 
 [[files]]
