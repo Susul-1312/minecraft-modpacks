@@ -1,0 +1,13 @@
+name = "The Sky Belongs to Me"
+author = "Susul"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5784c16e3db223c60fd5275a21e3a5d3545bf7c062d75ec5481239aa3c50723a"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.28.0-beta.5"

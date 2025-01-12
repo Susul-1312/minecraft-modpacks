@@ -1,0 +1,13 @@
+name = "TIS-VS"
+filename = "tisvs-1.20.1-fabric-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zn8O677y/versions/JruITWjW/tisvs-1.20.1-fabric-0.2.1.jar"
+hash-format = "sha1"
+hash = "bcce5ebf0c52699e8ee454776664dfff8208add3"
+
+[update]
+[update.modrinth]
+mod-id = "Zn8O677y"
+version = "JruITWjW"
