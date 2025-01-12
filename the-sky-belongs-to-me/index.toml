@@ -46,11 +46,6 @@ hash = "338196f41190bb2c0b34d4a8aa10e0f41bdf339bd436ce3f738762d3e56883b8"
 metafile = true
 
 [[files]]
-file = "mods/create-bitterballen.pw.toml"
-hash = "399d4cfd3fdfa8289a90348691fe6579876d8274fa702cee4a49fa506e81722d"
-metafile = true
-
-[[files]]
 file = "mods/create-data-and-plots.pw.toml"
 hash = "1c9af5c57280ac824a09ca0e46a45078e789ad5655074c4f43bf4269135111a5"
 metafile = true
