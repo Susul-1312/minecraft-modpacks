@@ -80,6 +80,11 @@ hash = "0326f90e469344f2ca0ae026c31631497755cb52aa1dddcfc66c82e7748e0622"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
 hash = "2a323b56ae9593d1e0c332226db2a334efa6d2550faeebdd0442d420fcd081d5"
 metafile = true
