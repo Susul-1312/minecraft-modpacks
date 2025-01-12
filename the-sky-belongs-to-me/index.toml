@@ -31,6 +31,11 @@ hash = "5f0f6456c59cd7777164b8d3c12484dacc752d77c6f16dea74b60b4d397ffbb6"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "f0f18290ff48f9060307f5776f7b2307e8d2cb72aa14f3c799a63d7b1e3efe0a"
 metafile = true
@@ -73,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "0326f90e469344f2ca0ae026c31631497755cb52aa1dddcfc66c82e7748e0622"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
 metafile = true
 
 [[files]]
@@ -153,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7d7d72c26625edfc2f49247bded95192dd98bd0389bcddc82e0b03fa33661afe"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
 
 [[files]]
