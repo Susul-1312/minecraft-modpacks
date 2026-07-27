@@ -1,0 +1,13 @@
+name = "mutil"
+filename = "mutil-1.20.1-6.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HWHl8Evb/versions/ls59E7KT/mutil-1.20.1-6.3.0.jar"
+hash-format = "sha512"
+hash = "c66851d7a1b8ae8faed39fb2974e126433db3ca107ead21edae99788cd335700073812920648bcc2b0d30ef1712697ded050c2e0c314484c6f420d5150a0bdeb"
+
+[update]
+[update.modrinth]
+mod-id = "HWHl8Evb"
+version = "ls59E7KT"

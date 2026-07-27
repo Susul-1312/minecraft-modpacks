@@ -1,0 +1,13 @@
+name = "NuclearCraft: Neoteric"
+filename = "NuclearCraft-1.20.1-1.2.32.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c726975ee7ecc23e278451571ad5a99ee7ce680"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8508829
+project-id = 840010

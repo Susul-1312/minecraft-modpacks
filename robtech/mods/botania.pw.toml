@@ -1,0 +1,13 @@
+name = "Botania"
+filename = "Botania-1.20.1-454-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/Y3Gc88UV/Botania-1.20.1-454-FORGE.jar"
+hash-format = "sha512"
+hash = "2850184b7bf8f21ee19c23c1e097fdfd52160b3a032d2eb450f0515e5d190f2e9529af392f26155dbc433f4d4047f770cf6df69c40748acb92e91d3ebaa382d1"
+
+[update]
+[update.modrinth]
+mod-id = "pfjLUfGv"
+version = "Y3Gc88UV"
