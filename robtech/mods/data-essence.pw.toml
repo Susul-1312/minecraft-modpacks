@@ -1,0 +1,13 @@
+name = "Halcyon | Data & Essence"
+filename = "Halcyon-v0.3.6+tides-of-phenua.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/Jb78G6CL/Halcyon-v0.3.6%2Btides-of-phenua.jar"
+hash-format = "sha512"
+hash = "923e7f85d7716187fbfbbe514807a9ddfa0fb0d7974bbeb89cce6972b0b0b015186069cef5226ae0cda0f5221039437f07c8756615fc2dcc45c466c568ebefac"
+
+[update]
+[update.modrinth]
+mod-id = "p2r7HYfw"
+version = "Jb78G6CL"

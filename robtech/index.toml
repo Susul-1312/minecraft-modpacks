@@ -1,0 +1,149 @@
+hash-format = "sha256"
+
+[[files]]
+file = "index.html"
+hash = "b229ad28542728a13330d07dd9507669b865cd9e5fa210ffd043791baafc69cc"
+
+[[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "c912146d06f22c4e76b712f742dc3c78cd319581a946cfa4d57a74a1d0579b68"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "354e66b34e726f2f900ffbbd6cf52cafeb2fe31ed934bebae229a10a0359cbd1"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "711693f4c7a902e3386f355d60ed8fce6f1a42238f5e9209e4a7439a70ad7b6f"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "ca55f3ceb2ccbf454645c4eb691109220ad14205ca2592caf46223d81f73ced3"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
+file = "mods/data-essence.pw.toml"
+hash = "9a03286c9d09665e568d25e267ec552310661bf71aac9b829d9dbacbd116f768"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "3ba8805f4eccb4b8673b036096d7e128ffe0b0b94b226ba11970ccaa82f82168"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "7cbc557e23729a2ab1a0dfa8832359edb640a9c4b2f1919e7c43cd5c7ccfdf3c"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "0a789640dc2b4a24ccae3c0e6c3df0efdf5bafdb2569a91378d0275f34f283c3"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "2e88de6ccb041493cc6fa75ce102892ddb88529d5c380ba288c7b5f928a4f998"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "5d03d20b037a8b7a4765ded0e25146fc970964be46401dff5f9b1059875084e8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1ec4ec29a24a783f66fa71ff38f89a7119978c5f1d464b76fd77aa39ddb80d56"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "5ce73cea812cb66372354398608d37b8fefd45db242e2aced03fbde5598df311"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ff3c572cc8a57df72f4a9ee7aa06388bec703a7f9bf08068a62fe3221efe3e80"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "2c11bde21d3a730ba706278c12339f4a8bbe2fac46b7e110f409a18c408a3537"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
+file = "mods/pollution-of-the-realms.pw.toml"
+hash = "bff649573eddfe9a0f3af15051f8e5298478631c0c8af89c90de0eb4d4747d5c"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "6e3b20b2d1af0d1681580879ab0af9d74854d095b273fb3f01d3746118134094"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "b09197b44ec72d27d10aae73a731314993a7e5b5137c247256c79b1a4128048b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "21ef66049ba994e620e34e2fab8e99ca27ceef5882f76dbd6c31afed66de89c4"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "9d3caee351b004fa5fece4e3b434b55181e453f51e49f46b67a71b063928a8e2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "eac18d5d726f61bce8471d9113db5ec642db05b9bb0836a06b491ef97245ade2"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "c906ced020f34952105f7a77cab5a546cc0bf643885656fad3b76b5788a1b5f2"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "3137a3191f31274dd3543766160d76f687e39c91bcc4fd5b132809a075114207"
