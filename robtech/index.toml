@@ -35,11 +35,6 @@ hash = "ca55f3ceb2ccbf454645c4eb691109220ad14205ca2592caf46223d81f73ced3"
 metafile = true
 
 [[files]]
-file = "mods/ccx.pw.toml"
-hash = "2b59d74426325cc0e8562ce1845d3b6c071582f86f4f2cdf18b8c8c0898e8930"
-metafile = true
-
-[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
 metafile = true
