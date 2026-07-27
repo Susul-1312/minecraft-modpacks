@@ -45,11 +45,6 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
-file = "mods/data-essence.pw.toml"
-hash = "9a03286c9d09665e568d25e267ec552310661bf71aac9b829d9dbacbd116f768"
-metafile = true
-
-[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "3ba8805f4eccb4b8673b036096d7e128ffe0b0b94b226ba11970ccaa82f82168"
 metafile = true
