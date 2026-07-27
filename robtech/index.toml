@@ -5,11 +5,6 @@ file = "index.html"
 hash = "b229ad28542728a13330d07dd9507669b865cd9e5fa210ffd043791baafc69cc"
 
 [[files]]
-file = "mods/advanced-chimneys.pw.toml"
-hash = "c912146d06f22c4e76b712f742dc3c78cd319581a946cfa4d57a74a1d0579b68"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "354e66b34e726f2f900ffbbd6cf52cafeb2fe31ed934bebae229a10a0359cbd1"
 metafile = true
@@ -42,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
-metafile = true
-
-[[files]]
-file = "mods/forgeendertech.pw.toml"
-hash = "3ba8805f4eccb4b8673b036096d7e128ffe0b0b94b226ba11970ccaa82f82168"
 metafile = true
 
 [[files]]
@@ -92,11 +82,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
-metafile = true
-
-[[files]]
-file = "mods/pollution-of-the-realms.pw.toml"
-hash = "bff649573eddfe9a0f3af15051f8e5298478631c0c8af89c90de0eb4d4747d5c"
 metafile = true
 
 [[files]]
